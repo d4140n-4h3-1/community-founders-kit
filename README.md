@@ -1,5 +1,7 @@
-# [Handbook Title]
+# Community Founders Kit
 ### A Living Guide: Start Small, Earn at Market, Grow as Funds Allow
+
+**New founding group? Begin with [Start Here: Your First Season](START_HERE.md).**
 
 ---
 
@@ -79,3 +81,7 @@ The handbook is split into small files. Each part and each split chapter has its
   - [Appendix C: Planting and Market Calendar](handbook/appendices/appendix-c-planting-and-market-calendar/README.md)
   - [Appendix D: Logs, Sheets, and Reports](handbook/appendices/appendix-d-logs-sheets-and-reports/README.md)
   - [Appendix E: Tier Review Worksheet](handbook/appendices/appendix-e-tier-review-worksheet.md)
+
+## License
+
+This handbook is dedicated to the public domain under [CC0 1.0 Universal](LICENSE). Anyone may copy, adapt, translate, and share it, for any purpose, without asking permission.
