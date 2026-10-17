@@ -1,0 +1,38 @@
+[Handbook](../../../README.md) › [Part 3: Site and Infrastructure](../README.md) › [9. Shelter Evolution](README.md) ›
+
+# Floors, Comfort, Insulation, and Heating
+
+## Floor and Attic Use
+- **Ground floor:** kitchen, shared rooms, accessible bedrooms, anyone with mobility limits
+- **Second floor:** bedrooms
+- **Attic:** storage, ventilation space, and mechanicals (heat pump air handler, insulation depth)
+- The attic is **not living space** unless it meets code (minimum ceiling height, a proper stair, and an egress window)
+- Attic access by hatch or pull-down stair, not an open ladder to a sleeping area
+
+**Kit cabins and second stories:** metal buildings and kits are designed for a set load, so a second story often needs engineered framing and a stronger foundation. Get an engineer's or builder's sign-off before stacking a floor on any kit cabin.
+
+## Comfort Priority Order (cheapest and most effective first)
+1. **Shade.** Trees, shade cloth, or an awning over the roof, west wall, and windows.
+2. **Reflective roof.** White or "cool roof" coating cuts heat gain.
+3. **Insulation and air sealing.** Stops heat moving through walls and roof, and seals drafts.
+4. **Ventilation.** Lets heat out in summer and moisture out in winter.
+5. **Active heating and cooling.** Sized small, because the shell does most of the work.
+
+## Insulation
+- **Best:** closed-cell spray foam applied directly to the metal. It insulates, seals leaks, and stops condensation in one step. It is costly, so seek donations or do roofs first.
+- **Budget:** rigid foam board or mineral wool between framing, with a sealed interior wall.
+- **Cover foam insulation with an approved thermal barrier,** usually drywall (see Interior Fire Protection). Never leave foam exposed inside.
+- **Roof first.** Most summer heat comes through the roof.
+- Insulate at the attic floor or roof line, not both, and ventilate the attic to match.
+- Never leave bare metal exposed inside. Condensation causes mold and rot.
+- In block cabins, put insulation outside the block where possible.
+
+## Heating Options by Tier
+| Tier | Option | Notes |
+|---|---|---|
+| 0-1 | Wall tent with certified tent stove | Strict clearances; never leave burning unattended |
+| 2 | Vented propane heater, or small wood stove with a flue | Must vent to the outside, with proper clearances and noncombustible backing. No unvented heaters, including most kerosene heaters. |
+| 2-3 | Mini-split heat pump | Heats and cools; needs reliable electricity |
+| 3 | Low-temp sand bed under greenhouse floor | Solar- or wind-charged; extends the season (see Chapter 11) |
+| 3-4 | Solar-supported electric, upgraded insulation | Funded from market income |
+| 4 | Central sand battery with hydronic loop | Engineered; separate building; supplements mini-splits |

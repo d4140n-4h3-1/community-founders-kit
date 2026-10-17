@@ -1,0 +1,17 @@
+[Handbook](../../../README.md) › [Appendices](../README.md) › [Appendix A: Checklists](README.md) ›
+
+# A17. Interior Fire-Barrier Inspection *(each season, and in the yearly safety review)*
+- [ ] Walls and ceilings checked for holes, cracks, water stains, and soft spots
+- [ ] Drywall joints and screws intact, with no missing or damaged board
+- [ ] Penetrations around pipes, wiring, vents, and light fixtures sealed
+- [ ] Foam insulation fully covered by a thermal barrier
+- [ ] Solar tube and fixture openings in rated ceilings still have their collars or housings
+- [ ] Backing and clearances around stoves, flues, and heaters intact
+- [ ] Wet-area board (cement or moisture-resistant) dry and sound
+- [ ] Access panels, shutoffs, and detectors uncovered and working
+- [ ] Block-cabin furring cavities dry, with no moisture behind the board
+- [ ] Repairs logged, and inspection reports filed
+
+| Cabin | Date | Inspected by | Problems found | Repair done (date) |
+|---|---|---|---|---|
+| | | | | |

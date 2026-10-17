@@ -1,0 +1,12 @@
+[Handbook](../../../README.md) › [Part 2: The Market Engine](../README.md) ›
+
+# 7. Production Planning (including Crop Protection)
+
+## Sections
+
+- [Site and Crop Choice](01-site-and-crop-choice.md)
+- [Growing Practices](02-growing-practices.md)
+- [Seedlings and the Greenhouse](03-seedlings-and-the-greenhouse.md)
+- [Crop Protection](04-crop-protection.md)
+- [Harvest, Supplies, and Labor](05-harvest-supplies-and-labor.md)
+- [Tier Fit and Checklists](06-tier-fit-and-checklists.md)

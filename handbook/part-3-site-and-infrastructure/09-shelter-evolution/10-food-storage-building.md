@@ -1,0 +1,47 @@
+[Handbook](../../../README.md) › [Part 3: Site and Infrastructure](../README.md) › [9. Shelter Evolution](README.md) ›
+
+# Food Storage Building
+
+**Rule:** **Public and community food storage is built of filled concrete block (CMU), not steel.** Cabins may be steel or block. The food store is the one building where security and pest-proofing require block.
+
+**Why block**
+- Hard to cut, pry, or ram compared with sheet steel
+- Fire-resistant, so one fire doesn't take the community's food supply
+- Thermal mass keeps temperatures steadier, which protects stored food
+- Rodents can't chew through it, and there are no hollow panel cavities to nest in
+- Volunteers can build it, one course at a time
+
+**Build notes**
+- [ ] Fill cores with rebar and grout, since empty block can be broken through and cracks under load
+- [ ] Concrete slab floor, sealed, smooth, and sloped to a drain so it can be washed
+- [ ] Footing or slab below the frost line where freezing occurs
+- [ ] Damp-proof the outside and add a drainage layer, so moisture doesn't wick in
+- [ ] Seal the interior walls with washable paint or sealant (the food store keeps a washable block interior rather than drywall)
+
+**Security (the weak points)**
+A strong wall with a flimsy door is not secure. Intruders go for the door, roof, and vents.
+- [ ] **Door:** solid steel in a steel frame, with hinges inside or pinned so they can't be removed, and a deadbolt with a reinforced strike plate
+- [ ] **Roof:** fastened down hard (steel over concrete or heavy rafters), with no loose panels and no easy access from trees or adjacent buildings
+- [ ] **Windows:** none, or small, high, and barred
+- [ ] **Vents:** small, screened with metal mesh, and baffled so nothing can be reached through them
+- [ ] **Lighting:** LED motion-sensor light at the door
+- [ ] **Camera and sign:** a visible orange camera and a black-and-yellow sign at the door, under the Cameras and Surveillance Policy (Chapter 5)
+- [ ] **Visibility:** placed where it can be seen from the cabins and the main path
+- [ ] **Key control:** a written list of who has keys, with a sign-out log. Change locks when a keyholder leaves.
+
+**Food safety and pests**
+- [ ] Door sweep and tight seals, because mice get through a gap the size of a pencil
+- [ ] Shelving off the floor and away from the walls, so everything can be seen and cleaned
+- [ ] Ventilation and humidity control (a damp store grows mold)
+- [ ] Sealed containers for dry goods
+- [ ] Cold storage in a separate, powered room or unit, with a thermometer and log
+- [ ] Rotation labels (first in, first out) and a monthly inspection (Appendix A8)
+- [ ] No pesticides near food. Use traps and exclusion instead.
+- [ ] Garden chemicals are never stored here
+
+**Safety**
+- [ ] Two ways to open the door from inside, so no one is trapped
+- [ ] Smoke detector and a fire extinguisher
+- [ ] Emergency light that works in a power cut
+
+> Block is slower and more expensive than a steel kit, so plan for it in the Tier 2 budget. If local rules treat a public food store as a regulated food facility, check what they require for floors, drains, and cold storage before you build.

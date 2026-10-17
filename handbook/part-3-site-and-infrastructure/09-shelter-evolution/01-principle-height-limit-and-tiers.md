@@ -1,0 +1,55 @@
+[Handbook](../../../README.md) › [Part 3: Site and Infrastructure](../README.md) › [9. Shelter Evolution](README.md) ›
+
+# Principle, Height Limit, and Tiers
+
+## Principle
+Housing follows income. Every step up must be safe, legal where the community is located, comfortable in all seasons, and paid for by market earnings or grants, not debt. **Cabins have a noncombustible shell: steel at minimum, with filled concrete block as an approved option.** Metal heats and cools fast, so comfort comes from the shell first (shade, insulation, air sealing), then from small amounts of heating and cooling. Community food storage is always block (see the Food Storage Building section).
+
+## Height Limit
+**Maximum: two stories plus a short attic.** No cabin goes taller.
+- Lower buildings resist wind better
+- Fewer stairs and shorter escape routes make fire and emergency exits safer
+- Simple structures are easier to build, insulate, and permit
+- Check local height limits, since some set lower maximums
+
+## Tier 0: No Funds
+- Tents on platforms or pallets (keeps people off wet ground), anchored against wind
+- Donated or borrowed trailers, if permitted
+- Shade cloth or tarps over tents in summer
+- Lockable, rodent-proof bins or a donated locked container for food
+- **Garden:** low tunnels and cold frames made from hoops and plastic
+
+## Tier 1: Pilot
+- Canvas wall tents, with a certified tent stove if needed
+- Small hoop house for seedlings and early crops, with a closing door and a simple outside hasp, and valuables removed overnight
+- Covered shared space (canopy or pavilion) for meals and meetings, which serves as the first "hall"
+- Locked food containers with a key log
+- Heat-wave, cold-snap, and high-wind plans written into the charter
+
+## Tier 2: Stabilize
+- **Single-story cabins only,** with a noncombustible steel shell and a finished, fire-rated interior, to keep cost and code complexity low
+- **Block cabins are optional** where the budget, a mason or builder, and the permit are in place
+- **First metal cabin or small steel building**, used as a shared kitchen or wash-and-pack station
+- **Food storage building in filled block, with a steel door and a secured roof**, built before the greenhouse harvest scales up
+- Then **sleeping cabins sized for the households living there, up to four people each** (see Family Cabins)
+- First cabin gets shade, a reflective roof coating, and roof insulation
+- Hoop house upgraded to a proper **secured greenhouse** for seedlings, with the locks, mesh, light, and alarm described below
+- Start planning the Lodge and the Meeting Hall, so their permits, budgets, and septic are ready, and write the meeting recording policy
+
+## Tier 3: Expand
+- **Two-story cabins allowed** once the group has reliable permits and funds, with an engineer's or builder's sign-off
+- **The Community Lodge** and **the Meeting Hall** built (or permitted shared halls in use), each with an equal-booking policy
+- Additional cabins, grouped around shared facilities, with block now a practical option for new housing
+- Cold storage and a pack and loading area next to the food store
+- Full wall and floor insulation, plus a mini-split in each cabin (sized for upstairs rooms in two-story cabins)
+- Multiple greenhouses, each with the security and crop protection measures, and one heated for year-round production
+- Connect to permanent water, power, and septic
+- Animal shelter and fencing only if the group has voted to keep animals (Chapter 5)
+
+## Tier 4: Own
+- Two stories plus a short attic, built to long-term standards
+- Permanent homes with a noncombustible shell (insulated steel, or filled block with drywall on furring), built for long-term comfort
+- Solar, better windows, and thermal mass for long-term comfort
+- Greenhouse complex as a core business
+- A second equal hall only when the Lodge is regularly full
+- Yearly audit of food-store and greenhouse security, pests, and stock, of interior fire barriers, and of the meeting archive

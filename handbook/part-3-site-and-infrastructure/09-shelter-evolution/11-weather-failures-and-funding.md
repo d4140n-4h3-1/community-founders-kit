@@ -1,0 +1,38 @@
+[Handbook](../../../README.md) › [Part 3: Site and Infrastructure](../README.md) › [9. Shelter Evolution](README.md) ›
+
+# Weather, Failures, and Funding
+
+## Extreme Weather Plans
+- **Heat wave:** a designated cool space, water, and a daily check-in system for residents
+- **Cold snap:** extra blankets, rated sleeping bags, and a warm shared room
+- **High wind and dust storm:** shelter in a sturdy building, take down canopies, secure loose items, and check on everyone (Chapter 16)
+- Review these plans before each season, alongside the disaster plan in Chapter 5
+
+## Common Failures
+- Buying a cabin before water, sanitation, and permits are ready
+- Insulating walls but ignoring the roof
+- No vapor control, leading to mold
+- Skipping shade, which costs almost nothing and saves the most
+- Oversized heaters in tiny cabins, which waste fuel and add fire risk
+- Sealing a cabin tight with no ventilation or CO detector
+- Underestimating wind on greenhouses and cabins
+- Using a "short attic" as an unpermitted bedroom
+- Second-floor bedrooms with no egress window
+- Steep ladders in place of real stairs
+- Adding a second story to a cabin whose foundation was only sized for one
+- Assuming "tiny" means "exempt" (small-structure rules vary by location)
+- Strong food-store walls with a hollow-core door or a lightweight roof
+- Unfilled block that can be broken through
+- Food store with no drainage, so damp ruins the stock
+- Food-store windows or vents big enough to climb through
+- Keys copied freely, with no log
+- Gaps at the food-store door or pipe penetrations that let in rodents
+- Treating a noncombustible shell as a reason to skip interior fire protection
+
+## Funding Notes
+- Start with kits or used steel buildings for cabins; costs vary widely
+- Block cabins cost more per unit but last longer, and surplus block and local mason training can lower the cost
+- Greenhouse income (seedlings, early produce) can pay for cabins, security, and the food store
+- Ask local suppliers about donations, discounts, and used structures, including surplus block and drywall
+
+> Adjust this chapter to your climate. Hot-humid, hot-dry, cold, and windy regions weight shade, insulation, ventilation, and anchoring differently. Confirm zoning, building, and fire rules locally before buying any structure.

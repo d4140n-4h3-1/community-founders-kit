@@ -1,0 +1,16 @@
+[Handbook](../../../README.md) › [Part 4: The Tiers](../README.md) › [Tier Summaries](README.md) ›
+
+# Tier 0: No Funds
+- Borrowed or donated land, tents on platforms, hand tools, seeds
+- Founding group of 5-10, a written purpose and founding agreement, a two-signer community account, roles with backups, and a regular meeting with written minutes
+- Tested drinking water, handwashing station, legal toilet access
+- Fix the worst mud with ditches and donated gravel
+- LED lanterns only; amber lights near tents
+- Lockable, rodent-proof bins for food
+- One or two small beds, easy crops, and a soil test; feed the community first and sell only surplus
+- Consult an accountant before the first sale; start the compliance calendar and the sales log
+- A one-page budget and an expense log, with receipts kept from day one
+- Membership agreement signed by all adults, conduct rules, a first-aid kit, one trained first-aider, posted emergency numbers, and a simple conflict process
+- A chore list, weekly chart, the 12-hour guideline, an essential-task list, shared-space rules, quiet hours, and a weekly rest day
+- Boundary signs at the entrance, a visitor sign-in, a named spokesperson, and the outside incident log started
+- Begin building the cash reserve; no store-of-value purchases

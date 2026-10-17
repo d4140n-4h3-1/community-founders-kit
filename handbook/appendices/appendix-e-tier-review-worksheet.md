@@ -1,0 +1,16 @@
+[Handbook](../../README.md) › [Appendices](README.md) ›
+
+# Appendix E: Tier Review Worksheet
+
+**Date:** *[ ]* **Current tier:** *[ ]* **Tier considered:** *[ ]*
+1. Copy the unlock triggers for the next tier into the table.
+| Trigger | Met? (yes/no) | Evidence (document, log, date) | Who checked |
+|---|---|---|---|
+| | | | |
+2. **Bottlenecks:** for each trigger not met, is it money, people, permits, or records?
+3. **People check:** turnover, conflicts resolved, safeguarding lead and first-aiders in place, burnout signs, chore balance and rest days, equal use of the Lodge and the Meeting Hall
+4. **Security and records check:** outside incident log reviewed, cameras and signs inspected, greenhouse and food-store locks and key logs current, meeting archive index, backups, and access log current
+5. **Money check:** budget vs. actual, reserve balance, break-even, bad-season plan
+6. **Risks:** what could go wrong if we advance now?
+7. **Decision:** advance / stay / step back. Vote: *[for / against / abstain]*. Date: *[ ]*
+8. **Revision log entry:** *(date / tier / what was learned)*

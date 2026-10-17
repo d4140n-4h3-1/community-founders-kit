@@ -1,0 +1,13 @@
+[Handbook](../../../README.md) › [Appendices](../README.md) › [Appendix A: Checklists](README.md) ›
+
+# A15. Wind Site Assessment
+- [ ] Public wind-resource map checked, result noted: *[ ]*
+- [ ] Anemometer installed at *[height]* and logging since *[date]*
+- [ ] At least one full year of data collected (monthly average speeds: *[ ]*)
+- [ ] Average at hub height about 10 mph (4.5 m/s) or more, confirmed with an installer
+- [ ] Tower location clear of obstacles, cabins, roads, septic field, and property lines by at least the tower height plus a margin
+- [ ] Zoning, height, setback, noise, and electrical permits confirmed
+- [ ] Interconnection or utility rules checked
+- [ ] Wildlife and flight-path rules checked
+- [ ] Neighbors informed
+- [ ] Engineer sign-off on tower, foundation, and turbine

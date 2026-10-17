@@ -1,0 +1,47 @@
+[Handbook](../../../README.md) › [Part 3: Site and Infrastructure](../README.md) › [9. Shelter Evolution](README.md) ›
+
+# Family Cabins
+
+**Rule:** **A standard family cabin sleeps up to four people** (for example, two adults and two children). Smaller cabins are allowed for singles and couples, but no cabin is rated for more than four residents. Check local occupancy rules, because some places set a minimum floor area per person.
+
+**Size and layout** (starting guide, confirm locally)
+| Cabin type | Residents | Floor area (approx.) | Layout |
+|---|---|---|---|
+| Single or couple | 1-2 | 150-300 sq ft (14-28 m²) | One room, small kitchenette or shared kitchen |
+| Family | 3-4 | 400-600 sq ft (37-56 m²) | Two sleeping spaces, living area, bath access |
+
+- [ ] **Two sleeping spaces** in a family cabin, so adults and children are not forced into one room
+- [ ] Every bedroom has its own **egress window or exit**, and a smoke and CO detector
+- [ ] Minimum ceiling height and bedroom size follow local code
+- [ ] **Ground floor:** living space, a bedroom, and accessible entry. Children's bedrooms go on the second floor only if stairs are safe, lit, and have rails.
+- [ ] A **covered porch** with an amber bug light, and storage for shoes, tools, and gear
+- [ ] Space for a small table, so the family can eat together
+- [ ] The two-story and attic limits still apply (the attic is never a bedroom unless it meets code)
+
+**Services sized for four**
+- **Heating and cooling:** size the mini-split or heater to the cabin, not the whole group
+- **Power and LEDs:** plan for a family's load, using LED fixtures and solar tubes to keep it low (Chapter 14)
+- **Water and septic:** design for the **planned number of residents and bedrooms**, counting family cabins at four, with a margin (Chapter 10)
+- **Hot water:** a small tank or heat pump unit sized for four
+
+**Fit with the rest of the handbook**
+- **Planned size:** a village of 20-30 people is roughly **6-8 family cabins**, plus smaller ones. Set the planned maximum per tier before building (Chapter 5).
+- **Fees:** one lot or cabin is one household, so a resident fee is set **per lot, not per person** (Chapter 8)
+- **Safeguarding:** families with children follow the two-adult rule for other people's children, and kids stay away from septic lids, heat stores, chemicals, and wind towers (Chapter 5)
+- **Privacy:** each family has its own door, key, and private space, and no camera looks at a cabin or its windows (Chapter 5)
+- **Hours guideline:** about 12 hours a week applies to adult members, adjusted fairly for parents' childcare (Chapter 5)
+
+**Tier fit**
+- **Tier 0-1:** families may live in a **wall tent** only if local rules allow, and heat, safety, and weather plans cover children
+- **Tier 2:** the first sleeping cabins are **single-story**. Build a family cabin first only if a family is already part of the group.
+- **Tier 3:** family cabins grow to **two stories** where permits and engineering allow, with the egress, stair, and rail rules above
+- **Tier 4:** upgrade for long-term comfort, with room to adapt a cabin as the family changes
+
+**Common failures**
+- Packing four people into a one-room cabin built for one or two
+- Sizing septic or heating for fewer people than will actually live there
+- Bedrooms with no egress window, or a bedroom in the attic
+- Steep stairs with young children, and no rails or lights
+- Counting a family as one "person" in the planned size, then outgrowing the water and septic
+
+> Occupancy limits, bedroom rules, and minimum areas vary by location. Confirm them with the local building office before building.

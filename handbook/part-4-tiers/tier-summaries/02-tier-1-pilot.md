@@ -1,0 +1,19 @@
+[Handbook](../../../README.md) › [Part 4: The Tiers](../README.md) › [Tier Summaries](README.md) ›
+
+# Tier 1: Pilot
+- Water source with lab test on file; serviced portable toilet and handwashing station
+- Basic insurance, market table and canopy (anchored and weighted, with a craft table for member-made work)
+- Wall tents, small hoop house with a closing door and outside hasp, covered shared space that serves as the first hall
+- Locked food containers with a key log
+- Gravel the market-vehicle route and loading area
+- LED market lighting, small solar kit, LED entrance light
+- An anemometer installed and wind data logged
+- Septic permit and soil test started; valve pits at key shutoffs
+- Sales tax and permits registered as required; dedicated community account; receipts for all sales and donations; two-person cash counts
+- Monthly budget vs. actual, a petty cash float, and a break-even figure
+- A market plot with drip irrigation, three to five market crops, seedlings from the hoop house, and a crop plan and harvest log
+- A thermometer and twice-daily check in the hoop house, with valuables and stock removed overnight
+- A trial period for newcomers, two trained first-aiders, visitor rules, a safeguarding lead and deputy, and a first-season disaster plan that includes high wind
+- A weekly check-in meeting, a tool sign-out list, a visitor welcome sheet, and food storage and waste routines
+- A neighbor liaison, an introduction to the police non-emergency contact, and the outside-harassment response plan in the charter
+- Charter adopted from the attorney-reviewed founding agreement, including the equal-treatment wording and the noncombustible-shell rule

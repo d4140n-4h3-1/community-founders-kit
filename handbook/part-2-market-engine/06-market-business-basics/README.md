@@ -1,0 +1,10 @@
+[Handbook](../../../README.md) › [Part 2: The Market Engine](../README.md) ›
+
+# 6. Market Business Basics
+
+## Sections
+
+- [Getting Started](01-getting-started.md)
+- [Food Safety, Cash, and Sales Tax](02-food-safety-cash-and-sales-tax.md)
+- [Customers and Neighbors](03-customers-and-neighbors.md)
+- [Tier Fit and Checklists](04-tier-fit-and-checklists.md)

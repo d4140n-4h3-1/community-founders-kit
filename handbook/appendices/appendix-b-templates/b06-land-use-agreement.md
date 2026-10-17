@@ -1,0 +1,17 @@
+[Handbook](../../../README.md) › [Appendices](../README.md) › [Appendix B: Templates](README.md) ›
+
+# B6. Land-Use Agreement *(attorney drafts)*
+Key terms to include:
+- Owner, community, and the exact land (with a map)
+- Permitted uses (growing, tents or cabins, sales, gatherings) and prohibited uses
+- Term, renewal, and notice if the owner ends it, long enough to harvest a crop and relocate
+- Rent or contribution, and who pays taxes and utilities
+- Water, septic, and access, and who maintains them
+- Improvements: what may be built, who owns them, and what happens at the end
+- Signs, fencing, cameras, and locks the community may install
+- Insurance and liability
+- Right to a **purchase option or right of first refusal** (see B7)
+- Environmental condition and soil testing
+- Ending the agreement, and how disputes are resolved
+
+**Get it in writing and signed before any money or labor is invested.**

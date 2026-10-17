@@ -1,0 +1,49 @@
+[Handbook](../../README.md) › [Part 3: Site and Infrastructure](README.md) ›
+
+# 15. Porch Lights and Garden Spiders
+
+## Rule
+**Every porch keeps a bug light.** Porch lights are amber or yellow LED "bug lights," which attract far fewer insects than white light. **Garden spiders are never killed.** They are working members of the garden.
+
+## Bug Lights
+- Use LED bulbs labeled "bug light" or amber/yellow (about 2000K or lower)
+- Bug lights draw fewer insects but do not eliminate them, so pair them with screens, tight door seals, and no standing water nearby
+- Mount fixtures a few feet from the door or window when possible
+- Aim down, shield, and use a timer or motion sensor
+- Skip zappers, which kill many beneficial insects along with pests
+
+## Garden Spider Protection
+- **Do not kill, sweep away, or spray garden spiders.** Orb weavers and other web builders catch mosquitoes, flies, moths, and garden pests.
+- Move a web only if it blocks a door or path. Gently relocate the spider to a nearby shrub or fence with a cup and card.
+- Webs near porch lights help: spiders build there to catch the insects the light draws
+- Leave a few undisturbed spots, like fence corners and tall plants, as habitat
+- No broad-spectrum insecticides in or near gardens
+
+## Know Your Spiders
+Most garden spiders are harmless to people. Teach members to recognize the few that are not.
+- Learn which dangerous spiders live in your region, such as black widows and brown recluses in much of North America
+- Do not handle unknown spiders with bare hands
+- Keep dangerous spiders out of living and sleeping areas. They are not garden spiders, so the no-kill rule does not protect them indoors.
+- Keep gloves handy for woodpiles, sheds, and stacked materials
+- Seek medical care for any suspected dangerous-spider bite, and keep the first-aid and emergency plan current (Chapter 5)
+- Post a simple ID chart in the shared space (template in Appendix A10)
+
+## Other Pest Control
+- Screens and tight seals on all cabins
+- Remove standing water to cut mosquitoes
+- Healthy soil, companion planting, and hand-picking before any spray (see the pest order in Chapter 7)
+- If a spray is truly needed, choose a targeted organic option, apply at dusk away from webs, and log it
+- In the food store, use traps and exclusion, never pesticides (see Chapter 9)
+
+## Common Failures
+- White porch lights that draw clouds of insects
+- Bug zappers
+- Sweeping down every web "to be tidy"
+- Spraying the garden and wiping out the spiders that were controlling pests
+- Treating all spiders as safe, or all spiders as threats
+
+## Tier Fit
+- **Tier 0-1:** Amber LED lanterns or solar bug lights near tents and the market tent; no-kill rule in the charter
+- **Tier 2:** Amber LED fixtures on every cabin porch, with screens and sealed doors
+- **Tier 3:** Timers or motion sensors on porch lights, plus an ID chart in common spaces
+- **Tier 4:** Yearly review of pest control and spider habitat

@@ -1,0 +1,30 @@
+[Handbook](../../../README.md) › [Part 3: Site and Infrastructure](../README.md) › [10. Water, Plumbing, and Septic](README.md) ›
+
+# Utility Trenches and Access Pits
+
+**Rule:** Water, power, and data lines run in **block-lined trenches with removable covers**, or in valve pits at key points, wherever funds allow. Walk-through tunnels are not part of the handbook's tiers.
+
+**Why trenches, not tunnels**
+- Cinderblock (CMU) is cheap, modular, and easy for a volunteer crew to build
+- Removable lids let you reach a leak without digging
+- Walk-in tunnels are confined spaces (bad air, flooding, snakes, spiders) with high engineering and code costs
+
+**Build notes**
+- [ ] Gravel base with a drain, sloped to a sump or daylight outlet
+- [ ] Fill block cores with rebar and grout, since empty block cracks under soil pressure
+- [ ] Waterproof the outside and seal the joints
+- [ ] Lids rated for the load: concrete slab or steel plate for foot traffic, engineered if vehicles cross
+- [ ] Label lids by line (water, power, drain)
+
+**Separation rules**
+- Water above sewer, never beside it at the same level
+- Electrical in its own conduit, kept apart from water per code
+- **No gas lines in enclosed trenches** unless an engineer approves ventilation
+- Sewer lines need steady slope, so route the trench to match
+- Tanks and drain fields stay out of utility trenches
+- Block and a lid do not stop freezing: bury or insulate lines, and insulate lids
+
+**Where it pays off**
+- **Valve pits:** a block box at each building's shutoff (cheap, high value, Tier 1-2)
+- **Trench:** wash-and-pack station to the cabin cluster (Tier 2-3)
+- **Road crossings:** lay spare sleeves under gravel roads before graveling, so no one cuts the road later

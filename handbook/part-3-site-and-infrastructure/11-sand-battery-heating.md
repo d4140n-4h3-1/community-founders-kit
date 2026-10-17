@@ -1,0 +1,45 @@
+[Handbook](../../README.md) › [Part 3: Site and Infrastructure](README.md) ›
+
+# 11. Sand Battery Heating (Tier 3-4, funding permitting)
+
+## Principle
+A sand battery stores heat, not electricity. Surplus power (solar, wind, or cheap off-peak electricity) heats an insulated container of sand, and the stored heat is released later as warm air or water. It works best as a **central heat source for a group of buildings**, not one unit per cabin.
+
+## Honest Fit Check
+- **Strengths:** sand is cheap and long-lasting, there are few moving parts, and it can use solar or wind surplus that would otherwise be wasted
+- **Limits:** it only supplies heat (no cooling), it needs serious insulation and engineering, and small DIY versions are largely unproven
+- **Compared to a mini-split:** a heat pump usually delivers more heat per unit of electricity, so in a mild-winter region, mini-splits stay the default. Sand batteries make sense with surplus solar or wind, a goal of cutting power bills, or cold snaps that strain the grid.
+
+## Where It Fits
+- **Tier 3 (pilot):** low-temperature sand bed under a greenhouse floor or in a thermal-mass wall, charged by solar air heating. Cheap, low risk, and it extends the growing season.
+- **Tier 4 (full system):** one engineered sand battery in a separate utility building, heating a hydronic loop or air handler that serves the cabins and greenhouses.
+
+## Requirements Before Building
+- [ ] Solar or wind surplus already in place, with 1+ season of production records (wind records count, Chapter 16)
+- [ ] Mini-split heating already running in every cabin (the battery supplements it)
+- [ ] LED and daylighting standards met, so loads are as low as possible
+- [ ] Engineer's sign-off on design, sizing, and insulation
+- [ ] Permit or written approval from local authorities and the fire department
+- [ ] Budget funded from market income or grants, not debt
+
+## Safety Rules
+- **Separate building,** with a noncombustible shell. Never put a high-temperature heat store in a sleeping cabin.
+- High-temperature units reach several hundred degrees: use fire-rated insulation, clearances from combustibles, and a thermal cutoff
+- Heat exchanger loops need pressure relief, freeze protection, and insulated pipes
+- Post warning signs and limit access to trained members, and keep children away (Chapter 5)
+- Add a temperature monitor with an alarm and a written shutdown procedure
+- Include the unit in the fire department's site walkthrough
+
+## Heat Distribution
+- **Best:** insulated hydronic loop to radiant floors or wall units
+- **Simple:** fan and duct from the heat exchanger to a shared warm room
+- Buried pipes must be insulated and below frost depth
+
+## Common Failures
+- Oversizing the battery for a few small cabins
+- Poor insulation, so the heat leaks out in days
+- Building it before the solar or wind source exists
+- Skipping the engineer, then failing inspection
+- Treating it as a replacement for cabin insulation
+
+> Sand batteries are a young technology, so treat the first unit as a pilot. Log energy in, heat out, and costs, and let the revision log decide whether to build more.

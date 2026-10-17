@@ -1,0 +1,33 @@
+[Handbook](../../../README.md) › [Part 2: The Market Engine](../README.md) › [7. Production Planning (including Crop Protection)](README.md) ›
+
+# Harvest, Supplies, and Labor
+
+## Harvest, Washing, and Packing
+- Harvest in the cool of the morning, with clean tools and containers
+- Move produce into shade right away, and cool it quickly
+- Wash with potable water at the wash-and-pack station (Chapter 10), using the separate hand sink
+- Pack in clean, food-safe containers labeled with the crop and date
+- Store in cold storage or the block food store (Chapter 9), first in, first out
+- Keep a **harvest log**: date, crop, bed, quantity, and who harvested (Appendix D3). It makes a recall or complaint traceable.
+- Sick people do not harvest or pack food, and animals stay out of growing and packing areas
+- Provide toilets and hand-washing near the fields, so workers don't have to walk far
+
+## Seeds and Supplies
+- Buy from reputable suppliers, and order early
+- Save seed only from open-pollinated varieties, and label and store it cool and dry
+- Swap seed with neighbors and other communities
+- Accept donated seed, but check the variety and age before planting
+- Keep a basic tool list, maintain tools weekly, and keep the shed locked
+
+## Labor Planning
+- Estimate weekly hours for each crop, and plan for the peak weeks (planting and harvest)
+- **Train two members for every crop,** so one absence doesn't ruin a bed
+- Plan rest, shade, and water for workers in hot weather, and warmth in cold
+- Don't plant more than the available hours can tend (the 12-hour guideline in Chapter 5 is a useful starting estimate of member time)
+
+## Records and Numbers
+- **Crop plan:** what, where, when, and how much (Appendix C2)
+- **Planting and harvest logs** (Appendix D3)
+- **Yield per bed, cost per crop, sales per crop, and waste** (Appendix D4)
+- Review at the end of every season: keep what earns, change what doesn't, and drop what fails
+- Compare labor hours with income, so you know which crops are really worth the work

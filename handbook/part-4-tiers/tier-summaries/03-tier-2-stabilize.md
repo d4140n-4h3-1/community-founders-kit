@@ -1,0 +1,24 @@
+[Handbook](../../../README.md) › [Part 4: The Tiers](../README.md) › [Tier Summaries](README.md) ›
+
+# Tier 2: Stabilize
+- Single-story cabins with a noncombustible steel shell and a drywall or fire-rated interior, sized for the households living there (up to four people each); block cabins optional where budget, a mason, and the permit allow
+- Shared kitchen and plumbed wash-and-pack station
+- Food storage building in filled block, with a steel door, secured roof, key log, and monthly pest inspections
+- Septic installed and inspected before any cabin drain is connected, sized for planned bedrooms and residents
+- A secured seedling greenhouse: inside lock with a no-key exit, outside keyed lock, key log, mesh on vents, motion light, temperature alarm, backup vent opener, and stored water reserve
+- A locked pump house and shutoffs
+- Greenhouse LED grow lights on timers
+- Succession planting, post-harvest cooling, and fruit trees or berries started
+- Gravel all roads to cabins, wash-and-pack, food store, and gardens, with spare sleeves under roads
+- LED fixtures everywhere; solar tubes in the wash-and-pack station and kitchen
+- Amber bug lights, screens, and sealed doors on every porch
+- Removal and appeal process reviewed by an attorney, mediation training for two members, fire drills, and a weekly check-in
+- A written process for joining and leaving, reviewed by an attorney, and the first season review
+- A shared kitchen with posted rules, a pet policy, a written meal-cost method, and the first open day
+- The Cameras and Surveillance Policy adopted and reviewed by an attorney, with the first visible orange cameras and black-and-yellow signs at the food store, main gate, and greenhouse door
+- **The meeting recording policy written and reviewed by an attorney, with recording consent added to the membership agreement (no recording yet)**
+- Lodge and Meeting Hall planning started: permits, budgets, and septic readiness checked
+- A three-month cash forecast, approval limits in the charter, and the first annual budget reviewed by the accountant
+- Cash reserve and cost-cutting systems come first; still no store-of-value purchases
+- First short annual report published; regular surplus donations to a food bank begin
+- Voluntary contributions only; no property-tax fee

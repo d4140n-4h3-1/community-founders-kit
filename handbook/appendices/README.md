@@ -1,0 +1,13 @@
+[Handbook](../../README.md) ›
+
+# Appendices
+
+> **Using the appendices.** These are starting points to copy, print, and adapt. Anything legal (agreements, leases, fees, removal, recording, signs) needs an attorney's review before use, and anything tax-related needs an accountant's. Replace *[brackets]* with your own details.
+
+## Contents
+
+- [Appendix A: Checklists](appendix-a-checklists/README.md)
+- [Appendix B: Templates](appendix-b-templates/README.md)
+- [Appendix C: Planting and Market Calendar](appendix-c-planting-and-market-calendar/README.md)
+- [Appendix D: Logs, Sheets, and Reports](appendix-d-logs-sheets-and-reports/README.md)
+- [Appendix E: Tier Review Worksheet](appendix-e-tier-review-worksheet.md)

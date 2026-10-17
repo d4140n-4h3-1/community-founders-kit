@@ -1,0 +1,52 @@
+[Handbook](../../../README.md) › [Part 3: Site and Infrastructure](../README.md) › [10. Water, Plumbing, and Septic](README.md) ›
+
+# Septic Systems
+
+**Rule:** **No cabin, bathhouse, or wash-and-pack drain is connected until the septic system is permitted, installed by a licensed installer, and inspected.** Until then, use serviced portable toilets or a permitted holding tank.
+
+**Process (in order)**
+1. **Call the local or state authority** that permits on-site sewage systems. Rules differ by state and county.
+2. **Soil evaluation or percolation test** by a licensed professional. Clay soil is common in many regions and often rules out a standard drain field.
+3. **Design for planned capacity**, not current headcount. Size it for the Tier 3 population and the **planned bedrooms and residents, counting each family cabin at four,** with a margin. Include the halls and bathhouse.
+4. **Permit, install, inspect.** Keep the approved plan and inspection record in the community files.
+5. **Set the maintenance schedule** before the first flush.
+
+**System types**
+| Type | Fit | Watch for |
+|---|---|---|
+| Conventional tank + drain field | Good soil, lowest cost | Fails in clay or high water table |
+| Aerobic treatment (spray or drip dispersal) | Clay soil, small lots | Needs power, alarms, and a service contract |
+| Mound or engineered system | Poor soil, shallow bedrock | Higher cost, engineer required |
+| Holding tank, pumped by a hauler | Short-term or Tier 2 bridge | Ongoing hauling cost; confirm it is permitted |
+| Composting or incinerating toilets | Reduces load | Legal status varies; graywater still needs a system |
+
+**Placement**
+- [ ] Far from wells and water lines (distance set by regulation; confirm it)
+- [ ] Away from gardens, ponds, drainage paths, and property lines
+- [ ] Never under roads, parking, or cabins
+- [ ] Fence or mark the drain field, and plant only grass over it
+
+**Tank basics**
+- Concrete, fiberglass, or plastic, based on soil, groundwater, and installer advice
+- **Risers to ground level with locked, child-safe lids** so the tank can be pumped and inspected without digging
+- Effluent filter on the outlet, cleaned on schedule
+- Watertight, and anchored if groundwater is high
+
+**Safety**
+- **Septic tanks hold toxic, explosive gas. No one enters one, ever.** Pumping and repair are for licensed haulers.
+- Lids stay locked; keep kids and animals off the field
+- Aerobic systems get an alarm, tested monthly
+
+**What goes down the drain**
+- Toilet paper and human waste only. No wipes, grease, paint, solvents, or medications.
+- Septic-safe cleaners, and limit bleach
+- Spread laundry across the week instead of one big day
+- **Graywater** reuse rules vary by location, so confirm before irrigating with it
+
+**Maintenance**
+- **Pump every 3-5 years**, or as the inspector advises
+- **Yearly:** inspect the tank, filter, and field, and log it
+- **After flooding or heavy rain:** check the field for pooling or odor
+- Keep pumping receipts and inspection reports together
+
+> Tell the local authority early what you plan to build. A permit for a community of 30 is a different process than one for a single household, and some places treat a shared system as commercial.

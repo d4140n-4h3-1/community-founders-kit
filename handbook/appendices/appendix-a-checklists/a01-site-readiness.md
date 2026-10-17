@@ -1,0 +1,15 @@
+[Handbook](../../../README.md) › [Appendices](../README.md) › [Appendix A: Checklists](README.md) ›
+
+# A1. Site Readiness (before the first move-in)
+- [ ] Written land permission in hand, with the term and what is allowed
+- [ ] Local rules checked and approvals in writing (Chapter 4)
+- [ ] Drinking water tested, and a labeled storage plan in place
+- [ ] Legal toilet access and a handwashing station
+- [ ] Safe sleeping spots: level, drained, anchored against wind, away from hazards and wind-prone trees
+- [ ] Emergency numbers, site address, and directions posted
+- [ ] First-aid kit and one trained first-aider
+- [ ] Fire extinguisher, and smoke and CO detectors where people sleep
+- [ ] Food stored in locked, rodent-proof containers
+- [ ] Boundary signs posted and a visitor sign-in ready
+- [ ] Insurance in place for the activities planned
+- [ ] Access road passable for an ambulance

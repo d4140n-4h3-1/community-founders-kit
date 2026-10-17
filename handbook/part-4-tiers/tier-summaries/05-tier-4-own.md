@@ -1,0 +1,17 @@
+[Handbook](../../../README.md) › [Part 4: The Tiers](../README.md) › [Tier Summaries](README.md) ›
+
+# Tier 4: Own
+- Buy land that passes the due diligence and capacity checklists; title held by the nonprofit or trust
+- Build a property tax fund of at least one full year's bill; start the resident fee only if the exemption is denied or lapses
+- Permanent water and wastewater systems with a repair reserve
+- Long-term homes with a noncombustible shell (insulated steel, or block with drywall on furring)
+- Central sand battery, if solar or wind surplus justifies it
+- Add wind capacity only if production records justify it
+- If the 6-month reserve is full, the board may consider an inflation reserve, then a capped share of precious metals, under the Chapter 8 rules
+- A multi-year budget forecast
+- A multi-year crop rotation plan and a yearly production review that includes crop losses and their causes
+- Yearly review of conduct, safeguarding, emergency plans, security, incidents, camera logs, **the meeting archive and retention schedule,** and daily routines
+- A second equal hall only if the Lodge is regularly full
+- Scheduled road maintenance and yearly power-use, daylight, pest-control, food-store and greenhouse security, interior fire-barrier, camera and sign, tax-filing, fee-calculation, turbine, and asset-inventory audits
+- Annual report and tax filings published each year
+- Mentor new groups using this handbook, including on forming a group, people rules, daily life, and security, **using the meeting archive for lessons from the founding years,** and add them to the handbook

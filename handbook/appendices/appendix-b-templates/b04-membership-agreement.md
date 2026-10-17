@@ -1,0 +1,17 @@
+[Handbook](../../../README.md) › [Appendices](../README.md) › [Appendix B: Templates](README.md) ›
+
+# B4. Membership Agreement
+**Member:** *[name]* **Start date:** *[ ]* **Trial period ends:** *[ ]*
+- I have read the purpose, values, charter, and conduct code, and agree to follow them.
+- I understand what the community offers, what it expects (*[about 12 hours a week as a guideline, tasks]*), and that it is a pilot and may change.
+- I understand that hours are a guideline and are not a condition of my housing.
+- I understand that everyone is treated equally whatever they believe, and that there is no religious or political test for membership.
+- I understand that cameras are used only in shared and outdoor areas under the written policy, and where they are.
+- **I consent to open community and board meetings in the Meeting Hall being recorded (video and, if lawful and approved, audio) for the community archive, under the written meeting recording policy. I understand that closed sessions are never recorded, that written minutes are the official record, and that I may use the unrecorded seat or written comment.**
+- I agree to the visitor rules and safeguarding rules.
+- I understand how decisions are made and how conflicts and removals are handled.
+- I have not been asked to hand over savings, identity documents, or property to join.
+- I understand how I may leave, and what happens to keys, property, and money owed.
+- Emergency contact (held securely by two named people): *[ ]*
+
+**Signed:** *[member / date]* **Witness:** *[name / date]*

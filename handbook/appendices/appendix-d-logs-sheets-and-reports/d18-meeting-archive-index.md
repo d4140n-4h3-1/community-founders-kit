@@ -1,0 +1,8 @@
+[Handbook](../../../README.md) › [Appendices](../README.md) › [Appendix D: Logs, Sheets, and Reports](README.md) ›
+
+# D18. Meeting Archive Index
+| Meeting date | Type (community, board, hearing, seasonal review) | Recording file name | Length | Who attended (count; names only in the minutes) | Topics and votes | Closed session paused? (times, legal basis) | Minutes approved (date) | Backup copies (off-site / offline) | Access log entries |
+|---|---|---|---|---|---|---|---|---|---|
+| | | | | | | | | | |
+
+*Kept by the two archivists. Closed-session content is never indexed. Every viewing of the archive is logged.*

@@ -1,0 +1,39 @@
+[Handbook](../../../README.md) › [Part 3: Site and Infrastructure](../README.md) › [10. Water, Plumbing, and Septic](README.md) ›
+
+# Rules and Tiers
+
+## Principle
+Clean water in, wastewater out, and nothing freezing in between. Plumbing follows income like everything else, but **safe drinking water and a working toilet are required from Tier 0**, not added later.
+
+## Rules
+- **Drinking and food-contact water must be potable and tested.** Test any well, spring, or hauled source before first use and yearly after (log in Appendix A9).
+- **Never connect garden or non-potable water to drinking lines** without a backflow preventer.
+- **All wastewater goes somewhere approved.** No dumping, no straight pipes, no unpermitted septic.
+- **Low-flow fixtures only**, in the same spirit as the LED rule.
+- **Lock the pump house, shutoffs, and electrical panels,** since tampering with water or power is easier than attacking a greenhouse (Chapter 5).
+- Check local rules for wells, septic, and graywater before digging or buying. In dry regions, also check water-rights and supply rules before drilling or planning growth.
+
+## Tier Fit
+- **Tier 0:**
+  - Hauled potable water in food-grade, lidded containers, labeled and cleaned monthly
+  - Handwashing station with soap and a catch bucket
+  - Toilet access that is legal for the site (a serviced portable toilet, or a permitted option)
+  - Garden watering from rain barrels, hauled water, or a borrowed hose
+- **Tier 1:**
+  - Reliable water source: well, public water hookup, or large tank refilled by a hauler
+  - Lab test on file
+  - Frost-proof hose bibs (where freezing occurs), drip irrigation on timers, serviced portable toilet, and handwashing station
+  - Septic permit and soil test started
+- **Tier 2:**
+  - Plumbed wash-and-pack station (see below)
+  - Hot water, a sink in the shared kitchen, and a graywater plan
+  - Septic system or sewer connection, permitted and inspected, before any cabin has a toilet
+  - Valve pits at each building's shutoff, and a locked pump house
+- **Tier 3:**
+  - Plumbing in each cabin if code allows, or a shared bathhouse (cheaper and easier to maintain)
+  - Utility trench from the wash-and-pack station to the cabin cluster
+  - Rainwater collection for gardens and greenhouses
+  - Frost-protected buried lines (where freezing occurs)
+- **Tier 4:**
+  - Permanent water and wastewater systems, a maintenance schedule, and a reserve for repairs
+  - Solar-assisted hot water

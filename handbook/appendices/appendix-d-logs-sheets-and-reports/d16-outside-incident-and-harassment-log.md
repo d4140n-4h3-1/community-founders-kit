@@ -1,0 +1,8 @@
+[Handbook](../../../README.md) › [Appendices](../README.md) › [Appendix D: Logs, Sheets, and Reports](README.md) ›
+
+# D16. Outside Incident and Harassment Log
+| Date and time | Type (complaint, trespass, vandalism, theft, online, pressure on partners, threat, other) | What happened (facts only) | Evidence (photos, footage, documents) | Witnesses | Action taken and by whom | Authority notified (case number) | Follow-up and date closed |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+
+*Kept by the spokesperson and a deputy. Do not name children. Share only with the board, the attorney, and the authorities.*

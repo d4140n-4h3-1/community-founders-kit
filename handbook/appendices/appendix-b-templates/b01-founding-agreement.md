@@ -1,0 +1,20 @@
+[Handbook](../../../README.md) › [Appendices](../README.md) › [Appendix B: Templates](README.md) ›
+
+# B1. Founding Agreement
+**Name of group:** *[ ]* **Date:** *[ ]*
+1. **Purpose:** *[one paragraph]*
+2. **Values:** *[three to five]*
+3. **Founders:** *[names]*
+4. **Roles and backups:** Cash *[ ] / [ ]*. Keys *[ ] / [ ]*. Filings *[ ] / [ ]*. Safeguarding *[ ] / [ ]*. First aid *[ ] / [ ]*. Crops *[ ] / [ ]*. Spokesperson *[ ] / [ ]*. Minutes secretary *[ ] / [ ]*.
+5. **Decisions:** everyday *[ ]*, shared *[ ]*, big *[threshold and cooling-off]*, stuck *[ ]*
+6. **Meetings:** *[when, where]*. Written minutes are always the official record.
+7. **Money:** the community account has *[two]* signers. Spending limits: *[ ]*. Contributions are voluntary and recorded. Personal and community money stay separate.
+8. **Conduct and conflict:** we follow the conduct code and conflict ladder in Appendix B3.
+9. **Equal treatment:** everyone is treated equally, whatever they believe. No building is dedicated to a single belief, and the shared halls are open to all on equal terms.
+10. **Work:** each adult is asked to give about *[12]* hours a week, adjusted fairly in writing. Hours are a guideline, never a condition of housing.
+11. **Joining and leaving:** *[trial period, criteria, notice, return of property]*
+12. **Outside pressure:** we follow the outside-harassment response plan, with *[spokesperson]* speaking for the community.
+13. **If the group dissolves:** money and property go to *[a named nonprofit or purpose]*, after debts are paid. *(Attorney to confirm.)*
+14. **Review date:** *[ ]*
+
+**Signed:** *[name / date for each founder]*

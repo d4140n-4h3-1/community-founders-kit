@@ -1,0 +1,11 @@
+[Handbook](../../../README.md) › [Appendices](../README.md) › [Appendix D: Logs, Sheets, and Reports](README.md) ›
+
+# D10. Annual Report Template
+1. **Who we are:** purpose and values (one paragraph)
+2. **Our year:** members, market days, harvests, number of recorded meetings (never content), what we learned
+3. **Money:** total income, total spending, reserve balance, taxes and fees paid, archive and security costs
+4. **Giving back:** food donated (amounts), volunteer hours, local purchases and hires
+5. **Safety and care:** drills held, training done, incidents (no private details)
+6. **Savings and improvements:** LED, daylighting, and any solar or wind savings, new systems, road and building work
+7. **Next year:** goals, the tier we are in, and what we need
+8. **Contact:** how neighbors can reach the neighbor liaison

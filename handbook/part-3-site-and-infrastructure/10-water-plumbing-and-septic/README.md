@@ -1,0 +1,11 @@
+[Handbook](../../../README.md) › [Part 3: Site and Infrastructure](../README.md) ›
+
+# 10. Water, Plumbing, and Septic
+
+## Sections
+
+- [Rules and Tiers](01-rules-and-tiers.md)
+- [Wash-and-Pack, Sources, and Hot Water](02-wash-and-pack-sources-and-hot-water.md)
+- [Utility Trenches and Access Pits](03-utility-trenches-and-access-pits.md)
+- [Septic Systems](04-septic-systems.md)
+- [Safety, Maintenance, and Failures](05-safety-maintenance-and-failures.md)
