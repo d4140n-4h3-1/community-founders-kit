@@ -46,7 +46,7 @@ Many places exempt nonprofits and land trusts on purpose, because they serve a p
 5. If it becomes harassment or a threat, follow the outside harassment response plan (Chapter 5), document it, and involve the local authorities or an attorney
 
 **Tier fit**
-- **Tier 0:** consult an accountant before any sale, learn whether sales tax applies, and start the compliance calendar
+- **Tier 0:** consult an accountant before any sale, learn whether sales tax applies, register before the first taxable sale, and start the compliance calendar
 - **Tier 1:** register for sales tax or permits as required, keep sales logs, and hold a dedicated account
 - **Tier 2:** publish the first short annual report, and start a regular donation of surplus
 - **Tier 3:** form the nonprofit or land trust, apply for any exemption, and document the basis for it

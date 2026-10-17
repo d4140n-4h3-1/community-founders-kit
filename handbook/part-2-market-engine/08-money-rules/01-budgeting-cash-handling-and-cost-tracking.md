@@ -76,7 +76,7 @@ Nobody approves a payment to themselves or a relative. Another person approves i
 - **Tier 1:** monthly budget vs. actual, two-person cash counts, a petty cash float, and a break-even figure
 - **Tier 2:** a three-month cash forecast, approval limits in the charter, and the first annual budget reviewed by the accountant
 - **Tier 3:** a yearly budget by project, a capital plan for buildings and systems, and audited or independently reviewed records
-- **Tier 4:** a multi-year forecast, the property tax fund, and a published annual report
+- **Tier 4:** a multi-year forecast and the property tax fund, alongside the annual report published every year since Tier 2
 
 **Common failures**
 - No budget, so a big bill is a surprise

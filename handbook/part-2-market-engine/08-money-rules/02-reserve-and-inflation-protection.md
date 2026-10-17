@@ -47,8 +47,8 @@
 - Keep the reserve policy in the community files, and update it when the law or the budget changes
 
 **Tier fit**
-- **Tier 0-2:** no store-of-value purchases. Build the cash reserve and the cost-cutting systems.
-- **Tier 3:** write the reserve policy into the charter, and open an insured account for the reserve.
+- **Tier 0-2:** no store-of-value purchases. Build the cash reserve in an insured account, reaching 2 months of costs before Tier 3, and build the cost-cutting systems.
+- **Tier 3:** write the reserve policy into the charter, and grow the reserve toward 6 months of costs.
 - **Tier 4:** if the 6-month reserve is full, the board may consider Layer 3, then a capped Layer 4. Review yearly.
 - **Graduation:** record what worked and what didn't, and add it to the handbook.
 

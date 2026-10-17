@@ -47,7 +47,7 @@
 **Tier fit**
 - **Tier 2:** the first cabins get drywall on walls and ceilings, with Type X or cement board near heat sources
 - **Tier 2-3:** every new block cabin is framed and finished inside as part of the build, not left bare
-- **Tier 3:** the Lodge, Meeting Hall, kitchen, and bathhouse follow the fire-rating rules for assembly and wet areas
+- **Tier 2-3:** the shared kitchen (Tier 2), and the Lodge, Meeting Hall, and bathhouse (Tier 3), follow the fire-rating rules for assembly and wet areas as each is built
 - **Tier 4:** inspect and repair the interior fire barriers during the yearly safety review (Appendix A17)
 
 **Common failures**

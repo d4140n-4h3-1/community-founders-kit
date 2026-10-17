@@ -37,8 +37,8 @@
 **Tier fit**
 - **Tier 0:** boundary signs at the entrance, a visitor sign-in, a named spokesperson, and the outside incident log started
 - **Tier 1:** a neighbor liaison, an introduction to the police non-emergency contact, and the response plan written into the charter
-- **Tier 2:** locks and lights on the food store, greenhouses, and pump house, and a trusted attorney on call
-- **Tier 3:** cameras under the written policy below, and a yearly review of incidents with the board
+- **Tier 2:** locks and lights on the food store, greenhouses, and pump house, a trusted attorney on call, and the first cameras under the written policy below
+- **Tier 3:** more cameras under the same policy, and a yearly review of incidents with the board
 - **Tier 4:** audit security, incidents, and responses yearly
 
 **Common failures**

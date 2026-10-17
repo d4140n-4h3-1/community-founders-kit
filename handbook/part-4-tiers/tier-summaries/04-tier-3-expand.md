@@ -13,7 +13,7 @@
 - Pilot sand bed in a greenhouse
 - Optional pilot wind turbine for a shared building, greenhouse, or heat store, only with a year of wind data, engineer sign-off, and permits
 - Motion-sensor LEDs on paths, roads, the pump house, and greenhouse doors; spider ID chart in common spaces
-- More cameras (pump house, loading area, and a neutral backup camera) with off-site storage, an offline alert, a logged-access custodian pair, and a retention limit
+- More cameras (pump house, loading area, and a neutral backup camera) under the same off-site storage, offline alert, custodian, access-log, and retention rules adopted at Tier 2
 - A board with non-residents hearing appeals, an independent route for complaints, and a leadership succession plan
 - A bathhouse rota, a laundry schedule, volunteer days, and a monthly chore chart review
 - Animals are optional: only if the group votes to keep them, with a care lead, backup, daily rota, and budget in place first

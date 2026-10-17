@@ -53,8 +53,8 @@
 
 **Tier fit**
 - **Tier 0-1:** no cameras. Use signs, lights, locks, and the daily checks, and write the policy.
-- **Tier 2:** adopt the policy, get an attorney's review, and install a visible camera at the food store, main gate, and greenhouse door
-- **Tier 3:** add the pump house, the loading area, and a neutral backup camera, with off-site storage and an offline alert, and install the Meeting Hall recording system if the community has adopted that policy (Chapter 9)
+- **Tier 2:** adopt the policy, get an attorney's review, and install a visible camera at the food store, main gate, and greenhouse door, with off-site storage and an offline alert from the first camera
+- **Tier 3:** add the pump house, the loading area, and a neutral backup camera, and install the Meeting Hall recording system if the community has adopted that policy (Chapter 9)
 - **Tier 4:** review the policy, retention, access logs, and incidents yearly
 
 **Common failures**

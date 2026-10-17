@@ -44,8 +44,8 @@
 
 **Tier fit**
 - **Tier 1:** the hoop house has a closing door with a simple outside hasp, and valuables are removed overnight
-- **Tier 2:** the seedling greenhouse gets the inside lock, the outside keyed lock, polycarbonate glazing where practical, mesh on the vents, a motion light, and a key log
-- **Tier 3:** multiple greenhouses, a door or glass-break alarm, and cameras under the written policy
+- **Tier 2:** the seedling greenhouse gets the inside lock, the outside keyed lock, polycarbonate glazing where practical, mesh on the vents, a motion light, a key log, and a camera at the door under the written policy
+- **Tier 3:** multiple greenhouses, each with the same measures, and a door or glass-break alarm
 - **Tier 4:** review the greenhouse security log yearly with the food-store audit
 
 **Common failures**

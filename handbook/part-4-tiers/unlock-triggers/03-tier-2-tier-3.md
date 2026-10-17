@@ -13,7 +13,7 @@
 - [ ] Two members trained to handle cash and bookkeeping
 - [ ] Removal and appeal process reviewed by an attorney
 - [ ] Joining and leaving process written down and reviewed by an attorney, and the first season review held
-- [ ] Equal-treatment wording reviewed by an attorney
+- [ ] Equal-treatment wording re-checked by an attorney before the Lodge and Meeting Hall open
 - [ ] Shared kitchen rules, pet policy, and meal-cost method written down, and the first open day held
 - [ ] First annual report published, with tax and fee payments shown
 - [ ] Housing meets local code or has written approval for its current use

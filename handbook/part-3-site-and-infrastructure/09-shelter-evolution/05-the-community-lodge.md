@@ -33,7 +33,8 @@
 
 **Tier fit**
 - **Tier 1:** a covered shared space, such as a canopy or pavilion, serves as the first "hall"
-- **Tier 2-3:** build the Lodge once the permit, budget, and septic are ready, and it can seat the planned community
+- **Tier 2:** plan the Lodge: permit, budget, and septic readiness
+- **Tier 3:** build the Lodge once those are ready, large enough to seat the planned community
 - **Tier 4:** add a second hall or an addition only when the Lodge is regularly full. Bookings stay equal.
 
 **Common failures**
