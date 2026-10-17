@@ -11,7 +11,7 @@
 8. Safeguarding rules and policies
 9. Daily life: the hours guideline, rest day, essential tasks, quiet hours, and (if ever kept) animals
 10. Buildings: height limit, cabin occupancy limit of four, noncombustible shell and fire-rated interior, food store, greenhouse locks, and Lodge and Meeting Hall booking rules
-11. Security and privacy: the outside-harassment response plan, the Cameras and Surveillance Policy, and the meeting recording policy
+11. Security and privacy: the outside-harassment response plan, the Cameras and Surveillance Policy, the meeting recording policy, and the firearms policy
 12. Money: accounts, spending limits, reserve, taxes, fees, reports
 13. Energy: LED and daylight rules, and the wind-turbine conditions
 14. Land: how it is bought, who holds title

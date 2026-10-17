@@ -1,0 +1,16 @@
+[Handbook](../../../README.md) › [Appendices](../README.md) › [Appendix A: Checklists](README.md) ›
+
+# A21. Firearms Storage and Farm-Gun Inspection *(monthly, for community-owned farm guns)*
+- [ ] Cabinet or safe locked, and bolted to the floor or wall
+- [ ] Every listed farm gun present, and each one checked unloaded
+- [ ] Ammunition locked separately, and the count matches the discharge log
+- [ ] Keys or combinations held only by the two named custodians
+- [ ] The four rules and the shooting-zone map posted inside the cabinet door
+- [ ] Each firearm clean and working, with any fault tagged and the firearm taken out of use
+- [ ] Hearing and eye protection, lights, and a locked case for transport in place
+- [ ] Named users' training current
+- [ ] Owners' yearly storage statements on file (Appendix B11)
+
+| Date | Inspected by (1) | Inspected by (2) | Firearms present | Ammunition count | Problems found | Action taken |
+|---|---|---|---|---|---|---|
+| | | | | | | |

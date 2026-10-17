@@ -4,7 +4,7 @@
 - [ ] Written land permission in hand
 - [ ] Local legal requirements checked and any needed approvals in writing (Chapter 4)
 - [ ] Founding agreement signed, a two-signer community account open, roles named with backups, and a regular meeting schedule with written minutes (Chapter 2)
-- [ ] Charter adopted by all members (includes the equal-treatment, LED, garden-spider, pesticide, food-storage, greenhouse-lock, camera-policy, meeting-recording, noncombustible-shell, cash-count, spending-limit, conduct and removal, outside-harassment response, hours guideline, cabin-occupancy, reserve, tax and reporting, resident-fee, and land-title rules, and what happens to money and property if the group dissolves)
+- [ ] Charter adopted by all members (includes the equal-treatment, LED, garden-spider, pesticide, food-storage, greenhouse-lock, camera-policy, meeting-recording, firearms, noncombustible-shell, cash-count, spending-limit, conduct and removal, outside-harassment response, hours guideline, cabin-occupancy, reserve, tax and reporting, resident-fee, and land-title rules, and what happens to money and property if the group dissolves)
 - [ ] Membership agreement signed by all adults, with a first-aid kit, one trained first-aider, and posted emergency numbers
 - [ ] The 12-hour guideline, a chore chart, an essential-task rota, shared-space rules, quiet hours, and a weekly rest day in use
 - [ ] Accountant consulted, and a compliance calendar started with two responsible members

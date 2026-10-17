@@ -36,7 +36,7 @@ Before anyone commits, talk through these topics and write down the answers. Dis
 - **Money:** who pays for what, who holds the money, and what happens if the money runs out
 - **Housing:** who lives on site, in what, and for how long
 - **Children and vulnerable people:** who may be present, and the safeguarding rules (Chapter 5)
-- **Substances and weapons:** the group's policy, within local law (Chapter 5)
+- **Substances and weapons:** the group's policy, within local law, including the firearms policy that applies even where the law is less strict (Chapter 5)
 - **Beliefs:** the community is neutral and treats everyone equally, with shared halls open to all (Chapter 3)
 - **Privacy and security:** what is recorded, where, and who may see it, including whether open meetings are recorded for an archive (Chapters 5 and 9)
 - **Decisions:** how choices are made (see below) and who can veto what

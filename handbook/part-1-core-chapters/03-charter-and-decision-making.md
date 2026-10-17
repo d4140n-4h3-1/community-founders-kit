@@ -21,6 +21,7 @@
 - Spending limits and approval levels are set in the charter, and the budget is reviewed against actuals every month.
 - No broad-spectrum pesticides are used in or near gardens, and every spray is logged.
 - Conduct rules, the conflict ladder, the removal and appeal process, safeguarding rules, and the weapons and substances policies are written into the charter. No one is removed without the written process, except in an immediate safety emergency.
+- Firearms follow the written firearms policy, even where state law is less strict: semi-automatic rifles and shotguns are stored locked and unloaded, pistols are carried concealed or not at all, and manual rifles and shotguns are farm tools for protecting livestock, handled only by trained, named adults.
 - Outside harassment follows the written response plan: calm, documented, and never retaliatory, with one named spokesperson.
 - Each adult member is asked to give about 12 hours of work a week, adjusted fairly in writing. Hours are a guideline and are never a condition of housing.
 - Animals are optional and start at Tier 3 or later. Keeping animals needs a group vote, and animals that are kept are fed, watered, and checked every day.

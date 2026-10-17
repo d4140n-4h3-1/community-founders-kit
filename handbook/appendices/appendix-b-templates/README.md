@@ -16,3 +16,4 @@
 - [B8. Charter Outline](b08-charter-outline.md)
 - [B9. Cameras and Surveillance Policy Template *(attorney reviews before use)*](b09-cameras-and-surveillance-policy-template.md)
 - [B10. Meeting Recording Policy Template *(attorney reviews before use)*](b10-meeting-recording-policy-template.md)
+- [B11. Firearms Policy Template *(attorney reviews before use)*](b11-firearms-policy-template.md)

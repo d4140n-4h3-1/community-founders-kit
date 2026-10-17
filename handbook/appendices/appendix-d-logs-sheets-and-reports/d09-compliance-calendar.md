@@ -13,3 +13,4 @@
 | Turbine inspection (if installed) | | | | | | | |
 | Camera policy review | | | | | | | |
 | Meeting recording policy review | | | | | | | |
+| Firearms policy review and storage statements | | | | | | | |

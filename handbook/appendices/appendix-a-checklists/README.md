@@ -24,3 +24,4 @@
 - [A18. Greenhouse Security and Crop Protection *(monthly, with the daily check logged on the chore chart)*](a18-greenhouse-security-and-crop-protection.md)
 - [A19. Camera and Sign Inspection *(monthly, with the food-store check)*](a19-camera-and-sign-inspection.md)
 - [A20. Meeting Recording Checklist *(every recorded meeting)*](a20-meeting-recording-checklist.md)
+- [A21. Firearms Storage and Farm-Gun Inspection *(monthly, for community-owned farm guns)*](a21-firearms-storage-and-farm-gun-inspection.md)

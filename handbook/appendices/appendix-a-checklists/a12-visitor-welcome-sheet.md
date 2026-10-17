@@ -8,6 +8,7 @@
 - Quiet hours are: *[times]*
 - Children must stay with an adult
 - No smoking or open flames except at: *[place]*
+- Firearms follow our firearms policy, even where the law is less strict: long guns stay locked in your vehicle or in your host's safe, pistols are carried concealed or locked away, and firearms are never allowed at *[list]*. Ask your host before you arrive.
 - Cameras are in use at: *[list]*, shown by orange cameras and black-and-yellow signs
 - Open meetings in the Meeting Hall are recorded for the community archive. Guests may sit in the unrecorded area or leave.
 - In an emergency: call *[local emergency number]*, and tell a member. The first-aid kit is at *[place]*. The meeting point is *[place]*.

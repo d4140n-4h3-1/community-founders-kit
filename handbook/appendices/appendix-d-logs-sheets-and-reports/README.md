@@ -22,3 +22,4 @@
 - [D16. Outside Incident and Harassment Log](d16-outside-incident-and-harassment-log.md)
 - [D17. Camera Access Log](d17-camera-access-log.md)
 - [D18. Meeting Archive Index](d18-meeting-archive-index.md)
+- [D19. Firearm Discharge Log](d19-firearm-discharge-log.md)

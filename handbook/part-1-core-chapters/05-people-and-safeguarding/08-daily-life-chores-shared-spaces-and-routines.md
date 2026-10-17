@@ -1,4 +1,4 @@
-[Handbook](../../../README.md) › [Part 1: Core Chapters](../README.md) › [5. People and Safeguarding (including Daily Life, Outside Harassment and Community Security, and Cameras)](README.md) ›
+[Handbook](../../../README.md) › [Part 1: Core Chapters](../README.md) › [5. People and Safeguarding (including Daily Life, Outside Harassment and Community Security, Cameras, and Firearms Safety)](README.md) ›
 
 # Daily Life: Chores, Shared Spaces, and Routines
 
@@ -87,6 +87,7 @@ Common spaces are the heart of daily life, and the place where small conflicts b
 - [ ] A daily rota puts two people on every day, rest days and illness included
 - [ ] Feed, shelter, fencing, and vet costs are in the budget (Chapter 8)
 - [ ] Local rules are checked, and the disaster plan includes the animals (Appendix D15)
+- [ ] A predator plan is written: prevention first, and any farm guns under the Firearms Safety rules
 - [ ] Animals are kept away from produce, the wash-and-pack station, the food store, and drinking water (Chapters 7 and 10)
 - [ ] Manure is composted before it goes near food crops (Chapter 7), and any sale of meat, eggs, or dairy follows strict food rules (Chapter 6)
 

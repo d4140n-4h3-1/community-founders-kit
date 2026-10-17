@@ -1,4 +1,4 @@
-[Handbook](../../../README.md) › [Part 1: Core Chapters](../README.md) › [5. People and Safeguarding (including Daily Life, Outside Harassment and Community Security, and Cameras)](README.md) ›
+[Handbook](../../../README.md) › [Part 1: Core Chapters](../README.md) › [5. People and Safeguarding (including Daily Life, Outside Harassment and Community Security, Cameras, and Firearms Safety)](README.md) ›
 
 # Membership and Conduct
 
@@ -24,7 +24,7 @@
 - Respect for everyone's beliefs, with no pressure or promotion in shared spaces (Chapter 3)
 - Honesty with money, keys, and records (Chapters 6 and 8)
 - **Substances:** a written policy that follows local law. At minimum: no illegal drug dealing, no use by anyone handling food or machinery, no use by anyone responsible for children, and no impaired driving.
-- **Weapons:** a written policy that follows local law, covering carrying, storage, and where they are never allowed. Decide it as a group before it becomes an argument.
+- **Weapons:** a written policy that follows local law, covering carrying, storage, and where they are never allowed. Decide it as a group before it becomes an argument. For firearms, start from the Firearms Safety section, which applies even where the law is less strict.
 - **Fire and cooking:** open flames, stoves, and heaters follow the safety rules in Chapters 9 and 10, and no one tampers with detectors, fire barriers, locks, cameras, or recording equipment
 
 ## Visitors and the Public

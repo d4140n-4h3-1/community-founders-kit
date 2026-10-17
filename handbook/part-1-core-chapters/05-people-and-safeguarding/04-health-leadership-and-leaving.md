@@ -1,4 +1,4 @@
-[Handbook](../../../README.md) › [Part 1: Core Chapters](../README.md) › [5. People and Safeguarding (including Daily Life, Outside Harassment and Community Security, and Cameras)](README.md) ›
+[Handbook](../../../README.md) › [Part 1: Core Chapters](../README.md) › [5. People and Safeguarding (including Daily Life, Outside Harassment and Community Security, Cameras, and Firearms Safety)](README.md) ›
 
 # Health, Leadership, and Leaving
 

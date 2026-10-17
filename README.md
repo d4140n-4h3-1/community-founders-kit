@@ -17,7 +17,7 @@
 2. Forming a Group
 3. Charter and Decision-Making (including Equal Treatment and Shared Space)
 4. Legal Basics
-5. People and Safeguarding (including Daily Life, Outside Harassment and Community Security, and the Cameras and Surveillance Policy)
+5. People and Safeguarding (including Daily Life, Outside Harassment and Community Security, the Cameras and Surveillance Policy, and Firearms Safety)
 
 **Part 2: The Market Engine**
 6. Market Business Basics (including Sales Tax and the Craft Table)
@@ -39,10 +39,10 @@
 - Unlock Triggers
 
 **Appendices**
-- **A.** Checklists (site readiness, sanitation, market day and production, roads and lighting, pest control, winterizing, land due diligence, food-store security and pests, weekly chore chart, visitor welcome sheet, optional animal care sheet, Lodge booking and closing, wind site assessment, turbine inspection log, interior fire-barrier inspection, greenhouse security and crop protection, camera and sign inspection, meeting recording checklist), water-test log, spider ID chart
-- **B.** Templates (founding agreement, first-meeting agenda, conduct code, membership agreement, residents' agreement, land-use agreement, right of first refusal, charter outline, cameras and surveillance policy, meeting recording policy)
+- **A.** Checklists (site readiness, sanitation, market day and production, roads and lighting, pest control, winterizing, land due diligence, food-store security and pests, weekly chore chart, visitor welcome sheet, optional animal care sheet, Lodge booking and closing, wind site assessment, turbine inspection log, interior fire-barrier inspection, greenhouse security and crop protection, camera and sign inspection, meeting recording checklist, firearms storage and farm-gun inspection), water-test log, spider ID chart
+- **B.** Templates (founding agreement, first-meeting agenda, conduct code, membership agreement, residents' agreement, land-use agreement, right of first refusal, charter outline, cameras and surveillance policy, meeting recording policy, firearms policy)
 - **C.** Planting and market calendar, and crop plan template
-- **D.** Logs, sheets, and reports (sales, cash count, harvest, yield and cost, budget, expenses, contributions and volunteer hours, assets, compliance calendar, annual report, fee worksheet, property tax fund, incident report, emergency contacts, disaster plan, outside incident and harassment log, camera access log, meeting archive index)
+- **D.** Logs, sheets, and reports (sales, cash count, harvest, yield and cost, budget, expenses, contributions and volunteer hours, assets, compliance calendar, annual report, fee worksheet, property tax fund, incident report, emergency contacts, disaster plan, outside incident and harassment log, camera access log, meeting archive index, firearm discharge log)
 - **E.** Tier review worksheet
 
 ---
@@ -56,7 +56,7 @@ The handbook is split into small files. Each part and each split chapter has its
   - [2. Forming a Group](handbook/part-1-core-chapters/02-forming-a-group.md)
   - [3. Charter and Decision-Making](handbook/part-1-core-chapters/03-charter-and-decision-making.md)
   - [4. Legal Basics](handbook/part-1-core-chapters/04-legal-basics.md)
-  - [5. People and Safeguarding (including Daily Life, Outside Harassment and Community Security, and Cameras)](handbook/part-1-core-chapters/05-people-and-safeguarding/README.md)
+  - [5. People and Safeguarding (including Daily Life, Outside Harassment and Community Security, Cameras, and Firearms Safety)](handbook/part-1-core-chapters/05-people-and-safeguarding/README.md)
 - [Part 2: The Market Engine](handbook/part-2-market-engine/README.md)
   - [6. Market Business Basics](handbook/part-2-market-engine/06-market-business-basics/README.md)
   - [7. Production Planning (including Crop Protection)](handbook/part-2-market-engine/07-production-planning/README.md)

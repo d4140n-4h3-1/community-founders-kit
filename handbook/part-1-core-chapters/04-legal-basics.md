@@ -14,6 +14,7 @@
 - **Taxes and filings:** sales tax, property tax, income and payroll rules, and annual reports (see Chapter 8)
 - **Resident fees:** whether a monthly fee counts as rent or lot rent, what tenant rights and eviction rules follow, and fair-housing rules
 - **People rules:** background-check and screening law, mandatory reporting of suspected abuse, anti-discrimination law, religious-freedom and belief-based discrimination law, and local rules on weapons and substances (see Chapters 3 and 5)
+- **Firearms:** carry permits and where carrying is banned, storage and child-access prevention laws, transport rules, private-transfer and background-check rules, hunting licenses, rules on killing predators and protected species, depredation permits, and what the insurer requires (see Chapter 5, Firearms Safety)
 - **Recording and signs:** laws on video and audio recording (many places require consent from everyone recorded, and states differ), notice or sign requirements, privacy of children, how long footage may be kept, and trespass-sign wording (see Chapter 5)
 - **Meetings and records:** open-meeting or record-keeping rules that apply to the organization type, how long minutes and recordings must or may be kept, and whether recorded meetings are subject to disclosure requests (see Chapter 9)
 - **Work expectations:** whether an hours expectation tied to housing could be treated as rent or employment (see Chapter 5)
