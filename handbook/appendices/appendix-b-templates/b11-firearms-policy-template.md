@@ -10,7 +10,7 @@
 7. **Children:** no access to firearms, ammunition, keys, or combinations. Taught "Don't touch. Leave the area. Tell an adult."
 8. **Visitors:** follow the same rules, are told before they arrive, and never use a farm gun.
 9. **Crisis:** any member may ask for temporary off-site storage, and asking is never held against them. Brandishing or threatening with a firearm falls under the immediate safety exception.
-10. **Records:** owners sign the yearly storage statement below. No list of personal firearms is kept. Community farm guns are listed, with two key custodians: *[name]* and *[name]*. Every shot fired on the land is logged (Appendix D19).
+10. **Records:** owners sign the yearly storage statement below. No list of personal firearms is kept. Community farm guns are listed, with two key custodians: *[name]* and *[name]*. Every shot fired on the land is logged ([Appendix D19](../appendix-d-logs-sheets-and-reports/d19-firearm-discharge-log.md)).
 11. **Insurer told:** *[date]*
 12. **Review date:** *[ ]*
 

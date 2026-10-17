@@ -20,4 +20,4 @@
 - [ ] Footbath or boot change and clean tools in use
 - [ ] Heaters, grow lights, and timers checked, and fire rules followed
 - [ ] Wind anchors and covers checked
-- [ ] Losses, damage, and causes logged (Appendix D13 or D16)
+- [ ] Losses, damage, and causes logged (Appendix [D13](../appendix-d-logs-sheets-and-reports/d13-incident-report-form.md) or [D16](../appendix-d-logs-sheets-and-reports/d16-outside-incident-and-harassment-log.md))

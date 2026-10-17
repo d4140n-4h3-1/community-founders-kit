@@ -3,7 +3,7 @@
 # Firearms Safety
 
 ## Principle
-**The law is the floor, not the ceiling.** These rules apply even where state and local law are gun friendly. A state that allows open carry, permitless carry, or unlocked storage does not change what the community expects. Owning a firearm is the owner's choice, and the community does not ask anyone to give one up. In return, every firearm on the land is stored, carried, and handled under one written policy that every member and visitor follows (template in Appendix B11).
+**The law is the floor, not the ceiling.** These rules apply even where state and local law are gun friendly. A state that allows open carry, permitless carry, or unlocked storage does not change what the community expects. Owning a firearm is the owner's choice, and the community does not ask anyone to give one up. In return, every firearm on the land is stored, carried, and handled under one written policy that every member and visitor follows (template in [Appendix B11](../../appendices/appendix-b-templates/b11-firearms-policy-template.md)).
 
 The policy sorts firearms into three groups, because each one carries a different risk:
 
@@ -47,7 +47,7 @@ Carrying is a personal choice. Members who choose to carry follow these rules, s
 Bolt, lever, pump, break-action, and single-shot rifles and shotguns are working tools on a farm. They protect livestock from predators and can end the suffering of a badly injured animal when a vet cannot reach it in time. They are treated with the same seriousness as any other dangerous tool, and with more care than most.
 
 **Who may use them**
-- [ ] Only **named, trained adults**, usually the animal-care lead and backup (Chapter 5, Daily Life), plus anyone else the board approves
+- [ ] Only **named, trained adults**, usually the animal-care lead and backup ([Chapter 5, Daily Life](08-daily-life-chores-shared-spaces-and-routines.md)), plus anyone else the board approves
 - [ ] Each one has completed a **hunter education or firearms safety course** and practiced with the specific firearm
 - [ ] Each one knows the **local law on killing predators,** which animals are protected, and when a permit is needed
 
@@ -71,12 +71,12 @@ Bolt, lever, pump, break-action, and single-shot rifles and shotguns are working
 
 **Prevention comes first**
 - Most livestock losses are prevented by **good fencing, secure night pens, lights, and guardian animals,** not by shooting. Use them first.
-- Remove what draws predators: carcasses, open feed, and uncovered compost (Chapter 7).
+- Remove what draws predators: carcasses, open feed, and uncovered compost ([Chapter 7](../../part-2-market-engine/07-production-planning/README.md)).
 - Ask the local wildlife agency or agricultural extension service about non-lethal options and depredation permits.
 
 **After any shot is fired**
 - [ ] Unload, and check that no person or animal was hit by mistake
-- [ ] Record the date, time, place, reason, firearm, and shooter in the discharge log (Appendix D19)
+- [ ] Record the date, time, place, reason, firearm, and shooter in the discharge log ([Appendix D19](../../appendices/appendix-d-logs-sheets-and-reports/d19-firearm-discharge-log.md))
 - [ ] Report to the wildlife agency where the law requires it, especially for any protected species
 - [ ] Tell nearby neighbors when they may have heard shots, so a predator shot isn't mistaken for a threat
 
@@ -96,7 +96,7 @@ Bolt, lever, pump, break-action, and single-shot rifles and shotguns are working
 - [ ] Ask about firearms storage before a child visits another home in the community, and expect the same question in return
 
 ## Visitors
-- [ ] Visitors follow the same rules. Hosts tell them before they arrive (visitor welcome sheet, Appendix A12).
+- [ ] Visitors follow the same rules. Hosts tell them before they arrive (visitor welcome sheet, [Appendix A12](../../appendices/appendix-a-checklists/a12-visitor-welcome-sheet.md)).
 - [ ] A visitor's long gun stays locked in their vehicle or is stored in the host's safe. A visitor's pistol is carried concealed or locked away.
 - [ ] No visitor uses a farm gun or shoots on the land
 
@@ -104,20 +104,20 @@ Bolt, lever, pump, break-action, and single-shot rifles and shotguns are working
 - **Suicide is the largest share of firearm deaths in many places.** Locked storage buys time, and time saves lives.
 - A member who is struggling, or whose household is in crisis, may ask to have their firearms **stored temporarily off site** with a trusted person, a dealer, or a law enforcement agency, where local law allows. Asking is encouraged and is never held against anyone.
 - If someone may be a danger to themselves or others, follow the crisis steps in Health, Safety, and Emergencies and call the crisis line or emergency services. Some places have legal processes for temporarily removing firearms.
-- **Brandishing, threatening with, or reaching for a firearm during a dispute** breaks the conduct rules and falls under the immediate safety exception (Chapter 5, Conflict and Removal).
+- **Brandishing, threatening with, or reaching for a firearm during a dispute** breaks the conduct rules and falls under the immediate safety exception ([Chapter 5, Conflict and Removal](03-conflict-and-removal.md)).
 
 ## Records and Upkeep
-- Each owner signs a yearly statement that their firearms are stored to this policy (Appendix B11). The community does **not** keep a list of personal firearms or serial numbers.
-- **Community-owned farm guns** are listed, with two named custodians for the cabinet keys, and inspected monthly (Appendix A21)
+- Each owner signs a yearly statement that their firearms are stored to this policy ([Appendix B11](../../appendices/appendix-b-templates/b11-firearms-policy-template.md)). The community does **not** keep a list of personal firearms or serial numbers.
+- **Community-owned farm guns** are listed, with two named custodians for the cabinet keys, and inspected monthly ([Appendix A21](../../appendices/appendix-a-checklists/a21-firearms-storage-and-farm-gun-inspection.md))
 - Clean firearms only after unloading and checking them, in a private space, away from food and children
 - **Sales and transfers** between members follow the law for private transfers, including any background-check requirement
-- **Tell the insurer** that firearms are kept on the land, and check what coverage and storage it requires (Chapter 4)
+- **Tell the insurer** that firearms are kept on the land, and check what coverage and storage it requires ([Chapter 4](../04-legal-basics.md))
 
 ## Tier Fit
 - **Tier 0:** write the firearms policy into the charter before anyone brings a firearm onto the land. In tents and trailers, firearms stay in a locked case cabled to something solid, in a locked vehicle safe, or off site.
 - **Tier 1:** every firearm owner on site has a safe or lockbox. The four rules are posted, and the policy is in the visitor welcome sheet.
 - **Tier 2:** cabins have bolted-down safes. Anyone who carries has completed a handgun safety course.
-- **Tier 3:** if the group votes to keep livestock (Chapter 5, Daily Life), the predator plan is written: prevention first, named and trained users, a locked cabinet near the animals, the shooting-zone map, and the discharge log.
+- **Tier 3:** if the group votes to keep livestock ([Chapter 5, Daily Life](08-daily-life-chores-shared-spaces-and-routines.md)), the predator plan is written: prevention first, named and trained users, a locked cabinet near the animals, the shooting-zone map, and the discharge log.
 - **Tier 4:** review the policy, the discharge log, and any incidents yearly, and teach new groups the policy as part of mentoring.
 
 ## Common Failures
@@ -133,8 +133,8 @@ Bolt, lever, pump, break-action, and single-shot rifles and shotguns are working
 - A child who knows where the key is hidden
 
 ## Money and Legal Tie-In
-- Firearm owners buy their own safes. The community budget covers the farm-gun cabinet, training, and ammunition for community-owned farm guns (Chapter 8).
-- Check carry permits, storage law, child-access prevention law, transport law, private-transfer law, hunting and depredation rules, and insurance requirements (Chapter 4)
+- Firearm owners buy their own safes. The community budget covers the farm-gun cabinet, training, and ammunition for community-owned farm guns ([Chapter 8](../../part-2-market-engine/08-money-rules/README.md)).
+- Check carry permits, storage law, child-access prevention law, transport law, private-transfer law, hunting and depredation rules, and insurance requirements ([Chapter 4](../04-legal-basics.md))
 - Include training completed and any discharges (no private details) in the annual report
 
 > Firearm laws on carrying, storage, transport, transfer, and killing predators differ widely by country, state, county, and city, and they change. This handbook gives no legal advice, so have an attorney review the firearms policy, and check hunting and depredation rules with the local wildlife agency, before any firearm is used on the land.

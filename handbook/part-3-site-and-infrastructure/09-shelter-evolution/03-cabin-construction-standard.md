@@ -8,7 +8,7 @@
 - Steel and block don't feed a fire, which helps against wildfire embers and spread between buildings
 - **Steel can still fail in a hot fire,** and insulation, finishes, and contents still burn, so detectors, exits, and clearances are never skipped
 - Fire safety rules are unchanged: smoke and CO detectors, egress from every bedroom, extinguishers, and vented heaters only
-- Use fire-rated or noncombustible roofing and vents, and ember-resistant screens, where wildfire is a risk (Chapter 16)
+- Use fire-rated or noncombustible roofing and vents, and ember-resistant screens, where wildfire is a risk ([Chapter 16](../16-wind-power-and-wind-safety.md))
 
 **Steel vs. block**
 | | Steel cabin (minimum) | Block cabin (option) |

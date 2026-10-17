@@ -33,7 +33,7 @@
 - Land is bought only after due diligence, a cooling-off period, a supermajority vote (threshold set here), and board approval.
 - Title to all land is held by the nonprofit or land trust, never by an individual member.
 
-*(A charter outline is in Appendix B8.)*
+*(A charter outline is in [Appendix B8](../appendices/appendix-b-templates/b08-charter-outline.md).)*
 
 ## Equal Treatment and Shared Space
 
@@ -41,7 +41,7 @@
 
 **Buildings**
 - **No building is dedicated to a single belief, faith, or political cause.** This applies to every belief equally, including non-religious ones.
-- **Two shared halls,** the Community Lodge for social and general use and the Meeting Hall for governance meetings (Chapter 9), serve everyone on equal terms
+- **Two shared halls,** the Community Lodge for social and general use and the Meeting Hall for governance meetings ([Chapter 9](../part-3-site-and-infrastructure/09-shelter-evolution/README.md)), serve everyone on equal terms
 - Each hall is **booked on equal terms**, first come first served, with the same rules and costs for every group
 - Nothing permanent is displayed in shared spaces that favors one belief. Personal items belong in private spaces.
 - Residents may hold quiet worship or gatherings **in their own homes,** or in the Lodge by booking, within the conduct and quiet-hours rules
@@ -51,7 +51,7 @@
 - No required participation in anyone's ceremonies, prayers, or events
 - No promoting beliefs during shared work, at the market stand, or to visitors
 - Reasonable accommodation for dress, diet, rest days, and holidays, applied fairly
-- Disputes over belief follow the same conflict ladder as any other (Chapter 5)
+- Disputes over belief follow the same conflict ladder as any other ([Chapter 5](05-people-and-safeguarding/README.md))
 
 **Legal check (before adopting)**
 - [ ] Have an attorney confirm that the wording is neutral and complies with fair-housing, religious-freedom, and anti-discrimination law where the community is located

@@ -7,7 +7,7 @@
 - [ ] Off-site or cloud storage working, a test clip retrieved, and the offline alert and battery backup tested (each season)
 - [ ] Black-and-yellow signs present at every camera area, readable, not faded, defaced, or missing
 - [ ] Sign wording matches the policy, and mentions audio only if audio is lawful and in use
-- [ ] Two custodians named, and the access log is current (Appendix D17)
+- [ ] Two custodians named, and the access log is current ([Appendix D17](../appendix-d-logs-sheets-and-reports/d17-camera-access-log.md))
 - [ ] Footage older than the retention limit deleted, except kept incident footage
 - [ ] Motion lights near cameras working
 - [ ] **Meeting Hall camera, microphone, indicator light, and entrance sign working, with the recorder and drive in the locked cabinet and archive backups current**

@@ -13,9 +13,9 @@
 - [ ] Unsold perishables are donated or composted, never resold later
 
 ## Cash and Sales Records
-- **Two people** count the cash box at the start and end of every market day (Appendix D2)
+- **Two people** count the cash box at the start and end of every market day ([Appendix D2](../../appendices/appendix-d-logs-sheets-and-reports/d02-cash-count-sheet.md))
 - Start with a set float, and sign the count
-- Record every sale in the sales log (date, item, quantity, price, payment type, Appendix D1)
+- Record every sale in the sales log (date, item, quantity, price, payment type, [Appendix D1](../../appendices/appendix-d-logs-sheets-and-reports/d01-sales-log.md))
 - Give receipts on request, and issue receipts for donations
 - Deposit takings promptly into the community account
 - Accept digital payments if possible, since they leave a record and reduce theft risk
@@ -27,5 +27,5 @@
 - Learn whether sales tax applies to each product
 - Register before the first taxable sale
 - Collect the tax, keep it separate, and remit it on schedule
-- Put every filing date on the compliance calendar (Chapter 8)
+- Put every filing date on the compliance calendar ([Chapter 8](../08-money-rules/README.md))
 - Keep records for the period local law requires

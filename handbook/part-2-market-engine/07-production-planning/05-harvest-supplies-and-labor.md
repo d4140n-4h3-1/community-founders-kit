@@ -5,10 +5,10 @@
 ## Harvest, Washing, and Packing
 - Harvest in the cool of the morning, with clean tools and containers
 - Move produce into shade right away, and cool it quickly
-- Wash with potable water at the wash-and-pack station (Chapter 10), using the separate hand sink
+- Wash with potable water at the wash-and-pack station ([Chapter 10](../../part-3-site-and-infrastructure/10-water-plumbing-and-septic/README.md)), using the separate hand sink
 - Pack in clean, food-safe containers labeled with the crop and date
-- Store in cold storage or the block food store (Chapter 9), first in, first out
-- Keep a **harvest log**: date, crop, bed, quantity, and who harvested (Appendix D3). It makes a recall or complaint traceable.
+- Store in cold storage or the block food store ([Chapter 9](../../part-3-site-and-infrastructure/09-shelter-evolution/README.md)), first in, first out
+- Keep a **harvest log**: date, crop, bed, quantity, and who harvested ([Appendix D3](../../appendices/appendix-d-logs-sheets-and-reports/d03-harvest-log.md)). It makes a recall or complaint traceable.
 - Sick people do not harvest or pack food, and animals stay out of growing and packing areas
 - Provide toilets and hand-washing near the fields, so workers don't have to walk far
 
@@ -23,11 +23,11 @@
 - Estimate weekly hours for each crop, and plan for the peak weeks (planting and harvest)
 - **Train two members for every crop,** so one absence doesn't ruin a bed
 - Plan rest, shade, and water for workers in hot weather, and warmth in cold
-- Don't plant more than the available hours can tend (the 12-hour guideline in Chapter 5 is a useful starting estimate of member time)
+- Don't plant more than the available hours can tend (the 12-hour guideline in [Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md) is a useful starting estimate of member time)
 
 ## Records and Numbers
-- **Crop plan:** what, where, when, and how much (Appendix C2)
-- **Planting and harvest logs** (Appendix D3)
-- **Yield per bed, cost per crop, sales per crop, and waste** (Appendix D4)
+- **Crop plan:** what, where, when, and how much ([Appendix C2](../../appendices/appendix-c-planting-and-market-calendar/c02-crop-plan-template.md))
+- **Planting and harvest logs** ([Appendix D3](../../appendices/appendix-d-logs-sheets-and-reports/d03-harvest-log.md))
+- **Yield per bed, cost per crop, sales per crop, and waste** ([Appendix D4](../../appendices/appendix-d-logs-sheets-and-reports/d04-yield-and-cost-sheet.md))
 - Review at the end of every season: keep what earns, change what doesn't, and drop what fails
 - Compare labor hours with income, so you know which crops are really worth the work

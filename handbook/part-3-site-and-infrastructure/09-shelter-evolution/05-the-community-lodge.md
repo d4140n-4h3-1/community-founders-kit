@@ -2,7 +2,7 @@
 
 # The Community Lodge
 
-**Rule:** **The Lodge is the community's general-purpose social hall, open to every resident on equal terms.** It is not dedicated to any belief, faith, party, or club (see Equal Treatment and Shared Space, Chapter 3). In the charter it may be called "Community Lodge" or "Commons Hall," and it is defined by function. Governance meetings are held in the Meeting Hall, not here. **The Lodge has no cameras and no recording.**
+**Rule:** **The Lodge is the community's general-purpose social hall, open to every resident on equal terms.** It is not dedicated to any belief, faith, party, or club (see Equal Treatment and Shared Space, [Chapter 3](../../part-1-core-chapters/03-charter-and-decision-making.md)). In the charter it may be called "Community Lodge" or "Commons Hall," and it is defined by function. Governance meetings are held in the Meeting Hall, not here. **The Lodge has no cameras and no recording.**
 
 **What it is used for**
 - Informal weekly check-ins (unrecorded)
@@ -14,22 +14,22 @@
 **Design**
 - [ ] **Steel or block shell with a steel roof,** built to code, insulated like a cabin, and finished inside with fire-rated board where the code requires. Block if it also holds the food store.
 - [ ] **One large room** with movable tables and chairs, so it can be rearranged for any use
-- [ ] **A small kitchen** that ties into the wash-and-pack water and septic plan (Chapter 10)
+- [ ] **A small kitchen** that ties into the wash-and-pack water and septic plan ([Chapter 10](../10-water-plumbing-and-septic/README.md))
 - [ ] **A covered porch** with an amber bug light, plus a woodstove with a flue or a mini-split sized for the room
 - [ ] **A quiet corner** or side room for anyone who wants to sit alone
 - [ ] **Accessible entry** and restrooms, and two exits sized for the occupancy limit
-- [ ] **Solar tubes and LED lighting** (Chapter 14), and a motion-sensor light at the door
+- [ ] **Solar tubes and LED lighting** ([Chapter 14](../14-lighting-standard.md)), and a motion-sensor light at the door
 - [ ] **Posted occupancy limit,** smoke and CO detectors, extinguishers, and an emergency light
 - [ ] **No permanent shrines, symbols, or banners** that favor any belief. Groups bring their own items for their event and take them home.
-- [ ] **No cameras inside the Lodge** (Chapter 5)
+- [ ] **No cameras inside the Lodge** ([Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md))
 
 **Rules of use**
 - Booked on a **shared calendar, first come first served,** with the same rules and costs for everyone
 - A **booking limit per group per month,** so no one group dominates
-- Cleaned and reset after every use, with a sign-out for the key (Appendix A14)
-- Quiet hours and conduct rules apply (Chapter 5)
+- Cleaned and reset after every use, with a sign-out for the key ([Appendix A14](../../appendices/appendix-a-checklists/a14-lodge-booking-sheet-and-closing-checklist.md))
+- Quiet hours and conduct rules apply ([Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md))
 - Visitors and outside groups follow the visitor rules, and are hosted by a member
-- Disputes over bookings follow the conflict ladder (Chapter 5)
+- Disputes over bookings follow the conflict ladder ([Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md))
 
 **Tier fit**
 - **Tier 1:** a covered shared space, such as a canopy or pavilion, serves as the first "hall"

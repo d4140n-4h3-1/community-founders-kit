@@ -2,7 +2,7 @@
 
 # Cameras and Surveillance Policy
 
-**Rule:** **Cameras deter and record, but they must never turn into watching the residents.** The community uses visible, bright orange cameras with black-and-yellow signs in shared and outdoor areas only, under a written policy that residents have seen. A camera is never the only protection. It works alongside locks, lights, and the daily checks. **The one named exception is the Meeting Hall recording (Chapter 9), which has its own consent, audio, retention, and access rules.** Every other camera follows the rules below.
+**Rule:** **Cameras deter and record, but they must never turn into watching the residents.** The community uses visible, bright orange cameras with black-and-yellow signs in shared and outdoor areas only, under a written policy that residents have seen. A camera is never the only protection. It works alongside locks, lights, and the daily checks. **The one named exception is the Meeting Hall recording ([Chapter 9](../../part-3-site-and-infrastructure/09-shelter-evolution/README.md)), which has its own consent, audio, retention, and access rules.** Every other camera follows the rules below.
 
 **Why visible, not hidden**
 - A visible camera deters casual vandals, and a hidden one only records the damage
@@ -20,7 +20,7 @@
 - [ ] **Real, working units,** not dummies, since fakes fail once someone tests them
 - [ ] **Mounted high,** angled so it cannot be reached or covered from the ground, with cables in conduit and tamper-resistant fasteners
 - [ ] **Off-site or cloud storage,** so smashing a camera does not destroy the footage, with battery or solar backup and an alert if it loses power or goes offline
-- [ ] **A motion-sensor LED light** nearby, shielded and aimed down (Chapter 14)
+- [ ] **A motion-sensor LED light** nearby, shielded and aimed down ([Chapter 14](../../part-3-site-and-infrastructure/14-lighting-standard.md))
 - [ ] **A backup camera in a neutral color,** covering the visible one from another angle. It is disclosed in this policy and to the board, and residents are told where cameras are, though not the exact lens position.
 
 **The sign standard**
@@ -32,7 +32,7 @@
 
 **Who sees the footage**
 - [ ] **A named custodian and a backup,** so no one person controls access
-- [ ] **Every viewing is logged** (who, when, why) in the camera access log (Appendix D17)
+- [ ] **Every viewing is logged** (who, when, why) in the camera access log ([Appendix D17](../../appendices/appendix-d-logs-sheets-and-reports/d17-camera-access-log.md))
 - [ ] **Footage is for incidents,** not for monitoring residents or settling personal arguments
 - [ ] **Only the safeguarding lead and the board** review incident footage, with a second person present
 - [ ] **A retention limit** (for example, 30 days), after which footage is deleted, unless an incident needs it kept longer
@@ -42,19 +42,19 @@
 - [ ] **Security footage and Meeting Hall recordings never share storage or custodians**
 
 **Care and upkeep**
-- Inspect cameras, signs, lights, and storage monthly with the food-store check (Appendix A19)
+- Inspect cameras, signs, lights, and storage monthly with the food-store check ([Appendix A19](../../appendices/appendix-a-checklists/a19-camera-and-sign-inspection.md))
 - Replace faded, missing, or defaced signs promptly, since a missing sign weakens the notice
 - Test the offline alert, the battery backup, and a sample retrieval each season
 - Keep camera and storage costs in the expense log
 
 **What cameras do not do**
 - They do not stop a determined person, tampering with water or power, or an insider with a key
-- They do nothing against the most common causes of crop loss: weather, pests, power or water failure, and mistakes (Chapter 7, Crop Protection)
+- They do nothing against the most common causes of crop loss: weather, pests, power or water failure, and mistakes ([Chapter 7, Crop Protection](../../part-2-market-engine/07-production-planning/04-crop-protection.md))
 
 **Tier fit**
 - **Tier 0-1:** no cameras. Use signs, lights, locks, and the daily checks, and write the policy.
 - **Tier 2:** adopt the policy, get an attorney's review, and install a visible camera at the food store, main gate, and greenhouse door, with off-site storage and an offline alert from the first camera
-- **Tier 3:** add the pump house, the loading area, and a neutral backup camera, and install the Meeting Hall recording system if the community has adopted that policy (Chapter 9)
+- **Tier 3:** add the pump house, the loading area, and a neutral backup camera, and install the Meeting Hall recording system if the community has adopted that policy ([Chapter 9](../../part-3-site-and-infrastructure/09-shelter-evolution/README.md))
 - **Tier 4:** review the policy, retention, access logs, and incidents yearly
 
 **Common failures**

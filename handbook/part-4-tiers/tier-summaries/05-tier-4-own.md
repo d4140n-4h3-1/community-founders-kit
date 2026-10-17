@@ -7,7 +7,7 @@
 - Long-term homes with a noncombustible shell (insulated steel, or block with drywall on furring)
 - Central sand battery, if solar or wind surplus justifies it
 - Add wind capacity only if production records justify it
-- If the 6-month reserve is full, the board may consider an inflation reserve, then a capped share of precious metals, under the Chapter 8 rules
+- If the 6-month reserve is full, the board may consider an inflation reserve, then a capped share of precious metals, under the [Chapter 8](../../part-2-market-engine/08-money-rules/README.md) rules
 - A multi-year budget forecast
 - A multi-year crop rotation plan and a yearly production review that includes crop losses and their causes
 - Yearly review of conduct, safeguarding, emergency plans, security, incidents, camera logs, **the meeting archive and retention schedule,** and daily routines

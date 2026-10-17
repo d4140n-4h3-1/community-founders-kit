@@ -20,13 +20,13 @@
 - [ ] **No easy climbing:** keep trees, stacks, and sheds away from the roof edge
 
 **Lighting, visibility, and alerts**
-- [ ] **LED motion-sensor light** at the door, aimed down and shielded (Chapter 14)
+- [ ] **LED motion-sensor light** at the door, aimed down and shielded ([Chapter 14](../14-lighting-standard.md))
 - [ ] **Placed where it is seen** from cabins and the main path, with clear lines of sight
-- [ ] **A visible orange camera and black-and-yellow sign** at the door, under the Cameras and Surveillance Policy (Chapter 5)
+- [ ] **A visible orange camera and black-and-yellow sign** at the door, under the Cameras and Surveillance Policy ([Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md))
 - [ ] **A simple door or glass-break alarm,** battery or solar powered, if the budget allows
 
 **What goes inside, and what does not**
-- [ ] **Tools, chemicals, and fuel are not stored in the greenhouse** (Chapter 7)
+- [ ] **Tools, chemicals, and fuel are not stored in the greenhouse** ([Chapter 7](../../part-2-market-engine/07-production-planning/README.md))
 - [ ] **Seedlings and plant stock** are the main target, so keep a count in the harvest or sales log
 - [ ] **No cash or card reader** is left in the greenhouse
 - [ ] **Heaters and grow lights** follow the fire rules and are switched off when the greenhouse is empty, unless a thermostat protects crops from freezing
@@ -35,7 +35,7 @@
 - Greenhouses get **very hot and humid.** A person locked in on a summer day can be in danger within an hour or two, so never lock anyone inside, and check on anyone working alone.
 - Check **CO and heat** where fuel heaters are used, and keep vents working
 - Every worker knows the **emergency exit,** and it is tested each season
-- Children and visitors do not enter alone (Chapter 5)
+- Children and visitors do not enter alone ([Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md))
 
 **Key control**
 - A written list of key holders and a sign-out log, as for the food store

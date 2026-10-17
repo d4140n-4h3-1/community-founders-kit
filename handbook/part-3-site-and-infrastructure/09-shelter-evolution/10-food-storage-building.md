@@ -25,7 +25,7 @@ A strong wall with a flimsy door is not secure. Intruders go for the door, roof,
 - [ ] **Windows:** none, or small, high, and barred
 - [ ] **Vents:** small, screened with metal mesh, and baffled so nothing can be reached through them
 - [ ] **Lighting:** LED motion-sensor light at the door
-- [ ] **Camera and sign:** a visible orange camera and a black-and-yellow sign at the door, under the Cameras and Surveillance Policy (Chapter 5)
+- [ ] **Camera and sign:** a visible orange camera and a black-and-yellow sign at the door, under the Cameras and Surveillance Policy ([Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md))
 - [ ] **Visibility:** placed where it can be seen from the cabins and the main path
 - [ ] **Key control:** a written list of who has keys, with a sign-out log. Change locks when a keyholder leaves.
 
@@ -35,7 +35,7 @@ A strong wall with a flimsy door is not secure. Intruders go for the door, roof,
 - [ ] Ventilation and humidity control (a damp store grows mold)
 - [ ] Sealed containers for dry goods
 - [ ] Cold storage in a separate, powered room or unit, with a thermometer and log
-- [ ] Rotation labels (first in, first out) and a monthly inspection (Appendix A8)
+- [ ] Rotation labels (first in, first out) and a monthly inspection ([Appendix A8](../../appendices/appendix-a-checklists/a08-food-store-security-and-pests.md))
 - [ ] No pesticides near food. Use traps and exclusion instead.
 - [ ] Garden chemicals are never stored here
 

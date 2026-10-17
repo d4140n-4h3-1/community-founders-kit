@@ -8,7 +8,7 @@
 - [ ] Foundation: gravel pad, piers, or slab, depending on local code (sized for the number of stories and the shell material)
 - [ ] Two stories maximum, counting any loft used for sleeping
 - [ ] Cabin rated for no more than four residents, with a separate egress and detector for each bedroom
-- [ ] Upper floors tied to the foundation and anchored against wind (Chapter 16)
+- [ ] Upper floors tied to the foundation and anchored against wind ([Chapter 16](../16-wind-power-and-wind-safety.md))
 - [ ] Written approval or permit for the use (storage vs. living)
 
 **Safety**
@@ -36,7 +36,7 @@
 
 **Lighting and pests**
 - [ ] LED fixtures only
-- [ ] Solar tube installed with a metal-roof flashing kit and an insulated tube, using a rated collar where it passes through a rated ceiling (see Chapter 14)
+- [ ] Solar tube installed with a metal-roof flashing kit and an insulated tube, using a rated collar where it passes through a rated ceiling (see [Chapter 14](../14-lighting-standard.md))
 - [ ] Amber bug-light LED on every porch
 - [ ] Screens on windows and doors, with tight seals
 
@@ -47,4 +47,4 @@
 - [ ] LED grow lights only, if used
 - [ ] Used for plants only, not sleeping
 - [ ] **Door locks from the inside with a no-key exit, plus an outside keyed lock for when it is empty, with keys on the key log. No one is ever locked in.**
-- [ ] Temperature alarm, backup vent opener, and stored water reserve (Chapter 7, Crop Protection)
+- [ ] Temperature alarm, backup vent opener, and stored water reserve ([Chapter 7, Crop Protection](../../part-2-market-engine/07-production-planning/04-crop-protection.md))

@@ -9,7 +9,7 @@
 - [ ] Each firearm clean and working, with any fault tagged and the firearm taken out of use
 - [ ] Hearing and eye protection, lights, and a locked case for transport in place
 - [ ] Named users' training current
-- [ ] Owners' yearly storage statements on file (Appendix B11)
+- [ ] Owners' yearly storage statements on file ([Appendix B11](../appendix-b-templates/b11-firearms-policy-template.md))
 
 | Date | Inspected by (1) | Inspected by (2) | Firearms present | Ammunition count | Problems found | Action taken |
 |---|---|---|---|---|---|---|

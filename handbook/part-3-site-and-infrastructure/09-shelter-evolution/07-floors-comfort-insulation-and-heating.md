@@ -33,6 +33,6 @@
 | 0-1 | Wall tent with certified tent stove | Strict clearances; never leave burning unattended |
 | 2 | Vented propane heater, or small wood stove with a flue | Must vent to the outside, with proper clearances and noncombustible backing. No unvented heaters, including most kerosene heaters. |
 | 2-3 | Mini-split heat pump | Heats and cools; needs reliable electricity |
-| 3 | Low-temp sand bed under greenhouse floor | Solar- or wind-charged; extends the season (see Chapter 11) |
+| 3 | Low-temp sand bed under greenhouse floor | Solar- or wind-charged; extends the season (see [Chapter 11](../11-sand-battery-heating.md)) |
 | 3-4 | Solar-supported electric, upgraded insulation | Funded from market income |
 | 4 | Central sand battery with hydronic loop | Engineered; separate building; supplements mini-splits |

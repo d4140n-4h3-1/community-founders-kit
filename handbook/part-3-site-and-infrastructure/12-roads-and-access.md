@@ -21,7 +21,7 @@ Dirt roads become gravel roads as income allows. Good roads protect vehicles, ke
 - **Tier 0:** Fix the worst mud with ditches, scrap wood, and donated gravel or crushed concrete. Walking paths get mulch or wood chips.
 - **Tier 1:** Gravel the market-vehicle route and the parking and loading area.
 - **Tier 2:** Gravel all roads to the cabins, wash-and-pack station, food store, and garden access.
-- **Tier 3:** Add proper culverts, wider turnarounds, and a loading apron. Where snow drifts, plan snow clearing and drift-reducing windbreaks (Chapter 16).
+- **Tier 3:** Add proper culverts, wider turnarounds, and a loading apron. Where snow drifts, plan snow clearing and drift-reducing windbreaks ([Chapter 16](16-wind-power-and-wind-safety.md)).
 - **Tier 4:** Maintain on a schedule. Consider paving only the busiest section if it ever makes sense.
 
 ## Emergency Access Standards
@@ -30,8 +30,8 @@ Dirt roads become gravel roads as income allows. Good roads protect vehicles, ke
 - [ ] Clear overhead (trim branches)
 - [ ] Road name or marker and posted address at the entrance, lit by LED
 - [ ] Gate that opens fully, with a key lockbox or a code shared with emergency services (a locked gate must never block an emergency vehicle)
-- [ ] Boundary and "no trespassing" signs at the entrance, in black with yellow stenciled letters, under the local sign rules (Chapter 5)
-- [ ] Site address and directions posted with the emergency contacts (Chapter 5)
+- [ ] Boundary and "no trespassing" signs at the entrance, in black with yellow stenciled letters, under the local sign rules ([Chapter 5](../part-1-core-chapters/05-people-and-safeguarding/README.md))
+- [ ] Site address and directions posted with the emergency contacts ([Chapter 5](../part-1-core-chapters/05-people-and-safeguarding/README.md))
 
 ## Maintenance
 - Re-grade and add gravel each spring and after heavy storms

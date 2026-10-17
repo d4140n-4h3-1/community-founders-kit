@@ -5,9 +5,9 @@
 **Principle:** **Know where every dollar comes from and goes, review it monthly, and decide spending rules before the money is tight.** A simple budget that is used every month beats a clever one that is not. Use your local currency and units throughout.
 
 **The three records**
-- **Budget:** the plan for the year, month by month (Appendix D5)
-- **Sales and cash log:** every sale, donation, and deposit (Chapter 6, Appendices D1 and D2)
-- **Expense log:** every cost, with a receipt, date, category, and who approved it (Appendix D6)
+- **Budget:** the plan for the year, month by month ([Appendix D5](../../appendices/appendix-d-logs-sheets-and-reports/d05-monthly-budget.md))
+- **Sales and cash log:** every sale, donation, and deposit ([Chapter 6](../06-market-business-basics/README.md), Appendices [D1](../../appendices/appendix-d-logs-sheets-and-reports/d01-sales-log.md) and [D2](../../appendices/appendix-d-logs-sheets-and-reports/d02-cash-count-sheet.md))
+- **Expense log:** every cost, with a receipt, date, category, and who approved it ([Appendix D6](../../appendices/appendix-d-logs-sheets-and-reports/d06-expense-log.md))
 
 Two people can read all three at any time. One person never controls all three.
 
@@ -17,7 +17,7 @@ Two people can read all three at any time. One person never controls all three.
    - **Growing:** seed, soil, compost, tools, irrigation, packaging, alarms
    - **Market:** vendor fees, insurance, signs, canopy repairs, sales tax paid
    - **Site:** water, hauling, septic service, power, fuel, road gravel, repairs, locks, lights, cameras, signs, and recording and archive storage
-   - **People:** first aid and training, background checks, mediation, shared food, supplies (Chapter 5)
+   - **People:** first aid and training, background checks, mediation, shared food, supplies ([Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md))
    - **Admin:** accountant, attorney, permits, bank fees, filings
    - **Reserve and funds:** operating reserve contribution and, later, the property tax fund
 3. **Mark each cost fixed or variable.** Fixed costs (insurance, permits, fees) come due regardless of sales. Variable costs (seed, packaging) rise and fall with activity.
@@ -43,8 +43,8 @@ Two people can read all three at any time. One person never controls all three.
 Nobody approves a payment to themselves or a relative. Another person approves it.
 
 **Cash handling**
-- Use the **dedicated two-signer account** (Chapter 2). Pay by transfer or check where possible, not cash.
-- Cash at market follows the two-person count and weekly reconciliation (Chapter 6).
+- Use the **dedicated two-signer account** ([Chapter 2](../../part-1-core-chapters/02-forming-a-group.md)). Pay by transfer or check where possible, not cash.
+- Cash at market follows the two-person count and weekly reconciliation ([Chapter 6](../06-market-business-basics/README.md)).
 - **Petty cash:** a small locked float with a sign-out slip for every use, counted by two people monthly.
 - Deposit takings promptly. Never hold large cash on site overnight.
 - Keep **sales tax collected** in its own line or sub-account until it is remitted.
@@ -56,7 +56,7 @@ Nobody approves a payment to themselves or a relative. Another person approves i
 1. Reconcile the bank statement against the sales log and expense log
 2. Compare **actual vs. budget** for each line, and note differences of more than about 10%
 3. Update the cash forecast for the next three months
-4. Pay and log every tax, fee, and filing due (compliance calendar, Appendix D9)
+4. Pay and log every tax, fee, and filing due (compliance calendar, [Appendix D9](../../appendices/appendix-d-logs-sheets-and-reports/d09-compliance-calendar.md))
 5. Report the numbers to the group in one page: income, costs, balance, reserve, and any warnings
 6. Record the decisions and any budget changes in the revision log
 
@@ -89,7 +89,7 @@ Nobody approves a payment to themselves or a relative. Another person approves i
 - Buying equipment with no estimate of the running costs
 
 **Money tie-in**
-- Costs from Chapters 5 (training, first aid, mediation, shared food, security), 7 (crop protection), 9 to 16 (building, recording and archive, water, septic, gravel, power, wind) and 2 (contributions, volunteer hours) all feed the expense log
+- Costs from [Chapters 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md) (training, first aid, mediation, shared food, security), 7 (crop protection), 9 to 16 (building, recording and archive, water, septic, gravel, power, wind) and 2 (contributions, volunteer hours) all feed the expense log
 - LED and daylighting savings appear in the annual report
 - The budget supports the fee calculation if a resident fee ever starts
 

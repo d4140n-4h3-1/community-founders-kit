@@ -3,7 +3,7 @@
 # Customers and Neighbors
 
 ## Selling Surplus and Donating
-- Plan crops for market, but keep some for the community's own food (Chapter 7)
+- Plan crops for market, but keep some for the community's own food ([Chapter 7](../07-production-planning/README.md))
 - Donate unsold good produce to a food bank, and record the amounts for the annual report
 - Offer a lower-price "seconds" bin for imperfect but safe produce
 
@@ -19,5 +19,5 @@
 - Follow the market's rules on setup, noise, signs, and pricing
 - Be a good neighbor to other vendors, and share tips and help during setup
 - Let one trained member handle disputes, not whoever is nearby
-- If a neighbor or customer calls the community freeloaders, share the facts (Chapter 8), and follow the outside harassment response plan if it continues (Chapter 5)
-- Keep market-day conduct and visitor rules in line with Chapter 5, and do not promote any belief at the stand (Chapter 3)
+- If a neighbor or customer calls the community freeloaders, share the facts ([Chapter 8](../08-money-rules/README.md)), and follow the outside harassment response plan if it continues ([Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md))
+- Keep market-day conduct and visitor rules in line with [Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md), and do not promote any belief at the stand ([Chapter 3](../../part-1-core-chapters/03-charter-and-decision-making.md))

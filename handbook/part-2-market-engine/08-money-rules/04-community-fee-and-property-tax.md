@@ -9,7 +9,7 @@
 - Do not leave nonprofit status just to charge a fee. Have an accountant compare both paths first, including what leaving would cost in lost exemptions, grants, and board structure.
 - Start the fee only if the exemption is **denied or lapses**.
 
-**How to set the fee** (worksheet in Appendix D11)
+**How to set the fee** (worksheet in [Appendix D11](../../appendices/appendix-d-logs-sheets-and-reports/d11-fee-calculation-worksheet.md))
 - Start with the annual property tax bill
 - Add a **buffer of 15-20%**, because bills rise, plus a **vacancy allowance**, because some lots will sit empty
 - Add the share of insurance and the reserve contribution, if the board chooses
@@ -18,7 +18,7 @@
 - Example: a $6,000 tax bill + 20% buffer = $7,200. Across 20 planned lots, that is $360 a year, or **$30 a month per lot**.
 - Recalculate every year when the new bill arrives, and announce changes well in advance
 
-**Property tax fund** (ledger in Appendix D12)
+**Property tax fund** (ledger in [Appendix D12](../../appendices/appendix-d-logs-sheets-and-reports/d12-property-tax-fund-ledger.md))
 - [ ] Fees go into a **dedicated property tax fund**, never into general spending
 - [ ] **Before the first fee is due, the fund holds at least one full year's tax bill.** The first bill should never depend on this month's collections.
 - [ ] Pay the tax bill from the fund, and keep the receipt in the files
@@ -31,7 +31,7 @@
 - [ ] Is the fee taxable income, and does any lodging or sales tax apply?
 - [ ] Would a change from a nonprofit to another structure affect the land, the board, or any grants? Does the exemption end, and when?
 - [ ] Fair-housing and anti-discrimination rules: the same fee and terms for everyone
-- [ ] Have an attorney draft the residents' agreement (Appendix B5)
+- [ ] Have an attorney draft the residents' agreement ([Appendix B5](../../appendices/appendix-b-templates/b05-residents-agreement.md))
 
 **Structure options (ask an attorney which fits)**
 | Option | How the fee works | Watch for |
@@ -43,7 +43,7 @@
 
 **Rules**
 - [ ] A written agreement that states the fee, what it covers, and how it changes
-- [ ] Missed payments: a reminder, a payment plan, and a board review before any removal action, following the fair process in Chapter 5. Quick, fair handling prevents the resentment that breaks communities.
+- [ ] Missed payments: a reminder, a payment plan, and a board review before any removal action, following the fair process in [Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md). Quick, fair handling prevents the resentment that breaks communities.
 - [ ] **Hardship option:** a reduced fee or work-trade, set by written rules and applied the same way to everyone
 - [ ] No fee may be changed in secret or for one person
 - [ ] Fees are not the only income. Market income and the reserve carry the bad months, so one weak season doesn't threaten the land.

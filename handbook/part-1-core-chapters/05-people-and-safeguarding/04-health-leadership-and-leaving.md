@@ -4,11 +4,11 @@
 
 ## Health, Safety, and Emergencies
 - [ ] **Trained first-aiders:** at least two, with current certification, and a stocked first-aid kit in every shared building and at the market stand
-- [ ] **Emergency contacts** posted: local emergency number, nearest hospital, poison control, fire department, and the site address and directions for responders (Chapter 12)
+- [ ] **Emergency contacts** posted: local emergency number, nearest hospital, poison control, fire department, and the site address and directions for responders ([Chapter 12](../../part-3-site-and-infrastructure/12-roads-and-access.md))
 - [ ] A **medical emergency plan:** who calls, who meets the ambulance at the gate, who stays with the person
 - [ ] **Overdose and mental-health crises:** know the local crisis line, keep naloxone where legal and trained members to use it, and never leave someone in crisis alone
-- [ ] **Illness:** sick people stay out of food handling, harvesting, and packing (Chapters 6 and 7), and a sick member's meals and check-ins are arranged
-- [ ] **Disasters:** a written plan for storms, high wind, wildfire, fire, flood, and heat or cold waves, with a meeting place, a headcount method, and a go-bag (Chapters 9 and 16, Appendix D15)
+- [ ] **Illness:** sick people stay out of food handling, harvesting, and packing (Chapters [6](../../part-2-market-engine/06-market-business-basics/README.md) and [7](../../part-2-market-engine/07-production-planning/README.md)), and a sick member's meals and check-ins are arranged
+- [ ] **Disasters:** a written plan for storms, high wind, wildfire, fire, flood, and heat or cold waves, with a meeting place, a headcount method, and a go-bag (Chapters [9](../../part-3-site-and-infrastructure/09-shelter-evolution/README.md) and [16](../../part-3-site-and-infrastructure/16-wind-power-and-wind-safety.md), [Appendix D15](../../appendices/appendix-d-logs-sheets-and-reports/d15-disaster-plan-template.md))
 - [ ] **Fire drills** and tested smoke and CO detectors in every sleeping area
 - [ ] **Medications and private health information** stay private. Share only what is needed in an emergency.
 - [ ] Each resident may keep an emergency contact on file, held securely by two named people
@@ -16,7 +16,7 @@
 ## Leadership and Burnout
 - Share roles across several people, and rotate where possible
 - **Two people for every critical task:** cash, keys, filings, safeguarding, first aid, camera footage, the meeting archive, and each main crop
-- Leaders have written duties, term limits, and a handover process (the succession plan in Chapter 3)
+- Leaders have written duties, term limits, and a handover process (the succession plan in [Chapter 3](../03-charter-and-decision-making.md))
 - A named **on-site coordinator** is paid or supported where possible, and gets regular rest
 - Hold a short **check-in meeting** each week and a **review** each season: what is working, what hurts
 - Watch for exhaustion, resentment, and one person doing everything. Fix the load before it breaks the person.

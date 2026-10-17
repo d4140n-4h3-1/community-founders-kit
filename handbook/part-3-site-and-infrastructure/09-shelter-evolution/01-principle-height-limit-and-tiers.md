@@ -44,7 +44,7 @@ Housing follows income. Every step up must be safe, legal where the community is
 - Full wall and floor insulation, plus a mini-split in each cabin (sized for upstairs rooms in two-story cabins)
 - Multiple greenhouses, each with the security and crop protection measures, and one heated for year-round production
 - Connect to permanent water, power, and septic
-- Animal shelter and fencing only if the group has voted to keep animals (Chapter 5)
+- Animal shelter and fencing only if the group has voted to keep animals ([Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md))
 
 ## Tier 4: Own
 - Two stories plus a short attic, built to long-term standards

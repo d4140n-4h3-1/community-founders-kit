@@ -25,15 +25,15 @@ Most garden spiders are harmless to people. Teach members to recognize the few t
 - Do not handle unknown spiders with bare hands
 - Keep dangerous spiders out of living and sleeping areas. They are not garden spiders, so the no-kill rule does not protect them indoors.
 - Keep gloves handy for woodpiles, sheds, and stacked materials
-- Seek medical care for any suspected dangerous-spider bite, and keep the first-aid and emergency plan current (Chapter 5)
-- Post a simple ID chart in the shared space (template in Appendix A10)
+- Seek medical care for any suspected dangerous-spider bite, and keep the first-aid and emergency plan current ([Chapter 5](../part-1-core-chapters/05-people-and-safeguarding/README.md))
+- Post a simple ID chart in the shared space (template in [Appendix A10](../appendices/appendix-a-checklists/a10-spider-id-chart.md))
 
 ## Other Pest Control
 - Screens and tight seals on all cabins
 - Remove standing water to cut mosquitoes
-- Healthy soil, companion planting, and hand-picking before any spray (see the pest order in Chapter 7)
+- Healthy soil, companion planting, and hand-picking before any spray (see the pest order in [Chapter 7](../part-2-market-engine/07-production-planning/README.md))
 - If a spray is truly needed, choose a targeted organic option, apply at dusk away from webs, and log it
-- In the food store, use traps and exclusion, never pesticides (see Chapter 9)
+- In the food store, use traps and exclusion, never pesticides (see [Chapter 9](09-shelter-evolution/README.md))
 
 ## Common Failures
 - White porch lights that draw clouds of insects

@@ -2,7 +2,7 @@
 
 # Unlock Triggers
 
-A community moves up a tier only when **every** condition is met and the group votes to advance. Record the date and vote in the revision log (worksheet in Appendix E).
+A community moves up a tier only when **every** condition is met and the group votes to advance. Record the date and vote in the revision log (worksheet in [Appendix E](../../appendices/appendix-e-tier-review-worksheet.md)).
 
 ## Sections
 

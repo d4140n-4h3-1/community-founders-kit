@@ -5,8 +5,8 @@
 ## Extreme Weather Plans
 - **Heat wave:** a designated cool space, water, and a daily check-in system for residents
 - **Cold snap:** extra blankets, rated sleeping bags, and a warm shared room
-- **High wind and dust storm:** shelter in a sturdy building, take down canopies, secure loose items, and check on everyone (Chapter 16)
-- Review these plans before each season, alongside the disaster plan in Chapter 5
+- **High wind and dust storm:** shelter in a sturdy building, take down canopies, secure loose items, and check on everyone ([Chapter 16](../16-wind-power-and-wind-safety.md))
+- Review these plans before each season, alongside the disaster plan in [Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md)
 
 ## Common Failures
 - Buying a cabin before water, sanitation, and permits are ready

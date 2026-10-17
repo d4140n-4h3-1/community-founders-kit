@@ -15,7 +15,7 @@ A sand battery stores heat, not electricity. Surplus power (solar, wind, or chea
 - **Tier 4 (full system):** one engineered sand battery in a separate utility building, heating a hydronic loop or air handler that serves the cabins and greenhouses.
 
 ## Requirements Before Building
-- [ ] Solar or wind surplus already in place, with 1+ season of production records (wind records count, Chapter 16)
+- [ ] Solar or wind surplus already in place, with 1+ season of production records (wind records count, [Chapter 16](16-wind-power-and-wind-safety.md))
 - [ ] Mini-split heating already running in every cabin (the battery supplements it)
 - [ ] LED and daylighting standards met, so loads are as low as possible
 - [ ] Engineer's sign-off on design, sizing, and insulation
@@ -26,7 +26,7 @@ A sand battery stores heat, not electricity. Surplus power (solar, wind, or chea
 - **Separate building,** with a noncombustible shell. Never put a high-temperature heat store in a sleeping cabin.
 - High-temperature units reach several hundred degrees: use fire-rated insulation, clearances from combustibles, and a thermal cutoff
 - Heat exchanger loops need pressure relief, freeze protection, and insulated pipes
-- Post warning signs and limit access to trained members, and keep children away (Chapter 5)
+- Post warning signs and limit access to trained members, and keep children away ([Chapter 5](../part-1-core-chapters/05-people-and-safeguarding/README.md))
 - Add a temperature monitor with an alarm and a written shutdown procedure
 - Include the unit in the fire department's site walkthrough
 

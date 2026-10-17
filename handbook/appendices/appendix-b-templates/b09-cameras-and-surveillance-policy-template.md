@@ -12,7 +12,7 @@
 9. **Retention:** *[30]* days, then deletion, unless an incident needs it kept longer.
 10. **Sharing:** with police or insurers only through the proper process, with board approval and a log entry. Never posted online. Footage of children is never shared publicly.
 11. **Resident rights:** residents may ask what is recorded and where, and raise concerns through the conflict ladder.
-12. **Inspection:** monthly, using Appendix A19.
+12. **Inspection:** monthly, using [Appendix A19](../appendix-a-checklists/a19-camera-and-sign-inspection.md).
 13. **Review date:** *[ ]*
 
 **Approved by the board:** *[date]*  **Attorney reviewed:** *[date]*

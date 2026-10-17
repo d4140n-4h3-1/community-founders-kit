@@ -29,16 +29,16 @@
 - No rest day, or a rest day that forgets essential tasks
 - No one covering animals on rest days or when someone is ill (if animals are kept)
 - Pets or animals loose around food and gardens
-- Trash piled up, drawing pests (Chapter 15)
+- Trash piled up, drawing pests ([Chapter 15](../../part-3-site-and-infrastructure/15-porch-lights-and-garden-spiders.md))
 - Open meetings used to air personal complaints
 - All work and no celebration, so people drift away
 - Cameras used to watch residents instead of protecting shared places
 
 ## Money and Legal Tie-In
-- Insurance may require safeguarding steps, background checks, security measures, and incident records (Chapter 4)
-- Written agreements and removal steps must match local tenant and fee rules (Chapter 8)
+- Insurance may require safeguarding steps, background checks, security measures, and incident records ([Chapter 4](../04-legal-basics.md))
+- Written agreements and removal steps must match local tenant and fee rules ([Chapter 8](../../part-2-market-engine/08-money-rules/README.md))
 - Training, first-aid supplies, mediation, shared food, waste, locks, signs, camera, and archive costs go in the expense log
-- Record chore and volunteer hours (Appendix D7)
+- Record chore and volunteer hours ([Appendix D7](../../appendices/appendix-d-logs-sheets-and-reports/d07-contribution-and-volunteer-hours-log.md))
 - Include safety incidents (without private details), drill dates, volunteer hours, and community days in the annual report
 
 > Safeguarding, tenant, screening, recording, work-expectation, and mandatory-reporting rules differ widely by location. This handbook gives no legal advice, so have an attorney review the membership agreement, conduct rules, hours wording, camera policy, meeting recording policy, and removal process, and ask local services about training before anyone moves in. Keep routines simple and kind, and change anything that makes people dread the work.

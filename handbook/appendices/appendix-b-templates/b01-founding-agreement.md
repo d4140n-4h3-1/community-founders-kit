@@ -9,7 +9,7 @@
 5. **Decisions:** everyday *[ ]*, shared *[ ]*, big *[threshold and cooling-off]*, stuck *[ ]*
 6. **Meetings:** *[when, where]*. Written minutes are always the official record.
 7. **Money:** the community account has *[two]* signers. Spending limits: *[ ]*. Contributions are voluntary and recorded. Personal and community money stay separate.
-8. **Conduct and conflict:** we follow the conduct code and conflict ladder in Appendix B3.
+8. **Conduct and conflict:** we follow the conduct code and conflict ladder in [Appendix B3](b03-conduct-code-and-conflict-ladder.md).
 9. **Equal treatment:** everyone is treated equally, whatever they believe. No building is dedicated to a single belief, and the shared halls are open to all on equal terms.
 10. **Work:** each adult is asked to give about *[12]* hours a week, adjusted fairly in writing. Hours are a guideline, never a condition of housing.
 11. **Joining and leaving:** *[trial period, criteria, notice, return of property]*

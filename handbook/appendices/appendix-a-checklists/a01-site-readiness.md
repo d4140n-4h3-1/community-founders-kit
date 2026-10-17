@@ -2,7 +2,7 @@
 
 # A1. Site Readiness (before the first move-in)
 - [ ] Written land permission in hand, with the term and what is allowed
-- [ ] Local rules checked and approvals in writing (Chapter 4)
+- [ ] Local rules checked and approvals in writing ([Chapter 4](../../part-1-core-chapters/04-legal-basics.md))
 - [ ] Drinking water tested, and a labeled storage plan in place
 - [ ] Legal toilet access and a handwashing station
 - [ ] Safe sleeping spots: level, drained, anchored against wind, away from hazards and wind-prone trees

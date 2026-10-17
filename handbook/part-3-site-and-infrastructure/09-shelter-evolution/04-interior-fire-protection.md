@@ -25,7 +25,7 @@
 - [ ] **Tape and finish the joints,** since open joints weaken the barrier
 - [ ] **Use the right fasteners** into steel studs or furring, at the spacing the rating requires
 - [ ] **Keep it dry,** and fix leaks quickly, since wet drywall softens and grows mold
-- [ ] **Protect recessed lights and solar tube openings** with rated housings or sealed collars where they pass through a rated ceiling (Chapter 14)
+- [ ] **Protect recessed lights and solar tube openings** with rated housings or sealed collars where they pass through a rated ceiling ([Chapter 14](../14-lighting-standard.md))
 - [ ] **Do not cover** required access panels, shutoffs, or detectors
 - [ ] **Hire a qualified installer** or follow a trained crew's method for any rated assembly
 
@@ -40,15 +40,15 @@
 
 **How it fits with the rest of the cabin**
 - **Insulation:** spray foam and rigid foam are combustible, so cover them with an approved thermal barrier, usually drywall
-- **Solar tubes and the attic:** keep tube sections out of fire-rated walls and ceilings, or use rated collars, as the code allows (Chapter 14)
+- **Solar tubes and the attic:** keep tube sections out of fire-rated walls and ceilings, or use rated collars, as the code allows ([Chapter 14](../14-lighting-standard.md))
 - **Heating:** drywall does not replace clearances or vented heaters
-- **Wildfire:** drywall protects the inside, but ember-resistant vents, noncombustible roofs, and defensible space protect the outside (Chapter 16)
+- **Wildfire:** drywall protects the inside, but ember-resistant vents, noncombustible roofs, and defensible space protect the outside ([Chapter 16](../16-wind-power-and-wind-safety.md))
 
 **Tier fit**
 - **Tier 2:** the first cabins get drywall on walls and ceilings, with Type X or cement board near heat sources
 - **Tier 2-3:** every new block cabin is framed and finished inside as part of the build, not left bare
 - **Tier 2-3:** the shared kitchen (Tier 2), and the Lodge, Meeting Hall, and bathhouse (Tier 3), follow the fire-rating rules for assembly and wet areas as each is built
-- **Tier 4:** inspect and repair the interior fire barriers during the yearly safety review (Appendix A17)
+- **Tier 4:** inspect and repair the interior fire barriers during the yearly safety review ([Appendix A17](../../appendices/appendix-a-checklists/a17-interior-fire-barrier-inspection.md))
 
 **Common failures**
 - Leaving spray foam or rigid foam exposed with no thermal barrier

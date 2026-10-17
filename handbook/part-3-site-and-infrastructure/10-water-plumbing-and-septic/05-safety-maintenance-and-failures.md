@@ -11,7 +11,7 @@
 
 ## Maintenance Schedule
 - **Monthly:** check for leaks, clean containers and filters, test drip lines, and check the pump house lock
-- **Each fall:** winterize hoses, insulate pipes, drain outdoor lines (where freezing occurs, Appendix A6)
+- **Each fall:** winterize hoses, insulate pipes, drain outdoor lines (where freezing occurs, [Appendix A6](../../appendices/appendix-a-checklists/a06-winterizing.md))
 - **Each spring:** flush lines, check the pump, review the septic schedule
 - **Yearly:** water test, backflow test, and update the log
 
@@ -30,7 +30,7 @@
 
 ## Money Tie-In
 - Track water, hauling, and septic costs in the expense log
-- Water and septic fees go on the compliance calendar (Chapter 8)
+- Water and septic fees go on the compliance calendar ([Chapter 8](../../part-2-market-engine/08-money-rules/README.md))
 - Plumbing is a major Tier 2 cost, so spread it over the tier and do the wash-and-pack station first, since it earns the income
 
 > Water and wastewater rules are set locally, and a failed inspection can shut down the whole community. A system serving many people or connections may be regulated as a public water system. Confirm requirements for wells, septic, graywater, and food-contact water before spending any money.

@@ -39,23 +39,23 @@ Each tier ends with an **unlock trigger**: a checklist the community must meet, 
 8. **Look after people.** Rest, shared meals, and a kind conflict process keep a community together longer than any building.
 
 ## How to Use This Handbook
-- **First time?** Read this chapter, then Chapters 2 and 3 with your founding group, and follow the first-week path below.
-- **Before you spend money or move anyone onto land,** read Chapter 4 (Legal Basics) and Chapter 5 (People and Safeguarding).
-- **When you plan your income,** read Chapters 6 to 8 (Market, Production, Money).
-- **When you plan the site,** read Chapters 9 to 16 (Shelter, Water, Heat, Roads, Land, Lighting, Pests, Wind).
-- **At the end of every season,** use the unlock triggers and the Tier Review Worksheet (Appendix E), and record what you learned in the revision log.
-- **Appendices A to E** hold the checklists, templates, calendars, and logs. Copy them, print them, and adapt them.
+- **First time?** Read this chapter, then Chapters [2](02-forming-a-group.md) and [3](03-charter-and-decision-making.md) with your founding group, and follow the first-week path below.
+- **Before you spend money or move anyone onto land,** read [Chapter 4](04-legal-basics.md) (Legal Basics) and [Chapter 5](05-people-and-safeguarding/README.md) (People and Safeguarding).
+- **When you plan your income,** read Chapters [6](../part-2-market-engine/06-market-business-basics/README.md) to [8](../part-2-market-engine/08-money-rules/README.md) (Market, Production, Money).
+- **When you plan the site,** read Chapters [9](../part-3-site-and-infrastructure/09-shelter-evolution/README.md) to [16](../part-3-site-and-infrastructure/16-wind-power-and-wind-safety.md) (Shelter, Water, Heat, Roads, Land, Lighting, Pests, Wind).
+- **At the end of every season,** use the unlock triggers and the Tier Review Worksheet ([Appendix E](../appendices/appendix-e-tier-review-worksheet.md)), and record what you learned in the revision log.
+- **Appendices [A](../appendices/appendix-a-checklists/README.md) to [E](../appendices/appendix-e-tier-review-worksheet.md)** hold the checklists, templates, calendars, and logs. Copy them, print them, and adapt them.
 
 ## What the Handbook Cannot Do
 - It gives **no legal, tax, financial, medical, or engineering advice.** Where a chapter says "ask an attorney, an accountant, an engineer, or the health department," it means it.
 - It does not know your climate, soil, or local customs. Adjust it with your agricultural extension service, neighbors, and market manager.
-- It cannot replace trust. If the group cannot agree on the basics in Chapter 2, no amount of planning will fix it.
+- It cannot replace trust. If the group cannot agree on the basics in [Chapter 2](02-forming-a-group.md), no amount of planning will fix it.
 - Its thresholds (months of income, size of reserves, hours of work) are starting points. Your pilot will show which are too easy or too strict.
 - It is written for a **village-scale** community (roughly 20-30 residents). A much larger, town-sized community faces extra rules on water systems, wastewater, subdivision, and governance that need their own planning.
 
 ## Your First Week
-1. **Gather the founding group** of 5-10 committed people (Chapter 2).
-2. **Hold the first meeting** and write a one-paragraph purpose and three to five shared values (Appendix B2).
+1. **Gather the founding group** of 5-10 committed people ([Chapter 2](02-forming-a-group.md)).
+2. **Hold the first meeting** and write a one-paragraph purpose and three to five shared values ([Appendix B2](../appendices/appendix-b-templates/b02-first-meeting-agenda.md)).
 3. **Have the honest conversation** about time, money, housing, children, decisions, conflict, leaving, and failure.
 4. **Name roles with a backup for each,** and agree how decisions are made.
 5. **Open a two-signer community account.**

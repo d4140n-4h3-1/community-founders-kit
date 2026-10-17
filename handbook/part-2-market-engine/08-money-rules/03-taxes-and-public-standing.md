@@ -18,11 +18,11 @@ Many places exempt nonprofits and land trusts on purpose, because they serve a p
 - Pay what is owed without hunting for loopholes
 - Where an exemption applies, document why the community qualifies and keep the filings public
 - Never claim an exemption that has not been granted
-- Don't assume an exemption carries over when land is bought, and confirm it before the purchase (see Chapter 13)
+- Don't assume an exemption carries over when land is bought, and confirm it before the purchase (see [Chapter 13](../../part-3-site-and-infrastructure/13-land-acquisition-and-expansion.md))
 
 **Rules**
 - [ ] Hire or consult an accountant **before the first market sale**
-- [ ] Keep a **compliance calendar** of every tax, fee, permit renewal, and filing deadline, with two members responsible for it (no single point of failure, Appendix D9)
+- [ ] Keep a **compliance calendar** of every tax, fee, permit renewal, and filing deadline, with two members responsible for it (no single point of failure, [Appendix D9](../../appendices/appendix-d-logs-sheets-and-reports/d09-compliance-calendar.md))
 - [ ] Keep records for the period local law requires, and store copies off-site or in the cloud
 - [ ] Separate community money from personal money, with a dedicated account
 - [ ] Give receipts for sales and donations
@@ -30,7 +30,7 @@ Many places exempt nonprofits and land trusts on purpose, because they serve a p
 - [ ] Never pay or accept cash "off the books"
 
 **Showing contribution beyond taxes**
-- Publish a **short annual report**: income, spending, taxes and fees paid, food donated, volunteer hours, and what the community learned (Appendix D10)
+- Publish a **short annual report**: income, spending, taxes and fees paid, food donated, volunteer hours, and what the community learned ([Appendix D10](../../appendices/appendix-d-logs-sheets-and-reports/d10-annual-report-template.md))
 - Sell at the local market, which feeds local business and pays vendor fees
 - Donate surplus produce to a food bank, and record the amounts
 - Buy locally, hire local trades for septic, electrical, and block work, and commission local artists
@@ -42,8 +42,8 @@ Many places exempt nonprofits and land trusts on purpose, because they serve a p
 1. Stay calm and don't argue online
 2. Share the facts: the annual report, tax filings, permits, and donation records
 3. Invite them to visit or ask questions
-4. Record the complaint and the response in the revision log and the outside incident log (Appendix D16)
-5. If it becomes harassment or a threat, follow the outside harassment response plan (Chapter 5), document it, and involve the local authorities or an attorney
+4. Record the complaint and the response in the revision log and the outside incident log ([Appendix D16](../../appendices/appendix-d-logs-sheets-and-reports/d16-outside-incident-and-harassment-log.md))
+5. If it becomes harassment or a threat, follow the outside harassment response plan ([Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md)), document it, and involve the local authorities or an attorney
 
 **Tier fit**
 - **Tier 0:** consult an accountant before any sale, learn whether sales tax applies, register before the first taxable sale, and start the compliance calendar

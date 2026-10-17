@@ -5,8 +5,8 @@
 - [ ] **Screening:** use background checks for anyone with regular unsupervised access, where local law allows
 - [ ] A **named safeguarding lead and a deputy**, trained and independent enough to act on a complaint about anyone, including leaders
 - [ ] **Reporting:** learn the local mandatory-reporting rules for suspected abuse, and post the contact numbers
-- [ ] Children stay away from septic lids, heat stores, chemical stores, tools, wind towers, locked greenhouses, and water hazards (Chapters 7, 9, 10, 11, 16)
-- [ ] Elders and people with disabilities get ground-floor housing and a check-in buddy (Chapter 9)
+- [ ] Children stay away from septic lids, heat stores, chemical stores, tools, wind towers, locked greenhouses, and water hazards (Chapters [7](../../part-2-market-engine/07-production-planning/README.md), [9](../../part-3-site-and-infrastructure/09-shelter-evolution/README.md), [10](../../part-3-site-and-infrastructure/10-water-plumbing-and-septic/README.md), [11](../../part-3-site-and-infrastructure/11-sand-battery-heating.md), [16](../../part-3-site-and-infrastructure/16-wind-power-and-wind-safety.md))
+- [ ] Elders and people with disabilities get ground-floor housing and a check-in buddy ([Chapter 9](../../part-3-site-and-infrastructure/09-shelter-evolution/README.md))
 - [ ] No member may pressure anyone into work, money, or personal favors in exchange for housing
 - [ ] Any concern is taken seriously, recorded privately, and passed to the right authority. It is never handled in a group meeting or "kept in the family."
 - [ ] No one is punished for raising a concern in good faith

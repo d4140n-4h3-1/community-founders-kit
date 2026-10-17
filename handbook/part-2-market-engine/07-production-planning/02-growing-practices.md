@@ -7,7 +7,7 @@
 - Mix fast crops (radishes, greens) with slow crops (potatoes, squash)
 - Match crops to the season: cool-season crops in spring and fall, heat-lovers in summer
 - Extend the season with row covers, low tunnels, shade cloth, and the hoop house or greenhouse
-- Build a local planting calendar from your frost dates and rainy seasons, not a generic one (Appendix C)
+- Build a local planting calendar from your frost dates and rainy seasons, not a generic one ([Appendix C](../../appendices/appendix-c-planting-and-market-calendar/README.md))
 - Use the off-season for planning, seed orders, tool repair, and cover crops
 
 ## Soil, Compost, and Rotation
@@ -20,7 +20,7 @@
 
 ## Water for Crops
 - Drip irrigation on timers, run early in the morning, with mulch to hold moisture
-- Rain barrels and rainwater collection for beds (not for drinking, see Chapter 10)
+- Rain barrels and rainwater collection for beds (not for drinking, see [Chapter 10](../../part-3-site-and-infrastructure/10-water-plumbing-and-septic/README.md))
 - Use **potable water** to wash produce. If irrigation water touches the edible part of a crop, check local food-safety rules and test the source if it is surface water.
 - Check graywater rules before using it on any bed
 - Record water use in the expense log
@@ -30,13 +30,13 @@ Work in this order, and use the next step only when the one before fails:
 1. **Prevention:** healthy soil, spacing, rotation, resistant varieties, and row cover
 2. **Monitoring:** walk the beds weekly and note problems early
 3. **Hand-picking, traps, and barriers**
-4. **Beneficial insects and garden spiders** (protected under Chapter 15)
+4. **Beneficial insects and garden spiders** (protected under [Chapter 15](../../part-3-site-and-infrastructure/15-porch-lights-and-garden-spiders.md))
 5. **Targeted organic spray as a last resort,** applied at dusk away from webs and logged
 
 **Rules**
 - No broad-spectrum pesticides in or near gardens
 - Read and follow the label exactly, and wear the protective gear it requires
 - Check whether a license is required to apply any product
-- Store chemicals locked and away from the food store, the wash-and-pack station, greenhouses, living areas, and children (Chapter 5)
+- Store chemicals locked and away from the food store, the wash-and-pack station, greenhouses, living areas, and children ([Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md))
 - Do not describe produce as "organic" on signs unless local law allows it for your situation
 - Use fencing and secure compost to deter wildlife

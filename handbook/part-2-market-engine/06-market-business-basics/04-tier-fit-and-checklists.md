@@ -35,7 +35,7 @@
 - An unweighted canopy that becomes a hazard in a gust
 
 ## Money Tie-In
-- Market income pays operating costs first, then the reserve (Chapter 8)
+- Market income pays operating costs first, then the reserve ([Chapter 8](../08-money-rules/README.md))
 - Track the cost per item, so product choices follow the numbers
 - Include sales, donations, and tax paid in the annual report
 

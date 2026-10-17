@@ -13,7 +13,7 @@
 10. **Access:** residents may view the archive on request, with a log entry. Public release of any excerpt needs board approval and redaction of names and private details.
 11. **No editing:** originals are never altered or deleted except under the retention schedule. Excerpts are labeled.
 12. **Objections:** a person may ask for a correction note or review, handled by the board under the conflict ladder.
-13. **Inspection and checklist:** monthly with Appendix A19, and every meeting with Appendix A20.
+13. **Inspection and checklist:** monthly with [Appendix A19](../appendix-a-checklists/a19-camera-and-sign-inspection.md), and every meeting with [Appendix A20](../appendix-a-checklists/a20-meeting-recording-checklist.md).
 14. **Review date:** *[ ]*
 
 **Approved by the board:** *[date]*  **Attorney reviewed:** *[date]*

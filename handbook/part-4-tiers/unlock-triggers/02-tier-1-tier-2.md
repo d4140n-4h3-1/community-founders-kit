@@ -17,7 +17,7 @@
 - [ ] Neighbor liaison named, and the police non-emergency contact introduced
 - [ ] Anemometer installed and wind data being logged
 - [ ] Sales tax and permits current, with no missed deadlines on the compliance calendar
-- [ ] At least one conflict resolved using the written process in Chapter 5
+- [ ] At least one conflict resolved using the written process in [Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md)
 - [ ] Member turnover stable (no more than 1 in 3 left this season)
 - [ ] Market-vehicle route graveled with working drainage
 - [ ] Gravel route passable through all four seasons

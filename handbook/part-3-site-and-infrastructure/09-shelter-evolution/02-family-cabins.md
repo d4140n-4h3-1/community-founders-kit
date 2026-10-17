@@ -20,16 +20,16 @@
 
 **Services sized for four**
 - **Heating and cooling:** size the mini-split or heater to the cabin, not the whole group
-- **Power and LEDs:** plan for a family's load, using LED fixtures and solar tubes to keep it low (Chapter 14)
-- **Water and septic:** design for the **planned number of residents and bedrooms**, counting family cabins at four, with a margin (Chapter 10)
+- **Power and LEDs:** plan for a family's load, using LED fixtures and solar tubes to keep it low ([Chapter 14](../14-lighting-standard.md))
+- **Water and septic:** design for the **planned number of residents and bedrooms**, counting family cabins at four, with a margin ([Chapter 10](../10-water-plumbing-and-septic/README.md))
 - **Hot water:** a small tank or heat pump unit sized for four
 
 **Fit with the rest of the handbook**
-- **Planned size:** a village of 20-30 people is roughly **6-8 family cabins**, plus smaller ones. Set the planned maximum per tier before building (Chapter 5).
-- **Fees:** one lot or cabin is one household, so a resident fee is set **per lot, not per person** (Chapter 8)
-- **Safeguarding:** families with children follow the two-adult rule for other people's children, and kids stay away from septic lids, heat stores, chemicals, and wind towers (Chapter 5)
-- **Privacy:** each family has its own door, key, and private space, and no camera looks at a cabin or its windows (Chapter 5)
-- **Hours guideline:** about 12 hours a week applies to adult members, adjusted fairly for parents' childcare (Chapter 5)
+- **Planned size:** a village of 20-30 people is roughly **6-8 family cabins**, plus smaller ones. Set the planned maximum per tier before building ([Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md)).
+- **Fees:** one lot or cabin is one household, so a resident fee is set **per lot, not per person** ([Chapter 8](../../part-2-market-engine/08-money-rules/README.md))
+- **Safeguarding:** families with children follow the two-adult rule for other people's children, and kids stay away from septic lids, heat stores, chemicals, and wind towers ([Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md))
+- **Privacy:** each family has its own door, key, and private space, and no camera looks at a cabin or its windows ([Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md))
+- **Hours guideline:** about 12 hours a week applies to adult members, adjusted fairly for parents' childcare ([Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md))
 
 **Tier fit**
 - **Tier 0-1:** families may live in a **wall tent** only if local rules allow, and heat, safety, and weather plans cover children

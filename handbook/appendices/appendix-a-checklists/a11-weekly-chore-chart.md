@@ -13,4 +13,4 @@
 | **Greenhouse check, morning and evening** | | | | | | | | |
 | **Essential tasks (covered by rota every day, including Sunday)** | | | | | | | | |
 
-*Anyone who covers essential tasks on the rest day takes time off another day that week. Hours are logged in Appendix D7.*
+*Anyone who covers essential tasks on the rest day takes time off another day that week. Hours are logged in [Appendix D7](../appendix-d-logs-sheets-and-reports/d07-contribution-and-volunteer-hours-log.md).*

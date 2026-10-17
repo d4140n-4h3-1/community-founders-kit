@@ -8,7 +8,7 @@
 - [ ] Reserve fund covers 6 months of costs
 - [ ] Reserve policy written into the charter and reviewed by an attorney or accountant
 - [ ] Fee policy written into the charter (per planned lot, residents only), with the accountant's comparison of the exempt and non-exempt paths and the attorney's review on file
-- [ ] Land purchase passes the due diligence and capacity checklists (Chapter 13), including the property tax and deed-restriction items
+- [ ] Land purchase passes the due diligence and capacity checklists ([Chapter 13](../../part-3-site-and-infrastructure/13-land-acquisition-and-expansion.md)), including the property tax and deed-restriction items
 - [ ] Legal review of the purchase completed by an attorney
 - [ ] Succession plan so leadership can pass to new members
 - [ ] Independent complaint route and appeal hearing in place

@@ -12,7 +12,7 @@
 ## Before the Seller Is Ready
 - [ ] Keep a standing "land wish list": acreage range, budget ceiling, must-haves (water, road access, soil, zoning)
 - [ ] Build a relationship with neighbors and the current landowner
-- [ ] Ask for a **right of first refusal** or purchase option in the lease, so the community gets the first chance to buy (Appendix B7)
+- [ ] Ask for a **right of first refusal** or purchase option in the lease, so the community gets the first chance to buy ([Appendix B7](../appendices/appendix-b-templates/b07-right-of-first-refusal.md))
 - [ ] Keep the legal entity (nonprofit or trust) in good standing, since sellers and lenders check it
 
 ## Due Diligence (in order, tracking sheet in Appendix A7)
@@ -21,7 +21,7 @@
 3. **Survey:** boundaries, easements, encroachments
 4. **Zoning and local rules:** camping, cabins, greenhouses, assembly buildings, approved building materials, septic, market sales, and any wind or solar limits
 5. **Water:** well records, test results, water rights, or hookup availability
-6. **Soil and percolation test:** this decides whether septic is possible, and a soil test for growing food (Chapter 7)
+6. **Soil and percolation test:** this decides whether septic is possible, and a soil test for growing food ([Chapter 7](../part-2-market-engine/07-production-planning/README.md))
 7. **Floodplain and drainage maps**
 8. **Road and emergency access:** legal access to a public road, not just a handshake
 9. **Mineral, water, wind, and timber rights:** confirm what transfers with the land
@@ -33,8 +33,8 @@
 - [ ] Septic, water, and roads can serve the larger population, with a plan for each
 - [ ] Insurance covers the added land and structures
 - [ ] Annual costs (taxes, insurance, road upkeep, utilities) fit the budget with the reserve intact, assuming no exemption unless one is confirmed
-- [ ] If the exemption is not confirmed, the one-year property tax fund and the fee policy are ready (Chapter 8)
-- [ ] Enough members, with the leadership and safeguarding capacity (Chapter 5), to maintain it. Land without people becomes a liability.
+- [ ] If the exemption is not confirmed, the one-year property tax fund and the fee policy are ready ([Chapter 8](../part-2-market-engine/08-money-rules/README.md))
+- [ ] Enough members, with the leadership and safeguarding capacity ([Chapter 5](../part-1-core-chapters/05-people-and-safeguarding/README.md)), to maintain it. Land without people becomes a liability.
 
 ## Paying for It
 - **Preferred:** cash from reserves, grants, and donations
@@ -42,7 +42,7 @@
 - **Avoid:** bank debt that market income cannot cover through a bad season
 - **Rule of thumb:** the payment should be coverable by income after a poor harvest year
 - Never use member homes or personal assets as collateral
-- Land is bought from cash, grants, and donations, not by converting the operating reserve (Chapter 8)
+- Land is bought from cash, grants, and donations, not by converting the operating reserve ([Chapter 8](../part-2-market-engine/08-money-rules/README.md))
 
 ## Decision Process
 1. Present the opportunity, due diligence results, and full cost to the whole group

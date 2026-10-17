@@ -22,7 +22,7 @@ Removal is the last step, not the first, and it must be fair, written, and consi
 - [ ] The person hears the concern, answers it, and may bring a support person
 - [ ] Decision by the board, with reasons in writing and a chance to appeal to an independent member or outside party
 - [ ] **Immediate safety exception:** for violence, serious threats, or abuse, separate people at once and call the authorities. Don't wait for a hearing.
-- [ ] Have an attorney confirm what tenant, eviction, or notice rules apply before removing anyone from housing, especially where fees are paid (Chapter 8)
+- [ ] Have an attorney confirm what tenant, eviction, or notice rules apply before removing anyone from housing, especially where fees are paid ([Chapter 8](../../part-2-market-engine/08-money-rules/README.md))
 - [ ] Never remove someone's belongings, lock them out, or cut utilities without following the legal process
 - [ ] Offer help with the transition: a notice period where safe, referrals to local services, and a clear plan for belongings and any money owed
 - [ ] Apply the same rules to founders, leaders, and new members

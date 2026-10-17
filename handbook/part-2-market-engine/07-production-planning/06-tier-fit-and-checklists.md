@@ -33,7 +33,7 @@
 
 ## Money Tie-In
 - Track seed, water, tools, packaging, alarms, and labor hours in the expense log
-- Match crop choices to the sales log (Chapter 6), so the best earners get the best beds
-- Include harvest totals, food donated, and the community's own food share in the annual report (Chapter 8)
+- Match crop choices to the sales log ([Chapter 6](../06-market-business-basics/README.md)), so the best earners get the best beds
+- Include harvest totals, food donated, and the community's own food share in the annual report ([Chapter 8](../08-money-rules/README.md))
 
 > Growing conditions, food-safety rules, and pesticide laws differ by location. Confirm what applies with the agricultural extension service, the health department, and the market manager before planting for sale.

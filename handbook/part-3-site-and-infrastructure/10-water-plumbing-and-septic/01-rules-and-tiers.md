@@ -6,11 +6,11 @@
 Clean water in, wastewater out, and nothing freezing in between. Plumbing follows income like everything else, but **safe drinking water and a working toilet are required from Tier 0**, not added later.
 
 ## Rules
-- **Drinking and food-contact water must be potable and tested.** Test any well, spring, or hauled source before first use and yearly after (log in Appendix A9).
+- **Drinking and food-contact water must be potable and tested.** Test any well, spring, or hauled source before first use and yearly after (log in [Appendix A9](../../appendices/appendix-a-checklists/a09-water-test-log.md)).
 - **Never connect garden or non-potable water to drinking lines** without a backflow preventer.
 - **All wastewater goes somewhere approved.** No dumping, no straight pipes, no unpermitted septic.
 - **Low-flow fixtures only**, in the same spirit as the LED rule.
-- **Lock the pump house, shutoffs, and electrical panels,** since tampering with water or power is easier than attacking a greenhouse (Chapter 5).
+- **Lock the pump house, shutoffs, and electrical panels,** since tampering with water or power is easier than attacking a greenhouse ([Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md)).
 - Check local rules for wells, septic, and graywater before digging or buying. In dry regions, also check water-rights and supply rules before drilling or planning growth.
 
 ## Tier Fit

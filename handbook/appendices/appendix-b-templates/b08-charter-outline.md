@@ -6,7 +6,7 @@
 3. Equal treatment and shared space (the Lodge and the Meeting Hall)
 4. Decisions: methods, thresholds, voting, record-keeping, and written minutes
 5. Roles and terms, two people per critical task, and succession
-6. Standing rules (the list in Chapter 3)
+6. Standing rules (the list in [Chapter 3](../../part-1-core-chapters/03-charter-and-decision-making.md))
 7. Conduct, conflict ladder, removal and appeal
 8. Safeguarding rules and policies
 9. Daily life: the hours guideline, rest day, essential tasks, quiet hours, and (if ever kept) animals

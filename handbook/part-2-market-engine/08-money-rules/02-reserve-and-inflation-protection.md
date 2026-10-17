@@ -17,7 +17,7 @@
 - [ ] Set a cap in the charter on the share of surplus that may go into Layer 4, and review it yearly
 - [ ] **Every purchase and sale needs a board vote that includes non-residents**, with the reasons recorded in the revision log
 - [ ] Two-person custody for any physical asset: no single member holds access
-- [ ] Written inventory, signed at least yearly, with photos and serial numbers where they exist (Appendix D8)
+- [ ] Written inventory, signed at least yearly, with photos and serial numbers where they exist ([Appendix D8](../../appendices/appendix-d-logs-sheets-and-reports/d08-asset-inventory-and-transaction-log.md))
 - [ ] Record every transaction (date, dealer or seller, amount, price, and storage location)
 - [ ] Insure physical assets, and store them off-site (such as a bank safe-deposit box) or in a locked, secured space
 - [ ] Never borrow to buy a store-of-value asset

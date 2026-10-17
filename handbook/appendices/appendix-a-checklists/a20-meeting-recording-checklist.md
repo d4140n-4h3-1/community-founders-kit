@@ -18,7 +18,7 @@
 **After**
 - [ ] Recording stopped, and the indicator light off
 - [ ] File named by date, saved to the off-site backup and the offline copy
-- [ ] Index entry added (Appendix D18)
+- [ ] Index entry added ([Appendix D18](../appendix-d-logs-sheets-and-reports/d18-meeting-archive-index.md))
 - [ ] Minutes approved and filed as the official record
 - [ ] Equipment locked in the cabinet, and keys signed in
 - [ ] Any request to correct or review a segment logged for the board
