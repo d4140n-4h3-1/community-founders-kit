@@ -42,10 +42,21 @@ The charter grows with the community. A Tier 0 group does not need to write rule
 
 | Adopted by | Rules |
 |---|---|
-| **Tier 0 → Tier 1** ([trigger](../part-4-tiers/unlock-triggers/01-tier-0-tier-1.md)): the core charter | Dissolution of money and property; equal treatment; decision methods and written minutes; LED lighting; garden spiders; pesticides; safe water and a legal toilet; locked food containers; two-person cash counts; spending limits and the monthly budget review; conduct, conflict ladder, removal and appeal, safeguarding, and the weapons and substances policies; firearms; the outside-harassment response plan; the hours guideline; the operating reserve (cash only, no store-of-value purchases); the compliance calendar and the no-unclaimed-exemption rule |
-| **Tier 1 → Tier 2** ([trigger](../part-4-tiers/unlock-triggers/02-tier-1-tier-2.md)): before any cabin, greenhouse, septic, or food store is built | Height limit and the four-resident occupancy limit; the noncombustible shell and fire-rated interior; no drain before the septic is inspected; the block food store, key log, and monthly inspection; greenhouse locks and the no-one-locked-in rule; graveling dirt roads; heat-wave, cold-snap, high-wind, and dust-storm plans |
-| **Tier 2 → Tier 3** ([trigger](../part-4-tiers/unlock-triggers/03-tier-2-tier-3.md)): before cameras, recording, animals, or turbines | The Cameras and Surveillance Policy; the meeting recording policy; animals; wind turbines; the annual report |
+| **Tier 0 → Tier 1** ([trigger](../part-4-tiers/unlock-triggers/01-tier-0-tier-1.md)): the core charter | Dissolution of money and property; equal treatment; decision methods and written minutes; who acts as the board before Tier 3, and the outside advisor; LED lighting; garden spiders; pesticides; safe water and a legal toilet; locked food containers; no one is ever locked in a hoop house or greenhouse; two-person cash counts; spending limits and the monthly budget review; conduct, conflict ladder, removal and appeal, safeguarding, and the weapons and substances policies; firearms; the outside-harassment response plan; the hours guideline; the operating reserve (cash only, no store-of-value purchases); the compliance calendar and the no-unclaimed-exemption rule |
+| **Tier 1 → Tier 2** ([trigger](../part-4-tiers/unlock-triggers/02-tier-1-tier-2.md)): before any cabin, greenhouse, septic, or food store is built | Height limit and the four-resident occupancy limit; the noncombustible shell and fire-rated interior; no drain before the septic is inspected; the block food store, key log, and monthly inspection; the greenhouse inside-lock and outside-lock standard; graveling dirt roads; heat-wave, cold-snap, high-wind, and dust-storm plans |
+| **Tier 2 → Tier 3** ([trigger](../part-4-tiers/unlock-triggers/03-tier-2-tier-3.md)), and in any case before the first camera goes up (often during Tier 2), the first meeting is recorded, the first animal arrives, or a turbine is installed | The Cameras and Surveillance Policy; the meeting recording policy; animals; wind turbines; the annual report |
 | **Tier 3 → Tier 4** ([trigger](../part-4-tiers/unlock-triggers/04-tier-3-tier-4.md)): before buying land | The full reserve and store-of-value policy; the resident fee and property tax fund; how land is bought; title held by the nonprofit or land trust |
+
+## Who Acts as the Board Before Tier 3
+
+The handbook often says "the board." A nonprofit board with non-resident members is formed at Tier 3 ([Chapter 2](02-forming-a-group.md)). Until then, the founding agreement names who does the board's work:
+
+- **The board** means the governance meeting: all full members, meeting with an agenda and written minutes, deciding by the method in the founding agreement.
+- **At least one outside advisor** is named in the founding agreement. This is a trusted non-resident, such as someone from a host organization or fiscal sponsor, a mediator, or a farm advisor, who is not related to any member and has no money at stake.
+- **Wherever the handbook asks for a board vote that includes non-residents** (using the reserve, unbudgeted spending, releasing footage), the governance meeting votes, and the outside advisor must also agree in writing.
+- **Hearings and appeals:** a conduct or removal hearing is held by members who are not involved, and an appeal goes to the outside advisor or an outside mediator, never back to the same people.
+- **Conflicts of interest:** a member involved in a matter does not vote on it.
+- When the Tier 3 board is formed, it takes over these roles. The outside advisor is a natural first non-resident board member.
 
 ## Equal Treatment and Shared Space
 

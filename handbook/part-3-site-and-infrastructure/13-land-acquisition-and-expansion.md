@@ -15,7 +15,7 @@
 
 - [ ] Keep a standing "land wish list": acreage range, budget ceiling, must-haves (water, road access, soil, zoning)
 - [ ] Build a relationship with neighbors and the current landowner
-- [ ] Ask for a **right of first refusal** or purchase option in the lease, so the community gets the first chance to buy ([Appendix B7](../appendices/appendix-b-templates/b07-right-of-first-refusal.md))
+- [ ] Ask for a **right of first refusal** or purchase option in the lease, so the community gets the first chance to buy. This is required before any Tier 2 building on leased land ([Appendix B7](../appendices/appendix-b-templates/b07-right-of-first-refusal.md))
 - [ ] Keep the legal entity (nonprofit or trust) in good standing, since sellers and lenders check it
 
 ## Due Diligence (in order, tracking sheet in Appendix A7)

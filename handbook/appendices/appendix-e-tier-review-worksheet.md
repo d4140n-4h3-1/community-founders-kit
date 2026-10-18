@@ -49,4 +49,4 @@
 
 ---
 
-← **Previous:** [D19. Firearm Discharge Log](appendix-d-logs-sheets-and-reports/d19-firearm-discharge-log.md) · **Next:** [Appendix F: Glossary](appendix-f-glossary.md) →
+← **Previous:** [D21. Labor Budget](appendix-d-logs-sheets-and-reports/d21-labor-budget.md) · **Next:** [Appendix F: Glossary](appendix-f-glossary.md) →

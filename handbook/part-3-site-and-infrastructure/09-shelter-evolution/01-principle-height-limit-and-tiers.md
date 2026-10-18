@@ -26,12 +26,14 @@ Housing follows income. Every step up must be safe, legal where the community is
 ## Tier 1: Pilot
 
 - Canvas wall tents, with a certified tent stove if needed
-- Small hoop house for seedlings and early crops, with a closing door and a simple outside hasp, and valuables removed overnight
+- Small hoop house for seedlings and early crops, with a closing door that opens from inside and a simple outside hasp, fastened only after a check that it is empty, and valuables removed overnight
 - Covered shared space (canopy or pavilion) for meals and meetings, which serves as the first "hall"
 - Locked food containers with a key log
 - Heat-wave, cold-snap, and high-wind plans written into the charter
 
 ## Tier 2: Stabilize
+
+Before anything permanent is built, the land-use agreement meets the Tier 2 terms (10 years or longer, improvements terms, and a right of first refusal or purchase option), and the capital plan sets the build order and funding ([Appendix D20](../../appendices/appendix-d-logs-sheets-and-reports/d20-capital-plan-and-build-order.md)).
 
 - **Single-story cabins only,** with a noncombustible steel shell and a finished, fire-rated interior, to keep cost and code complexity low
 - **Block cabins are optional** where the budget, a mason or builder, and the permit are in place

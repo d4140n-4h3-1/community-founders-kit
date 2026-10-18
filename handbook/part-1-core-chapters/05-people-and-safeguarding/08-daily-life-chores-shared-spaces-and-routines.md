@@ -12,7 +12,7 @@
 - [ ] **Adjust the expectation in writing, the same way for everyone,** for children, parents' childcare, elders, illness, injury, disability, and people with jobs off site
 - [ ] Split chores by **rotation** for the unpleasant jobs and by **skill or preference** for the rest
 - [ ] Post a **weekly chore chart** with names and a backup for each task ([Appendix A11](../../appendices/appendix-a-checklists/a11-weekly-chore-chart.md))
-- [ ] Record hours in the volunteer-hours log ([Appendix D7](../../appendices/appendix-d-logs-sheets-and-reports/d07-contribution-and-volunteer-hours-log.md)), and review them monthly: kindly, not as a punishment
+- [ ] Record hours in the volunteer-hours log ([Appendix D7](../../appendices/appendix-d-logs-sheets-and-reports/d07-contribution-and-volunteer-hours-log.md)), and review them monthly: kindly, not as a punishment. Before each season, check that the planned work fits the hours available ([Appendix D21](../../appendices/appendix-d-logs-sheets-and-reports/d21-labor-budget.md)).
 - [ ] If someone is well below the guideline for a while, the first step is **a caring conversation** about what is getting in the way. Nothing happens to their housing or membership because of hours alone.
 - [ ] Only repeated, unaddressed problems go up the conflict ladder, under the same fair process as any other issue
 

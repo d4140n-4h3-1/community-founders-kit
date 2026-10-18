@@ -17,7 +17,8 @@
 11. **Joining and leaving:** *[trial period, criteria, notice, return of property]*
 12. **Outside pressure:** we follow the outside-harassment response plan, with *[spokesperson]* speaking for the community.
 13. **If the group dissolves:** money and property go to *[a named nonprofit or purpose]*, after debts are paid. *(Attorney to confirm.)*
-14. **Review date:** *[ ]*
+14. **Outside advisor:** *[name]*, a trusted non-resident who joins any board vote on the reserve or unbudgeted spending and hears appeals until the Tier 3 board is formed ([Chapter 3](../../part-1-core-chapters/03-charter-and-decision-making.md#who-acts-as-the-board-before-tier-3))
+15. **Review date:** *[ ]*
 
 **Signed:** *[name / date for each founder]*
 

@@ -50,7 +50,7 @@
 - **A.** Checklists (site readiness, sanitation, market day and production, roads and lighting, pest control, winterizing, land due diligence, food-store security and pests, weekly chore chart, visitor welcome sheet, optional animal care sheet, Lodge booking and closing, wind site assessment, turbine inspection log, interior fire-barrier inspection, greenhouse security and crop protection, camera and sign inspection, meeting recording checklist, firearms storage and farm-gun inspection), water-test log, spider ID chart
 - **B.** Templates (founding agreement, first-meeting agenda, conduct code, membership agreement, residents' agreement, land-use agreement, right of first refusal, charter outline, cameras and surveillance policy, meeting recording policy, firearms policy)
 - **C.** Planting and market calendar, and crop plan template
-- **D.** Logs, sheets, and reports (sales, cash count, harvest, yield and cost, budget, expenses, contributions and volunteer hours, assets, compliance calendar, annual report, fee worksheet, property tax fund, incident report, emergency contacts, disaster plan, outside incident and harassment log, camera access log, meeting archive index, firearm discharge log)
+- **D.** Logs, sheets, and reports (sales, cash count, harvest, yield and cost, budget, expenses, contributions and volunteer hours, assets, compliance calendar, annual report, fee worksheet, property tax fund, incident report, emergency contacts, disaster plan, outside incident and harassment log, camera access log, meeting archive index, firearm discharge log, capital plan and build order, labor budget)
 - **E.** Tier review worksheet
 - **F.** Glossary
 

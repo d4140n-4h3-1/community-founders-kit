@@ -29,7 +29,7 @@ The community moves through five tiers.
 | 3 | Expand | A nonprofit or land trust, more buildings, a shared Lodge, a Meeting Hall, more growing space, and a stronger board |
 | 4 | Own | Buying land, long-term systems, and mentoring new groups |
 
-Each tier ends with an **unlock trigger**: a checklist the community must meet, and then vote on, before it moves up. **Staying at a tier is normal, not failure.** If income drops below costs for two months, the community steps back until it recovers.
+Each tier ends with an **unlock trigger**: a checklist the community must meet, and then vote on, before it moves up. **Staying at a tier is normal, not failure.** If the community's money falls behind its plan, judged over a full year so that a quiet off-season is never counted as failure, it steps back until it recovers ([Chapter 8](../part-2-market-engine/08-money-rules/01-budgeting-cash-handling-and-cost-tracking.md)).
 
 ## The Principles Behind Every Chapter
 
@@ -48,8 +48,8 @@ Each tier ends with an **unlock trigger**: a checklist the community must meet, 
 - **Before you spend money or move anyone onto land,** read [Chapter 4](04-legal-basics.md) (Legal Basics) and [Chapter 5](05-people-and-safeguarding/README.md) (People and Safeguarding).
 - **When you plan your income,** read Chapters [6](../part-2-market-engine/06-market-business-basics/README.md) to [8](../part-2-market-engine/08-money-rules/README.md) (Market, Production, Money).
 - **When you plan the site,** read Chapters [9](../part-3-site-and-infrastructure/09-shelter-evolution/README.md) to [16](../part-3-site-and-infrastructure/16-wind-power-and-wind-safety.md) (Shelter, Water, Heat, Roads, Land, Lighting, Pests, Wind).
-- **At the end of every season,** use the unlock triggers and the Tier Review Worksheet ([Appendix E](../appendices/appendix-e-tier-review-worksheet.md)), and record what you learned in the revision log.
-- **Appendices [A](../appendices/appendix-a-checklists/README.md) to [E](../appendices/appendix-e-tier-review-worksheet.md)** hold the checklists, templates, calendars, and logs. Copy them, print them, and adapt them.
+- **At the end of every season,** use the unlock triggers and the Tier Review Worksheet ([Appendix E](../appendices/appendix-e-tier-review-worksheet.md)), and record what you learned in the [revision log](../../REVISION_LOG.md).
+- **Appendices [A](../appendices/appendix-a-checklists/README.md) to [F](../appendices/appendix-f-glossary.md)** hold the checklists, templates, calendars, and logs. Copy them, print them, and adapt them.
 
 ## What the Handbook Cannot Do
 
@@ -80,7 +80,7 @@ If you are funding or encouraging a community from a distance:
 
 ## How This Handbook Grows
 
-Every chapter ends with common failures, and every tier ends with lessons. When your community learns something the book missed, **add it to the revision log** and share it with the next group you mentor. That is how this handbook stays alive.
+Every chapter ends with common failures, and every tier ends with lessons. When your community learns something the book missed, **add it to the [revision log](../../REVISION_LOG.md)** and share it with the next group you mentor. That is how this handbook stays alive.
 
 > This handbook is a starting point, not a guarantee. Rules, risks, and conditions vary widely by location. Confirm anything legal, financial, medical, or structural with a qualified local professional before you act.
 

@@ -4,7 +4,7 @@
 
 - **Stay put.** Staying at a tier is normal, not failure.
 - **Find the bottleneck.** Money, people, permits, or records?
-- **Step back if needed.** If income drops below costs for 2 months, return to the previous tier's scale until it recovers.
+- **Step back if needed.** If the cash balance stays below the budget plan for 2 months in a row, or income over the last 12 months did not cover that year's costs, return to the previous tier's scale until it recovers. A planned off-season with no market is not a reason to step back ([Chapter 8](../../part-2-market-engine/08-money-rules/01-budgeting-cash-handling-and-cost-tracking.md)).
 
 > Thresholds are starting points. Pilot communities will show which are too easy or too strict, and the revision log is where you adjust them.
 

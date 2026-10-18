@@ -13,7 +13,7 @@
 - [ ] Membership decisions by the group or board under written criteria, never by one person
 - [ ] **Equal treatment:** no discrimination on protected grounds, **no religious or political tests,** and the same terms for everyone (check local fair-housing and anti-discrimination law, Chapters [3](../03-charter-and-decision-making.md) and [4](../04-legal-basics.md))
 - [ ] Be honest about what the community offers and expects. Overpromising causes the worst departures.
-- [ ] Set a **planned maximum size per tier,** counting people, with a family cabin counted at up to four, so growth never outruns water, septic, and leadership
+- [ ] Set a **planned maximum size per tier,** counting people, with a family cabin counted at up to four, so growth never outruns water, septic, and leadership Starting guide: up to 10 people at Tier 0-1, no more at Tier 2 than the inspected septic and finished cabins serve, and 20-30 at Tier 3-4. Whichever of water, septic, housing, or leadership runs out first sets the real limit.
 - [ ] Keep a short **waiting list**, so new people join at a pace the group can absorb
 - [ ] No one is asked to hand over savings, identity documents, or property as the price of joining
 

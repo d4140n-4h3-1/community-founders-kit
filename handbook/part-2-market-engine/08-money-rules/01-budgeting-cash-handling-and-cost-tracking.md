@@ -14,7 +14,7 @@ Two people can read all three at any time. One person never controls all three.
 
 **Building the first budget**
 
-1. **List income lines:** market sales (by product), seedlings, craft table, donations, grants, and member contributions (voluntary until Tier 4). Count only what you can reasonably expect, and use last season's sales log once you have one.
+1. **List income lines:** market sales (by product), seedlings, craft table, donations, grants, and member contributions (always voluntary; a resident fee is separate, see Community Fee and Property Tax). Count only what you can reasonably expect, and use last season's sales log once you have one.
 2. **List cost lines:**
    - **Growing:** seed, soil, compost, tools, irrigation, packaging, alarms
    - **Market:** vendor fees, insurance, signs, canopy repairs, sales tax paid
@@ -34,6 +34,7 @@ Two people can read all three at any time. One person never controls all three.
 - [ ] Prefer cost-cutting purchases (LEDs, insulation, drip irrigation, solar tubes) over cost-adding ones, and track the savings
 - [ ] Get **two quotes** for any purchase above the limit set in the charter
 - [ ] Donated goods and volunteer hours are recorded at a fair value but never counted as cash
+- [ ] **Buildings and systems follow a written capital plan** ([Appendix D20](../../appendices/appendix-d-logs-sheets-and-reports/d20-capital-plan-and-build-order.md)), drafted at Tier 1: cost, quotes, funding source, and the money in hand before work starts. Seek grants and donations early, but count on one only once it is awarded in writing.
 
 **Spending approval limits** (set the amounts in the charter, and adjust them yearly)
 
@@ -42,7 +43,7 @@ Two people can read all three at any time. One person never controls all three.
 | Small (set a low limit) | The person responsible for that area, who logs it |
 | Medium | Two role-holders together |
 | Large | The group or board, with a written record |
-| Unbudgeted or reserve-related | Board vote including non-residents (reserve rules below) |
+| Unbudgeted or reserve-related | Board vote including non-residents (reserve rules below). Before Tier 3, the governance meeting plus the outside advisor ([Chapter 3](../../part-1-core-chapters/03-charter-and-decision-making.md#who-acts-as-the-board-before-tier-3)) |
 
 Nobody approves a payment to themselves or a relative. Another person approves it.
 
@@ -68,20 +69,21 @@ Nobody approves a payment to themselves or a relative. Another person approves i
 
 **Bad-season plan** (decide this now, so it isn't improvised in a crisis)
 
-- **Warning triggers:** income below costs for one month, the cash balance below one month of costs, or a large unexpected bill
+- **Plan the off-season.** Where the market closes for part of the year, the monthly budget shows those months with little or no income, and the market season must earn enough to carry them. A planned off-season month is not a warning by itself.
+- **Warning triggers:** income below the budgeted amount for two months running, the cash balance below the budgeted balance for that month, the cash balance below one month of costs, or a large unexpected bill
 - **Response order:**
   1. Cut variable costs and pause new purchases
   2. Delay non-essential projects and hiring
   3. Increase market days, or sell stored crops and surplus seedlings
   4. Ask for donations or a short-term grant (never count on them in the budget)
   5. Use the operating reserve only for the shortfall, and rebuild it first when income recovers
-- **If income stays below costs for 2 months,** step back to the previous tier's scale (Unlock Triggers)
+- **Step back** to the previous tier's scale (Unlock Triggers) if the cash balance stays below the budget plan for 2 months in a row after the steps above, or if income over the last 12 months did not cover that year's costs
 - Never borrow to cover operating costs, and never sell the reserve's long-term holdings to do so (reserve rules below)
 
 **Tier fit**
 
 - **Tier 0:** a one-page budget with a handful of lines, an expense log, and receipts kept from day one
-- **Tier 1:** monthly budget vs. actual, two-person cash counts, a petty cash float, and a break-even figure
+- **Tier 1:** monthly budget vs. actual with the off-season planned, two-person cash counts, a petty cash float, a break-even figure, a grant and donor list, and the Tier 2 capital plan
 - **Tier 2:** a three-month cash forecast, approval limits in the charter, and the first annual budget reviewed by the accountant
 - **Tier 3:** a yearly budget by project, a capital plan for buildings and systems, and audited or independently reviewed records
 - **Tier 4:** a multi-year forecast and the property tax fund, alongside the annual report published every year since Tier 2

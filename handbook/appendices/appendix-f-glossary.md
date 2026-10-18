@@ -11,10 +11,12 @@ Plain meanings for the words this handbook uses in its own way. Where a term has
 | **Tier** | One of five stages, from Tier 0 (no funds) to Tier 4 (owning land). Each tier sets what the community may build and spend on. See [Part 4](../part-4-tiers/README.md). |
 | **Unlock trigger** | The checklist a community must fully meet, and then vote on, before moving to the next tier. See [Unlock Triggers](../part-4-tiers/unlock-triggers/README.md). |
 | **Graduation** | The last set of conditions after Tier 4, including mentoring a new group. |
-| **Stepping back** | Returning to the previous tier's scale when income falls below costs for two months. |
+| **Stepping back** | Returning to the previous tier's scale when the cash balance stays below the budget plan for two months in a row, or a year's income does not cover that year's costs. A planned off-season is not a reason to step back. |
 | **Founding agreement** | The first written agreement every founder signs ([B1](appendix-b-templates/b01-founding-agreement.md)). It becomes the first draft of the charter. |
 | **Charter** | The community's governing document, holding its standing rules. It grows tier by tier ([Chapter 3](../part-1-core-chapters/03-charter-and-decision-making.md#when-each-rule-is-adopted)). |
 | **Core charter** | The rules every group adopts before Tier 1: decisions, money, conduct, safeguarding, firearms, equal treatment, and dissolution. |
+| **Board** | The body that makes the community's biggest decisions. Before Tier 3, the governance meeting plus the outside advisor; from Tier 3, the nonprofit or land trust board with non-resident members ([Chapter 3](../part-1-core-chapters/03-charter-and-decision-making.md#who-acts-as-the-board-before-tier-3)). |
+| **Outside advisor** | A trusted non-resident named in the founding agreement who joins reserve decisions and hears appeals until the Tier 3 board exists. |
 | **Standing rules** | The fixed rules listed in [Chapter 3](../part-1-core-chapters/03-charter-and-decision-making.md), which change only by the charter's amendment process. |
 | **Supermajority** | A vote threshold above a simple majority, set in the charter, used for big decisions such as buying land. |
 | **Cooling-off period** | A set wait between presenting a big decision and voting on it. |
@@ -43,6 +45,8 @@ Plain meanings for the words this handbook uses in its own way. Where a term has
 | **Break-even** | The income needed each month to cover operating costs. |
 | **Operating reserve** | Cash, in insured accounts, set aside to cover months of operating costs. It is never converted into other assets. |
 | **Store of value** | An asset held as a long-term hedge, such as precious metals. Allowed only from Tier 4, in a capped share, by board vote ([Chapter 8](../part-2-market-engine/08-money-rules/02-reserve-and-inflation-protection.md)). |
+| **Capital plan** | The costed list of buildings and systems, in build order, with a funding source for each ([D20](appendix-d-logs-sheets-and-reports/d20-capital-plan-and-build-order.md)). |
+| **Labor budget** | A weekly count of the hours the plan needs in the busiest weeks, compared with the hours members can give ([D21](appendix-d-logs-sheets-and-reports/d21-labor-budget.md)). |
 | **Compliance calendar** | The list of every tax, fee, permit, and filing deadline, each with two responsible members ([D9](appendix-d-logs-sheets-and-reports/d09-compliance-calendar.md)). |
 | **Annual report** | A yearly public summary of the community's work, money, and giving ([D10](appendix-d-logs-sheets-and-reports/d10-annual-report-template.md)). |
 | **Community fee (resident fee)** | A monthly fee residents pay toward the property tax bill, only if the community owns land and has no tax exemption. |

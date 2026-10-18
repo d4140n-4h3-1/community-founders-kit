@@ -3,7 +3,10 @@
 # Tier 1 → Tier 2 (Stabilize)
 
 - [ ] Building and weather rules added to the charter: height and occupancy limits, noncombustible shell, no drain before septic inspection, food store, greenhouse locks, road graveling, and heat, cold, and wind plans ([Chapter 3](../../part-1-core-chapters/03-charter-and-decision-making.md#when-each-rule-is-adopted))
-- [ ] 3 consecutive months of market income covering operating costs
+- [ ] Market income covered operating costs over a full year (one market season and the off-season after it), shown in the monthly budget vs. actual. Where the market runs all year, 3 consecutive months is enough.
+- [ ] Land-use agreement, reviewed by an attorney, secure enough to build on: a term of at least 10 years (or long enough to pay back what Tier 2 will build), written terms on who owns improvements and what happens to them if the agreement ends, and a right of first refusal or purchase option ([B6](../../appendices/appendix-b-templates/b06-land-use-agreement.md), [B7](../../appendices/appendix-b-templates/b07-right-of-first-refusal.md))
+- [ ] A costed Tier 2 capital plan in the recommended build order, with a funding source named for each item and nothing started until its money is in hand ([D20](../../appendices/appendix-d-logs-sheets-and-reports/d20-capital-plan-and-build-order.md))
+- [ ] A labor budget for the peak season shows the crop plan, market days, and essential tasks fit within members' hours ([D21](../../appendices/appendix-d-logs-sheets-and-reports/d21-labor-budget.md))
 - [ ] Monthly budget vs. actual reviewed for at least three months, with a break-even figure and a bad-season plan
 - [ ] Basic liability insurance active
 - [ ] Reliable water source, lab-tested, with the result on file
@@ -19,7 +22,7 @@
 - [ ] Neighbor liaison named, and the police non-emergency contact introduced
 - [ ] Anemometer installed and wind data being logged
 - [ ] Sales tax and permits current, with no missed deadlines on the compliance calendar
-- [ ] At least one conflict resolved using the written process in [Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md)
+- [ ] The conflict ladder tested: at least one conflict resolved using the written process, or, if none has arisen, a practice run of the ladder held with the outside advisor ([Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/03-conflict-and-removal.md))
 - [ ] Member turnover stable (no more than 1 in 3 left this season)
 - [ ] Market-vehicle route graveled with working drainage
 - [ ] Gravel route passable through all four seasons

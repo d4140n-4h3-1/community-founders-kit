@@ -26,7 +26,7 @@
 - Estimate weekly hours for each crop, and plan for the peak weeks (planting and harvest)
 - **Train two members for every crop,** so one absence doesn't ruin a bed
 - Plan rest, shade, and water for workers in hot weather, and warmth in cold
-- Don't plant more than the available hours can tend (the 12-hour guideline in [Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md) is a useful starting estimate of member time)
+- Don't plant more than the available hours can tend (the 12-hour guideline in [Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md) is a useful starting estimate of member time). Fill in the labor budget for the peak weeks before each season ([Appendix D21](../../appendices/appendix-d-logs-sheets-and-reports/d21-labor-budget.md)).
 
 ## Records and Numbers
 

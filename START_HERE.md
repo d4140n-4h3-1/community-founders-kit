@@ -18,6 +18,7 @@ This page is for a founding group of 5-10 people at **Tier 0**: no money, no lan
 - [ ] Write a one-paragraph purpose and three to five shared values
 - [ ] Have the honest conversation: time, money, housing, children, substances and weapons, beliefs, privacy, decisions, conflict, leaving, and failure
 - [ ] Name roles, with a backup for each: cash, keys, filings, safeguarding, first aid, crops, spokesperson, and minutes
+- [ ] Ask a trusted non-resident to be the group's **outside advisor**, who joins decisions on the reserve and hears appeals until the community has a board ([Chapter 3](handbook/part-1-core-chapters/03-charter-and-decision-making.md#who-acts-as-the-board-before-tier-3))
 - [ ] Open a community bank account with two signers
 - [ ] Book time with an accountant and an attorney, and ask the market manager about vendor rules
 - [ ] Set the next three actions, with names and dates
@@ -40,6 +41,24 @@ Have the attorney review each one before anyone signs.
 | [Land-use agreement](handbook/appendices/appendix-b-templates/b06-land-use-agreement.md) | The landowner and the group | Before any money or labor goes into the land |
 | [Membership agreement](handbook/appendices/appendix-b-templates/b04-membership-agreement.md) | Every adult | Before they move onto the land |
 | [Firearms policy](handbook/appendices/appendix-b-templates/b11-firearms-policy-template.md) | Every adult, plus a yearly storage statement from each owner | Before anyone brings a firearm onto the land |
+
+## What Tier 0 Costs, and How to Pay for It
+
+"No funds" does not mean no costs. A few things must be paid for before the first market sale brings any money in. Get quotes early, put them in the first one-page budget, and pay for them from recorded voluntary contributions and small grants.
+
+| Cost | Why it can't wait | Lower-cost routes |
+|---|---|---|
+| Attorney review of the founding and land-use agreements | Required before Tier 1, and before any money or labor goes into the land | Legal aid or law-school clinics, nonprofit legal services, a host organization's attorney, or a flat-fee review |
+| Accountant consultation | Before the first sale or regular contribution | Volunteer tax-help programs, a small-business advice center, or a fiscal sponsor's bookkeeper |
+| Liability insurance | Before anyone sleeps on the land, hosts visitors, or sells | A host organization's or fiscal sponsor's policy, a market's group policy, and quotes from several brokers |
+| Drinking-water test | Before anyone drinks it | Health department or extension-service lab rates |
+| Soil test | Before planting food | Extension-service soil test kits, which are usually low cost |
+| First-aid training | One trained first-aider before move-in | Community first-aid courses, often discounted for volunteers |
+| Vendor permit and market fees | Before the first market day | Ask the market about new-vendor or shared-stall rates |
+| Toilet and handwashing | From the first day on the land | Share a host's facilities, or split a serviced portable toilet |
+| Fire extinguisher, smoke and CO detectors, and a first-aid kit | Before anyone sleeps on the land | Donations of new units (never used detectors) |
+
+Partnering with an existing organization ([Chapter 2](handbook/part-1-core-chapters/02-forming-a-group.md)) can cover insurance, banking, and legal review at once. If the group cannot yet cover these costs, it is not ready to put people on the land. Keep meeting, saving, and growing in containers until it is.
 
 ## Before Anyone Sleeps on the Land
 
@@ -69,6 +88,10 @@ Keep it simple and fair from the start ([Daily Life](handbook/part-1-core-chapte
 - A one-page [budget](handbook/appendices/appendix-d-logs-sheets-and-reports/d05-monthly-budget.md), an expense log, and a receipt for everything
 - No market sale until the accountant has been consulted, insurance is in place, and sales tax is registered if it applies
 - Two people count the cash at the start and end of every market day ([cash-count sheet](handbook/appendices/appendix-d-logs-sheets-and-reports/d02-cash-count-sheet.md)), and every sale goes in the [sales log](handbook/appendices/appendix-d-logs-sheets-and-reports/d01-sales-log.md)
+
+## Planning for a Year, Not a Month
+
+If your market closes for part of the year, plan those months in the budget from the start. The market season has to earn enough to carry the quiet months, and a planned off-season is never a reason to step back a tier ([Chapter 8](handbook/part-2-market-engine/08-money-rules/01-budgeting-cash-handling-and-cost-tracking.md)).
 
 ## What You Can Skip for Now
 
