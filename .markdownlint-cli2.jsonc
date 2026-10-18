@@ -1,0 +1,16 @@
+{
+  // Formatting rules for the handbook. Run: npx markdownlint-cli2
+  "config": {
+    "default": true,
+    // Long lines are normal in prose and tables.
+    "MD013": false,
+    // Pages open with a breadcrumb line, not a heading.
+    "MD041": false,
+    // Bold labels such as "**Before**" introduce checklist groups.
+    "MD036": false,
+    // Repeated headings (such as "Common Failures") are fine in different sections.
+    "MD024": { "siblings_only": true }
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules/**", "build/**", "LICENSE"]
+}

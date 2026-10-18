@@ -1,0 +1,24 @@
+/* Print styles for the PDF built by scripts/build_pdf.sh */
+@page { size: letter; margin: 18mm 15mm; }
+body { font-family: "DejaVu Serif", Georgia, serif; font-size: 10.5pt; line-height: 1.4; color: #111; max-width: none; margin: 0; padding: 0; }
+h1, h2, h3, h4 { font-family: "DejaVu Sans", Helvetica, Arial, sans-serif; line-height: 1.2; break-after: avoid; }
+h1 { font-size: 20pt; border-bottom: 2px solid #111; padding-bottom: 4pt; }
+h2 { font-size: 14pt; margin-top: 18pt; }
+.page { break-before: page; }
+h3 { font-size: 12pt; }
+header#title-block-header { break-after: page; text-align: center; padding-top: 30%; }
+header#title-block-header h1 { break-before: auto; border: none; font-size: 30pt; }
+nav#TOC { break-after: page; }
+nav#TOC ul { list-style: none; padding-left: 1.2em; }
+nav#TOC > ul { padding-left: 0; }
+a { color: inherit; text-decoration: none; }
+table { border-collapse: collapse; width: 100%; font-size: 8.5pt; margin: 8pt 0; break-inside: auto; }
+th, td { border: 1px solid #555; padding: 3pt 4pt; vertical-align: top; text-align: left; }
+td { height: 14pt; }
+tr { break-inside: avoid; }
+thead { display: table-header-group; }
+th { background: #e8e8e8; }
+blockquote { border-left: 3px solid #999; margin-left: 0; padding-left: 10pt; color: #333; }
+ul.task-list { list-style: none; padding-left: 1em; }
+input[type="checkbox"] { width: 10pt; height: 10pt; margin-right: 4pt; }
+code, pre { font-family: "DejaVu Sans Mono", monospace; font-size: 9pt; }

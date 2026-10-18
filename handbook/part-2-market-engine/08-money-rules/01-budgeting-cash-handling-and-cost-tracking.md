@@ -5,6 +5,7 @@
 **Principle:** **Know where every dollar comes from and goes, review it monthly, and decide spending rules before the money is tight.** A simple budget that is used every month beats a clever one that is not. Use your local currency and units throughout.
 
 **The three records**
+
 - **Budget:** the plan for the year, month by month ([Appendix D5](../../appendices/appendix-d-logs-sheets-and-reports/d05-monthly-budget.md))
 - **Sales and cash log:** every sale, donation, and deposit ([Chapter 6](../06-market-business-basics/README.md), Appendices [D1](../../appendices/appendix-d-logs-sheets-and-reports/d01-sales-log.md) and [D2](../../appendices/appendix-d-logs-sheets-and-reports/d02-cash-count-sheet.md))
 - **Expense log:** every cost, with a receipt, date, category, and who approved it ([Appendix D6](../../appendices/appendix-d-logs-sheets-and-reports/d06-expense-log.md))
@@ -12,6 +13,7 @@
 Two people can read all three at any time. One person never controls all three.
 
 **Building the first budget**
+
 1. **List income lines:** market sales (by product), seedlings, craft table, donations, grants, and member contributions (voluntary until Tier 4). Count only what you can reasonably expect, and use last season's sales log once you have one.
 2. **List cost lines:**
    - **Growing:** seed, soil, compost, tools, irrigation, packaging, alarms
@@ -26,6 +28,7 @@ Two people can read all three at any time. One person never controls all three.
 6. **Find the break-even point:** monthly fixed costs divided by the average profit per market day. That is how many good market days a month the community needs just to cover its basics.
 
 **Budget rules**
+
 - [ ] **Operating costs come first, then the reserve, then growth.** Never spend next tier's money on this tier's wish list.
 - [ ] No spending on a new building, system, or tool until the budget shows it is affordable **after** the reserve contribution
 - [ ] Prefer cost-cutting purchases (LEDs, insulation, drip irrigation, solar tubes) over cost-adding ones, and track the savings
@@ -33,6 +36,7 @@ Two people can read all three at any time. One person never controls all three.
 - [ ] Donated goods and volunteer hours are recorded at a fair value but never counted as cash
 
 **Spending approval limits** (set the amounts in the charter, and adjust them yearly)
+
 | Amount | Who approves |
 |---|---|
 | Small (set a low limit) | The person responsible for that area, who logs it |
@@ -43,6 +47,7 @@ Two people can read all three at any time. One person never controls all three.
 Nobody approves a payment to themselves or a relative. Another person approves it.
 
 **Cash handling**
+
 - Use the **dedicated two-signer account** ([Chapter 2](../../part-1-core-chapters/02-forming-a-group.md)). Pay by transfer or check where possible, not cash.
 - Cash at market follows the two-person count and weekly reconciliation ([Chapter 6](../06-market-business-basics/README.md)).
 - **Petty cash:** a small locked float with a sign-out slip for every use, counted by two people monthly.
@@ -53,6 +58,7 @@ Nobody approves a payment to themselves or a relative. Another person approves i
 - Never pay or accept cash "off the books" (see Taxes and Public Standing, below).
 
 **The monthly routine**
+
 1. Reconcile the bank statement against the sales log and expense log
 2. Compare **actual vs. budget** for each line, and note differences of more than about 10%
 3. Update the cash forecast for the next three months
@@ -61,6 +67,7 @@ Nobody approves a payment to themselves or a relative. Another person approves i
 6. Record the decisions and any budget changes in the revision log
 
 **Bad-season plan** (decide this now, so it isn't improvised in a crisis)
+
 - **Warning triggers:** income below costs for one month, the cash balance below one month of costs, or a large unexpected bill
 - **Response order:**
   1. Cut variable costs and pause new purchases
@@ -72,6 +79,7 @@ Nobody approves a payment to themselves or a relative. Another person approves i
 - Never borrow to cover operating costs, and never sell the reserve's long-term holdings to do so (reserve rules below)
 
 **Tier fit**
+
 - **Tier 0:** a one-page budget with a handful of lines, an expense log, and receipts kept from day one
 - **Tier 1:** monthly budget vs. actual, two-person cash counts, a petty cash float, and a break-even figure
 - **Tier 2:** a three-month cash forecast, approval limits in the charter, and the first annual budget reviewed by the accountant
@@ -79,6 +87,7 @@ Nobody approves a payment to themselves or a relative. Another person approves i
 - **Tier 4:** a multi-year forecast and the property tax fund, alongside the annual report published every year since Tier 2
 
 **Common failures**
+
 - No budget, so a big bill is a surprise
 - Counting hoped-for grants and donations as income
 - Spending the reserve on growth
@@ -89,8 +98,15 @@ Nobody approves a payment to themselves or a relative. Another person approves i
 - Buying equipment with no estimate of the running costs
 
 **Money tie-in**
+
 - Costs from [Chapters 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md) (training, first aid, mediation, shared food, security), 7 (crop protection), 9 to 16 (building, recording and archive, water, septic, gravel, power, wind) and 2 (contributions, volunteer hours) all feed the expense log
 - LED and daylighting savings appear in the annual report
 - The budget supports the fee calculation if a resident fee ever starts
 
 > This handbook gives no financial advice. Have an accountant set up the books and review the first budget.
+
+<!-- nav: generated by scripts/nav.py, do not edit below -->
+
+---
+
+← **Previous:** [8. Money Rules](README.md) · **Next:** [Reserve and Inflation Protection](02-reserve-and-inflation-protection.md) →

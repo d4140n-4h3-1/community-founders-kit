@@ -1,0 +1,32 @@
+name: PDF
+
+# Builds the printable PDFs on every push to main and on demand. Publishing a
+# GitHub release (for example, one per season) attaches them to the release.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install pandoc and fonts
+        run: sudo apt-get update && sudo apt-get install -y pandoc fonts-dejavu
+      - name: Build
+        run: scripts/build_pdf.sh
+      - uses: actions/upload-artifact@v4
+        with:
+          name: handbook-pdf
+          path: build/*.pdf
+      - name: Attach to release
+        if: github.event_name == 'release'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release upload "${{ github.event.release.tag_name }}" build/*.pdf --clobber

@@ -3,6 +3,7 @@
 # 3. Charter and Decision-Making
 
 ## Standing Rules
+
 - The founding agreement is the first draft of the charter. An attorney reviews it before Tier 1, and it states what happens to money and property if the group dissolves.
 - Everyone is treated equally, whatever they believe or don't believe. The community has no official faith, ideology, or party. No building is dedicated to a single belief, and the Lodge and the Meeting Hall are open to all on equal terms, with booking calendars and a monthly cap per group.
 - All lighting is LED, and daylight comes first where a roof allows.
@@ -35,11 +36,23 @@
 
 *(A charter outline is in [Appendix B8](../appendices/appendix-b-templates/b08-charter-outline.md).)*
 
+## When Each Rule Is Adopted
+
+The charter grows with the community. A Tier 0 group does not need to write rules for cameras, cabins, or land it will not have for years. Adopt each group of rules by the unlock trigger named below, and before the thing it governs exists. A group may always adopt a rule earlier.
+
+| Adopted by | Rules |
+|---|---|
+| **Tier 0 → Tier 1** ([trigger](../part-4-tiers/unlock-triggers/01-tier-0-tier-1.md)): the core charter | Dissolution of money and property; equal treatment; decision methods and written minutes; LED lighting; garden spiders; pesticides; safe water and a legal toilet; locked food containers; two-person cash counts; spending limits and the monthly budget review; conduct, conflict ladder, removal and appeal, safeguarding, and the weapons and substances policies; firearms; the outside-harassment response plan; the hours guideline; the operating reserve (cash only, no store-of-value purchases); the compliance calendar and the no-unclaimed-exemption rule |
+| **Tier 1 → Tier 2** ([trigger](../part-4-tiers/unlock-triggers/02-tier-1-tier-2.md)): before any cabin, greenhouse, septic, or food store is built | Height limit and the four-resident occupancy limit; the noncombustible shell and fire-rated interior; no drain before the septic is inspected; the block food store, key log, and monthly inspection; greenhouse locks and the no-one-locked-in rule; graveling dirt roads; heat-wave, cold-snap, high-wind, and dust-storm plans |
+| **Tier 2 → Tier 3** ([trigger](../part-4-tiers/unlock-triggers/03-tier-2-tier-3.md)): before cameras, recording, animals, or turbines | The Cameras and Surveillance Policy; the meeting recording policy; animals; wind turbines; the annual report |
+| **Tier 3 → Tier 4** ([trigger](../part-4-tiers/unlock-triggers/04-tier-3-tier-4.md)): before buying land | The full reserve and store-of-value policy; the resident fee and property tax fund; how land is bought; title held by the nonprofit or land trust |
+
 ## Equal Treatment and Shared Space
 
 **Rule:** **Everyone is treated equally, whatever they believe or don't believe.** The community is neutral. It has no official faith, ideology, or party, and no one is favored or excluded for theirs.
 
 **Buildings**
+
 - **No building is dedicated to a single belief, faith, or political cause.** This applies to every belief equally, including non-religious ones.
 - **Two shared halls,** the Community Lodge for social and general use and the Meeting Hall for governance meetings ([Chapter 9](../part-3-site-and-infrastructure/09-shelter-evolution/README.md)), serve everyone on equal terms
 - Each hall is **booked on equal terms**, first come first served, with the same rules and costs for every group
@@ -47,6 +60,7 @@
 - Residents may hold quiet worship or gatherings **in their own homes,** or in the Lodge by booking, within the conduct and quiet-hours rules
 
 **Daily life**
+
 - No religious or political tests for joining, housing, work, or fees
 - No required participation in anyone's ceremonies, prayers, or events
 - No promoting beliefs during shared work, at the market stand, or to visitors
@@ -54,12 +68,14 @@
 - Disputes over belief follow the same conflict ladder as any other ([Chapter 5](05-people-and-safeguarding/README.md))
 
 **Legal check (before adopting)**
+
 - [ ] Have an attorney confirm that the wording is neutral and complies with fair-housing, religious-freedom, and anti-discrimination law where the community is located
 - [ ] Use content-neutral land-use language, such as "no single-purpose assembly buildings," not a ban on any one faith
 - [ ] Confirm what local zoning allows for assembly uses, and whether a shared hall needs a particular permit
 - [ ] Do not restrict private prayer, religious items, or gatherings inside homes
 
 **Common failures**
+
 - A rule aimed at one faith, which invites legal challenge
 - Banning private worship or religious items in homes
 - A "neutral" hall that in practice is booked mostly by one group
@@ -67,3 +83,9 @@
 - Founders exempting their own ceremonies
 
 > No wording fully prevents belief-based disputes, and a court could still scrutinize it. Deed restrictions or an existing landowner's terms may add rules, so the attorney step matters most here.
+
+<!-- nav: generated by scripts/nav.py, do not edit below -->
+
+---
+
+← **Previous:** [2. Forming a Group](02-forming-a-group.md) · **Next:** [4. Legal Basics](04-legal-basics.md) →

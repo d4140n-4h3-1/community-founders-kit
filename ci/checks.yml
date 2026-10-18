@@ -1,0 +1,23 @@
+name: Checks
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  handbook:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Links and anchors
+        run: python3 scripts/check_links.py
+      - name: Previous / Next footers
+        run: python3 scripts/nav.py --check
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Markdown formatting
+        run: npx --yes markdownlint-cli2@0.18.1
