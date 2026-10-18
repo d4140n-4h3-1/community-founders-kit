@@ -13,7 +13,7 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 - Added Appendix F: Glossary, a community revision log template, this changelog, and a contributing guide
 - Chapter 4 explains how to use the handbook outside the United States
 - Every page ends with Previous and Next links in reading order
-- Added automatic link, formatting, and navigation checks, and a printable PDF build
+- Added automatic link, formatting, and navigation checks, and a script to build printable PDFs
 
 ## 2026-10-17
 

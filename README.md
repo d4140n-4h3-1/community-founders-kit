@@ -92,7 +92,7 @@ The handbook is split into small files. Each part and each split chapter has its
 
 ## Printing
 
-The handbook builds as two PDFs: the whole handbook, and a **Start Here packet** with the first-season guide and every page it links to. Once the [automatic checks](ci/README.md) are turned on, every push to `main` builds them; download them from the latest run of the **PDF** workflow under the repository's Actions tab, or from a release. To build them yourself, see [CONTRIBUTING](CONTRIBUTING.md#checks).
+The handbook builds as two PDFs: the whole handbook, and a **Start Here packet** with the first-season guide and every page it links to. To build them, see [CONTRIBUTING](CONTRIBUTING.md#checks).
 
 ## License
 
