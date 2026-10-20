@@ -7,7 +7,7 @@
 **If the community uses digital infrastructure or public computers, two defaults apply:**
 
 - **Infrastructure runs FreeBSD on ARM hardware.** That covers the servers, storage, firewall, network, and recorders the community owns or runs. ARM uses far less power than the usual x86 (Intel and AMD) machines, which matters when power comes from a small solar and battery system.
-- **Computers people sit at run Linux Mint Debian Edition (LMDE).** That covers public computers, the office computer, and any kiosk. Most users only need a web browser, a file manager, and office software such as LibreOffice, and LMDE comes with all three, ready to use. LMDE runs only on x86, so these are the most energy-efficient x86 machines available, such as low-power mini PCs.
+- **Computers people sit at run Linux Mint Debian Edition (LMDE).** That covers public computers, the office computer, and any kiosk. Most users only need a web browser, a file manager, and office software such as LibreOffice, and LMDE comes with all three, ready to use. LMDE runs only on x86, so LMDE computers are the most energy-efficient x86 machines available, such as low-power mini PCs. **Debian with the Cinnamon desktop, on ARM hardware, is an approved option,** for the energy savings (see [Approved Option: Debian with Cinnamon on ARM](#approved-option-debian-with-cinnamon-on-arm)).
 
 Another system or other hardware is used only where a default can't do a particular job (see [When a Default Can't Be Met](#when-a-default-cant-be-met)). **Private devices are not subject to these rules.** A resident's own phone, laptop, tablet, or game console can run anything its owner likes.
 
@@ -17,7 +17,7 @@ This page is a bonus. It sits outside the tier triggers. Add it to the charter b
 
 ## What It Covers
 
-| Infrastructure (FreeBSD on ARM) | User computers (LMDE) | Not covered |
+| Infrastructure (FreeBSD on ARM) | User computers (LMDE, or Debian with Cinnamon on ARM) | Not covered |
 |---|---|---|
 | Community servers: file storage, backups, the shared calendar, the website | Public computers: a Lodge computer, a homework or library computer | Residents' own phones, laptops, tablets, and desktops |
 | The router, firewall, Wi-Fi access points, and fiber network the community runs | The office computer used for bookkeeping, logs, and filings | Visitors' devices |
@@ -54,11 +54,23 @@ This page is a bonus. It sits outside the tier triggers. Add it to the charter b
 - **Easy to look after.** The Update Manager can install updates automatically, and the login settings can offer a guest session for public computers.
 - **No license fees,** no forced accounts, advertising, or data collection, and a large community for help.
 
+## Approved Option: Debian with Cinnamon on ARM
+
+**Rule:** a community may run any user computer on **Debian with the Cinnamon desktop, on ARM hardware,** instead of LMDE on x86. It is an approved option, not an exception, so it does not go on the exceptions list.
+
+- **The same desktop.** Cinnamon is the desktop LMDE uses, and LMDE is built on Debian, so the two look and work much the same.
+- **Lower power.** User computers save energy too, the same way the infrastructure does ([Why ARM Hardware](#why-arm-hardware)).
+- **Setting it up:** choose the Cinnamon desktop when installing Debian, then add Firefox (Debian ships its long-term version, Firefox ESR) and LibreOffice.
+- **A little more work than LMDE.** Debian has no Update Manager or Mint tools, so the administrators turn on automatic security updates (unattended-upgrades) and set up the guest account by hand.
+- **Check the board.** Debian must support the board, and its graphics must be fast enough for Firefox and LibreOffice. Graphics support varies from board to board, so test one before buying more.
+- **Pick one where you can.** Run LMDE or Debian with Cinnamon on all the user computers, not a mix, so volunteers look after one system. A mix is fine during a changeover.
+
 ## Choosing a System
 
 | Job | System | Hardware |
 |---|---|---|
 | Public and office computers | LMDE, with Firefox, the file manager, and LibreOffice | A low-power x86 mini PC, wired to the network |
+| Public and office computers (approved ARM option) | Debian with the Cinnamon desktop, Firefox ESR, and LibreOffice | An ARM desktop board or mini PC, wired to the network |
 | Servers (files, calendar, website) | FreeBSD, with each service in its own jail | An ARM server board. A RISC-V board only for light, non-critical services. |
 | Storage for backups and the archive | FreeBSD with ZFS on mirrored disks | An ARM board with plenty of memory and connections for two or more drives |
 | Router and firewall | FreeBSD with its built-in PF firewall | An ARM board with two or more network ports, or fiber ports |
@@ -72,19 +84,19 @@ This page is a bonus. It sits outside the tier triggers. Add it to the charter b
 **Check the hardware first.**
 
 - **ARM boards:** start FreeBSD from the ready-made image FreeBSD publishes for many ARM boards, and check that the network, storage, and any fiber ports work. Support for the newest boards often lags, so test one before buying more.
-- **User computers:** start LMDE from a live USB stick, without installing, and check that the screen, network, sound, and printer work.
+- **User computers:** start LMDE from a live USB stick, without installing, and check that the screen, network, sound, and printer work. For the ARM option, install Debian with Cinnamon on one board and check the same things, with Firefox and LibreOffice open.
 - A wired connection (copper inside the building, fiber between buildings) works best, which is one more reason public and office computers are wired mini PCs.
 
 **Use a solid-state drive, not a memory card,** for the system and data on any server, firewall, or recorder. Memory cards wear out quickly under constant writing.
 
-**Stay on supported releases.** Each FreeBSD and LMDE release gets security updates for a set period. Note the end dates on the [compliance calendar](../appendices/appendix-d-logs-sheets-and-reports/d09-compliance-calendar.md), and plan each upgrade before its date.
+**Stay on supported releases.** Each FreeBSD, LMDE, and Debian release gets security updates for a set period. Note the end dates on the [compliance calendar](../appendices/appendix-d-logs-sheets-and-reports/d09-compliance-calendar.md), and plan each upgrade before its date.
 
 ## When a Default Can't Be Met
 
 **Another system.** For that one job only:
 
 - **Linux or another BSD instead of FreeBSD** for infrastructure, when the device can't run FreeBSD (such as most Wi-Fi access points), the hardware isn't supported and supported hardware isn't affordable yet, or the software the job needs doesn't run on FreeBSD (such as some camera-recording software)
-- **Another Linux system instead of LMDE** for a user computer, when LMDE can't do that job or doesn't support the hardware
+- **Another Linux system instead of LMDE or Debian with Cinnamon** for a user computer, when neither can do that job or supports the hardware
 
 **Other hardware.** An x86 machine may run infrastructure instead of ARM, for that one job only, when:
 
@@ -105,11 +117,11 @@ For each exception, write down the job, the system or hardware used instead, and
 
 **Updates and backups**
 
-- [ ] **Security updates installed automatically,** on FreeBSD (scheduled freebsd-update and pkg) and on LMDE (the Update Manager's automatic updates), and checked monthly
+- [ ] **Security updates installed automatically,** on FreeBSD (scheduled freebsd-update and pkg) on LMDE (the Update Manager's automatic updates), and on Debian (unattended-upgrades), and checked monthly
 - [ ] **ZFS snapshots** taken on a schedule, so a deleted or damaged file can be brought back quickly
 - [ ] **Backups:** three copies, on two kinds of storage, with one copy off site. Snapshots alone are not a backup. Test a restore each season.
 - [ ] Camera footage and meeting recordings never share storage or administrators, as the camera policy and the meeting recording policy already require
-- [ ] Disk encryption (ZFS encryption or GELI on FreeBSD, or full-disk encryption chosen when installing LMDE) on any computer or drive that holds members' records, complaints, health details, or footage
+- [ ] Disk encryption (ZFS encryption or GELI on FreeBSD, or full-disk encryption chosen when installing LMDE or Debian) on any computer or drive that holds members' records, complaints, health details, or footage
 
 **Power**
 
@@ -125,7 +137,7 @@ For each exception, write down the job, the system or hardware used instead, and
 **Public computers**
 
 - [ ] Set in an open, visible spot, never in a private room ([Safeguarding](../part-1-core-chapters/05-people-and-safeguarding/02-safeguarding-children-and-vulnerable-adults.md))
-- [ ] A guest session that is wiped at every logout, so no one's browsing, files, or passwords are left behind. The administrators turn it on in LMDE's login settings and test it.
+- [ ] A guest session that is wiped at every logout, so no one's browsing, files, or passwords are left behind. The administrators turn it on in LMDE's login settings, or set up a guest account that resets at logout on Debian, and test it.
 - [ ] No community records stored on a public computer
 - [ ] Children use public computers under the same supervision rules as any other shared space. Use family-safe filtering where the law or the group requires it.
 - [ ] The community does not monitor what people do on public computers beyond what the law requires. Keep logs short and delete them on a schedule.
@@ -173,15 +185,15 @@ For each exception, write down the job, the system or hardware used instead, and
 
 Sometimes a bank, a tax office, or an accountant uses software made only for Windows or macOS. Work through these steps in order:
 
-1. **Use the web version.** Most banking, tax filing, and payment services work in Firefox on LMDE.
+1. **Use the web version.** Most banking, tax filing, and payment services work in Firefox on LMDE or Debian.
 2. **Use the professional's own systems.** Send the accountant or attorney the files, and let them run their software.
 3. **Ask for another format,** such as a spreadsheet or PDF instead of a program file.
 4. **Only if all three fail,** the board may approve a narrow written exception for that one task. Record the reason and the date in the revision log, keep the machine off the community network, store no community records on it, and review the exception every year.
 
 ## Tier Fit
 
-- **Tier 0:** no community computers are needed. Private phones and laptops are fine. If the group takes in a shared or donated computer, it runs LMDE from the start, after the hardware check.
-- **Tier 1:** one office computer, a low-power x86 mini PC running LMDE with Firefox and LibreOffice, for the logs, budget, and filings, with two administrators and an off-site backup
+- **Tier 0:** no community computers are needed. Private phones and laptops are fine. If the group takes in a shared or donated computer, it runs LMDE (or Debian with Cinnamon, on ARM) from the start, after the hardware check.
+- **Tier 1:** one office computer, a low-power x86 mini PC running LMDE, or an ARM board running Debian with Cinnamon, with Firefox and LibreOffice, for the logs, budget, and filings, with two administrators and an off-site backup
 - **Tier 2:** a community router and firewall (FreeBSD with PF, on an ARM board) with a guest network, and a camera recorder on its own network with off-site storage. Lay conduit with a pull string in every utility trench and road sleeve as it is dug.
 - **Tier 3:** a small ARM server running FreeBSD with ZFS for files, the shared calendar, and backups, the Meeting Hall recorder and archive storage, and a public computer in the Lodge. Pull fiber from the network cabinet to the Lodge, the Meeting Hall, and the camera recorder.
 - **Tier 4:** fiber to every building that needs the network, and a yearly review of systems, updates, backups, accounts, the fiber map, power use, any jobs not yet on the default systems or hardware, and any exceptions
@@ -198,7 +210,8 @@ Sometimes a bank, a tax office, or an accountant uses software made only for Win
 - Asking residents to change what runs on their own devices. The rule covers community systems only.
 - Accepting a donated computer without testing it with the system it will run
 - Each volunteer installing a different favorite system, so no one can look after them all
-- Letting a FreeBSD or LMDE release run past the end of its security updates
+- Letting a FreeBSD, LMDE, or Debian release run past the end of its security updates
+- Running LMDE on some user computers and Debian on others, with no plan to settle on one
 - Buying x86 out of habit when an ARM board would do the job
 - Running a server from a memory card until it wears out
 - Buying several ARM boards before testing that FreeBSD runs well on one

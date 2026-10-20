@@ -99,8 +99,9 @@ Plain meanings for the words this handbook uses in its own way. Where a term has
 | **ZFS** | The storage system built into FreeBSD. It mirrors disks, takes snapshots, checks for damaged data, and can encrypt. |
 | **Jail** | A walled-off space on a FreeBSD server where one service runs, so a problem in it can't reach the others. |
 | **Linux** | A free, open-source operating system family, such as Debian, Linux Mint, or OpenWrt. |
+| **Debian with Cinnamon** | Debian, a long-standing free Linux system, with the same Cinnamon desktop LMDE uses. An approved option for user computers on ARM hardware. |
 | **LMDE** | Linux Mint Debian Edition: a Linux system built on Debian, with Firefox, a file manager, and LibreOffice ready to use. The default for public and office computers. Runs only on x86. |
-| **ARM** | A family of processors that use little power, found in phones, small boards, and many newer computers. The default hardware for community infrastructure. |
+| **ARM** | A family of processors that use little power, found in phones, small boards, and many newer computers. The default hardware for community infrastructure, and for user computers that run Debian with Cinnamon. |
 | **RISC-V** | An open processor design that anyone may build without paying license fees. FreeBSD support is less mature than on ARM, so it is used only for light, non-critical services for now. |
 | **x86** | The processors in most desktop and laptop PCs, made by Intel and AMD. They use more power. The community uses them for LMDE user computers, which need x86, and for infrastructure only where ARM can't do the job. |
 | **BSD** | A family of free, open-source operating systems: FreeBSD, OpenBSD, and NetBSD. |

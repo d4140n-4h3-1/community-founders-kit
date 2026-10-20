@@ -13,6 +13,7 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 - FreeBSD is the default operating system for community systems and public computers; Linux or another BSD only where FreeBSD can't do a particular job, recorded on the network map
 - ARM is the default hardware for infrastructure, to save energy; RISC-V only for light, non-critical services until FreeBSD supports it fully; x86 only where ARM can't do the job or for donated machines until they wear out
 - Linux Mint Debian Edition (LMDE) is the default for public and office computers, on low-power x86 mini PCs, since LMDE runs only on x86; FreeBSD stays the default for infrastructure
+- Debian with the Cinnamon desktop on ARM is an approved option for user computers, for the energy savings, without needing an exception
 
 ### Better prepared founders (from a simulated founding group)
 

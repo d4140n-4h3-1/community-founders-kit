@@ -56,7 +56,7 @@
 
 **Bonus**
 
-- Digital infrastructure: FreeBSD on ARM for community systems, Linux Mint Debian Edition for public and office computers, and fiber optic cable between buildings
+- Digital infrastructure: FreeBSD on ARM for community systems, Linux Mint Debian Edition (or Debian with Cinnamon on ARM) for public and office computers, and fiber optic cable between buildings
 
 ---
 
