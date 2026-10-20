@@ -6,6 +6,11 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 
 ## Unreleased
 
+### Bonus: sister villages
+
+- New bonus page on growing past village size: grow larger when water, wastewater, land-use, governance, people, and social resources all allow, or start a separate sister village with its own land, charter, money, and tiers, linked by a written agreement
+- Chapter 1, Chapter 13, and the graduation trigger link to it, and a sister village counts as mentoring a new group
+
 ### Bonus: digital infrastructure
 
 - New bonus page: community servers, networks, and public computers run Linux or one of the BSDs, while residents' private devices are not covered

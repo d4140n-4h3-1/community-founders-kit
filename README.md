@@ -57,6 +57,7 @@
 **Bonus**
 
 - Digital infrastructure: FreeBSD on ARM for community systems, Linux Mint Debian Edition (or Debian with Cinnamon on ARM) for public and office computers, and fiber optic cable between buildings
+- Sister villages: growing larger when resources truly allow, or starting a separate sister village linked by agreement
 
 ---
 
@@ -95,6 +96,7 @@ The handbook is split into small files. Each part and each split chapter has its
   - [Appendix F: Glossary](handbook/appendices/appendix-f-glossary.md)
 - [Bonus](handbook/bonus/README.md)
   - [Digital Infrastructure](handbook/bonus/digital-infrastructure.md)
+  - [Sister Villages](handbook/bonus/sister-villages.md)
 
 ## Printing
 

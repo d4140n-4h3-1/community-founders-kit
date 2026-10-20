@@ -11,6 +11,8 @@
 - **First purchase** (leased land to owned land): Tier 3 → 4
 - **Adjacent or additional land:** any time after Tier 3, with the same checklist
 
+More land doesn't have to mean more people. If the extra land is for more residents, first decide between growing larger and starting a sister village ([Sister Villages](../bonus/sister-villages.md)).
+
 ## Before the Seller Is Ready
 
 - [ ] Keep a standing "land wish list": acreage range, budget ceiling, must-haves (water, road access, soil, zoning)

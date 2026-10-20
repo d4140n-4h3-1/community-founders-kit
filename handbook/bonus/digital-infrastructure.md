@@ -235,4 +235,4 @@ Sometimes a bank, a tax office, or an accountant uses software made only for Win
 
 ---
 
-← **Previous:** [Bonus](README.md)
+← **Previous:** [Bonus](README.md) · **Next:** [Sister Villages](sister-villages.md) →

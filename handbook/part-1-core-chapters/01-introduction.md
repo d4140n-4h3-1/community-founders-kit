@@ -57,7 +57,7 @@ Each tier ends with an **unlock trigger**: a checklist the community must meet, 
 - It does not know your climate, soil, or local customs. Adjust it with your agricultural extension service, neighbors, and market manager.
 - It cannot replace trust. If the group cannot agree on the basics in [Chapter 2](02-forming-a-group.md), no amount of planning will fix it.
 - Its thresholds (months of income, size of reserves, hours of work) are starting points. Your pilot will show which are too easy or too strict.
-- It is written for a **village-scale** community (roughly 20-30 residents). A much larger, town-sized community faces extra rules on water systems, wastewater, subdivision, and governance that need their own planning.
+- It is written for a **village-scale** community (roughly 20-30 residents). A much larger, town-sized community faces extra rules on water systems, wastewater, subdivision, and governance that need their own planning. [Sister Villages](../bonus/sister-villages.md) covers both growing larger and starting a separate sister village.
 
 ## Your First Week
 

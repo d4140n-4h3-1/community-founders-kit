@@ -21,6 +21,10 @@ Plain meanings for the words this handbook uses in its own way. Where a term has
 | **Supermajority** | A vote threshold above a simple majority, set in the charter, used for big decisions such as buying land. |
 | **Cooling-off period** | A set wait between presenting a big decision and voting on it. |
 | **Revision log** | The community's record of each tier vote, rule change, and lesson learned ([template](../../REVISION_LOG.md)). |
+| **Sister village** | A new, separate village of about 20-30 people, started with help from an established one, with its own land, charter, money, and tiers ([Bonus](../bonus/sister-villages.md)). |
+| **Parent village** | The established village that helps a sister village start. It advises, but never makes the sister village's decisions. |
+| **Sister-village agreement** | The written agreement between a parent and a sister village: independence, land, start-up support, what is shared, mentors, and how either side can end it. |
+| **Neighborhood circle** | A group of nearby households in a larger village that meets on its own and sends delegates to the governance meeting. |
 
 ## People and Daily Life
 
