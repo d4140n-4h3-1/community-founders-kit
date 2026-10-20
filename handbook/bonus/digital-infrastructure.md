@@ -1,10 +1,10 @@
 [Handbook](../../README.md) › [Bonus](README.md) ›
 
-# Digital Infrastructure: Linux, BSD, and Fiber
+# Digital Infrastructure: FreeBSD and Fiber
 
 ## Rule
 
-**If the community uses digital infrastructure or public computers, they run Linux or one of the BSDs.** That covers every computer, server, and network device the community owns, runs, or offers for shared use. **Private devices are not subject to this rule.** A resident's own phone, laptop, tablet, or game console can run anything its owner likes.
+**If the community uses digital infrastructure or public computers, FreeBSD is the default operating system.** That covers every computer, server, and network device the community owns, runs, or offers for shared use. Linux or another BSD is used only where FreeBSD can't do a particular job (see [When FreeBSD Can't Do the Job](#when-freebsd-cant-do-the-job)). **Private devices are not subject to this rule.** A resident's own phone, laptop, tablet, or game console can run anything its owner likes.
 
 **Fiber optic cable links the community's buildings wherever possible.** There is no expectation that the community connects to an outside fiber provider or the main public network. The point is the local network: fiber makes local files, backups, the meeting archive, and camera footage much faster to open, copy, and download between buildings (see [Fiber Optic Network](#fiber-optic-network)).
 
@@ -12,7 +12,7 @@ This page is a bonus. It sits outside the tier triggers. Add it to the charter b
 
 ## What It Covers
 
-| Covered (Linux or BSD) | Not covered |
+| Covered (FreeBSD by default) | Not covered |
 |---|---|
 | Community servers: file storage, backups, the shared calendar, the website | Residents' own phones, laptops, tablets, and desktops |
 | The router, firewall, Wi-Fi access points, and fiber network the community runs | Visitors' devices |
@@ -22,33 +22,45 @@ This page is a bonus. It sits outside the tier triggers. Add it to the charter b
 | Public computers: a Lodge computer, a homework or library computer, a sign-in kiosk | |
 | Any donated computer, once it is put into shared use | |
 
-**Sealed appliances.** Some devices run built-in software that no one can replace, such as a card reader from the payment processor, a camera's own firmware, or a smart meter. They are allowed. Prefer models that run Linux or open firmware, keep them on their own network, and never let them hold community records.
+**Sealed appliances.** Some devices run built-in software that no one can replace, such as a card reader from the payment processor, a camera's own firmware, or a smart meter. They are allowed. Prefer models that run open firmware, keep them on their own network, and never let them hold community records.
 
-## Why Linux and the BSDs
+## Why FreeBSD
 
+- **Small and fast.** A lean system that runs well on old and donated hardware, which suits a community that grows only as funds allow.
+- **It covers what most people need.** Most users only need a web browser, a file manager, and office software such as LibreOffice. All of them are standard FreeBSD packages.
+- **One complete system from one project.** The core of the system is built and documented together, in the free FreeBSD Handbook, so volunteers learn one system, not a patchwork.
+- **ZFS storage built in.** Mirrored disks, snapshots to undo mistakes, checks against silent data damage, and encryption. That suits the meeting archive, camera footage, and members' records.
+- **Jails** keep each service, such as the file server, the calendar, and the website, walled off from the others, so a problem in one doesn't spread.
+- **The same family as the firewall.** OPNsense and pfSense are built on FreeBSD, so the router and the servers share one set of skills.
 - **No license fees.** Money goes to the reserve, not to software renewals ([Chapter 8](../part-2-market-engine/08-money-rules/README.md)).
-- **They run well on old and donated hardware,** which suits a community that grows only as funds allow.
-- **Long support and steady updates,** so a system set up at Tier 1 can still be safe at Tier 4.
-- **Open source code** that anyone can inspect. That matters for systems that hold camera footage, the meeting archive, and members' private records.
-- **No forced accounts, advertising, or data collection** built into the system.
-- **No single vendor to depend on.** Many volunteers, and many local technicians, can maintain them.
+- **Open source code** that anyone can inspect, with no forced accounts, advertising, or data collection, and no single vendor to depend on.
 
 ## Choosing a System
 
-These are common, well-supported starting points, not the only good choices. Pick one per job and stay with it, so the volunteers who maintain it don't have to learn several.
-
-| Job | Common choices |
+| Job | Default |
 |---|---|
-| Public and office computers | A desktop Linux system built for ease of use, such as Linux Mint, Ubuntu, Debian, or Fedora |
-| Servers (files, calendar, backups, archive) | Debian, Ubuntu LTS, or FreeBSD |
-| Router and firewall | OpenWrt (Linux), or OPNsense or pfSense (FreeBSD) |
-| Firewall where security matters most | OpenBSD |
-| Storage for backups and the archive | A Linux or FreeBSD server with mirrored disks |
-| Camera recorder | A Linux server running open camera-recording software |
+| Public and office computers | FreeBSD with a light desktop (such as Xfce), Firefox, a file manager, and LibreOffice. GhostBSD, a FreeBSD-based desktop that comes ready to use, is an easier start. |
+| Servers (files, calendar, website) | FreeBSD, with each service in its own jail |
+| Storage for backups and the archive | FreeBSD with ZFS on mirrored disks |
+| Router and firewall | OPNsense or pfSense, both built on FreeBSD |
+| Wi-Fi access points | Access points that run open firmware. FreeBSD doesn't run on most access points, so OpenWrt (Linux) is the usual choice. |
+| Camera recorder | FreeBSD, if the chosen open camera-recording software runs on it. Otherwise a Linux server (see below). |
 
-**Software that works on all of these:** a web browser such as Firefox, LibreOffice for documents and spreadsheets (the logs and sheets in [Appendix D](../appendices/appendix-d-logs-sheets-and-reports/README.md)), and open bookkeeping software. Ask the accountant which file formats they accept before choosing.
+**Software for everyday users:** Firefox, the desktop's file manager, LibreOffice for documents and spreadsheets (the logs and sheets in [Appendix D](../appendices/appendix-d-logs-sheets-and-reports/README.md)), a PDF reader, and open bookkeeping software. Ask the accountant which file formats they accept before choosing.
 
-**Before you choose,** check that the system still gets security updates and that at least two members can look after it.
+**Check the hardware first.** Before buying or accepting a computer, start it from a FreeBSD or GhostBSD installer stick and check that the screen, network, sound, and printer work. A wired connection (copper inside the building, fiber between buildings) works best. Built-in Wi-Fi on newer laptops is the most common gap, which is one more reason public and office computers are wired desktops.
+
+**Stay on a supported release.** Each FreeBSD release gets security updates for a set period. Note the end date on the [compliance calendar](../appendices/appendix-d-logs-sheets-and-reports/d09-compliance-calendar.md), and plan the upgrade before it.
+
+## When FreeBSD Can't Do the Job
+
+Linux or another BSD may be used instead, for that one job only, when:
+
+- **The device can't run FreeBSD,** such as most Wi-Fi access points
+- **The hardware isn't supported,** such as a donated computer whose network or graphics don't work on FreeBSD, and buying supported hardware isn't affordable yet
+- **The software the job needs doesn't run on FreeBSD,** such as some camera-recording software
+
+For each one, write down the job, the system used instead, and why, on the network map. Review the list every year, and move the job to FreeBSD when it can be. Software made only for Windows or macOS is a different case (see [When a Required Program Won't Run](#when-a-required-program-wont-run)).
 
 ## Running It Safely
 
@@ -60,10 +72,11 @@ These are common, well-supported starting points, not the only good choices. Pic
 
 **Updates and backups**
 
-- [ ] **Security updates turned on to install automatically,** and checked monthly
-- [ ] **Backups:** three copies, on two kinds of storage, with one copy off site. Test a restore each season.
+- [ ] **Security updates scheduled to install automatically,** for the system (freebsd-update) and the software (pkg), and checked monthly
+- [ ] **ZFS snapshots** taken on a schedule, so a deleted or damaged file can be brought back quickly
+- [ ] **Backups:** three copies, on two kinds of storage, with one copy off site. Snapshots alone are not a backup. Test a restore each season.
 - [ ] Camera footage and meeting recordings never share storage or administrators, as the camera policy and the meeting recording policy already require
-- [ ] Disk encryption on any computer or drive that holds members' records, complaints, health details, or footage
+- [ ] Disk encryption (ZFS encryption or GELI) on any computer or drive that holds members' records, complaints, health details, or footage
 
 **Networks**
 
@@ -74,7 +87,7 @@ These are common, well-supported starting points, not the only good choices. Pic
 **Public computers**
 
 - [ ] Set in an open, visible spot, never in a private room ([Safeguarding](../part-1-core-chapters/05-people-and-safeguarding/02-safeguarding-children-and-vulnerable-adults.md))
-- [ ] A guest account that wipes itself at logout, so no one's browsing, files, or passwords are left behind
+- [ ] A guest account that resets to a clean copy at every logout, so no one's browsing, files, or passwords are left behind. FreeBSD doesn't include one ready-made, so the administrators set it up and test it.
 - [ ] No community records stored on a public computer
 - [ ] Children use public computers under the same supervision rules as any other shared space. Use family-safe filtering where the law or the group requires it.
 - [ ] The community does not monitor what people do on public computers beyond what the law requires. Keep logs short and delete them on a schedule.
@@ -122,18 +135,18 @@ These are common, well-supported starting points, not the only good choices. Pic
 
 Sometimes a bank, a tax office, or an accountant uses software made only for Windows or macOS. Work through these steps in order:
 
-1. **Use the web version.** Most banking, tax filing, and payment services work in a browser on Linux or BSD.
+1. **Use the web version.** Most banking, tax filing, and payment services work in Firefox on FreeBSD.
 2. **Use the professional's own systems.** Send the accountant or attorney the files, and let them run their software.
 3. **Ask for another format,** such as a spreadsheet or PDF instead of a program file.
 4. **Only if all three fail,** the board may approve a narrow written exception for that one task. Record the reason and the date in the revision log, keep the machine off the community network, store no community records on it, and review the exception every year.
 
 ## Tier Fit
 
-- **Tier 0:** no community computers are needed. Private phones and laptops are fine. If the group takes in a shared or donated computer, it runs Linux or BSD from the start.
-- **Tier 1:** one office computer for the logs, budget, and filings, with two administrators and an off-site backup
-- **Tier 2:** a community router and firewall with a guest network, and a camera recorder on its own network with off-site storage. Lay conduit with a pull string in every utility trench and road sleeve as it is dug.
-- **Tier 3:** a small server for files, the shared calendar, and backups, the Meeting Hall recorder and archive storage, and a public computer in the Lodge. Pull fiber from the network cabinet to the Lodge, the Meeting Hall, and the camera recorder.
-- **Tier 4:** fiber to every building that needs the network, and a yearly review of systems, updates, backups, accounts, the fiber map, and any exceptions
+- **Tier 0:** no community computers are needed. Private phones and laptops are fine. If the group takes in a shared or donated computer, it runs FreeBSD from the start, after the hardware check.
+- **Tier 1:** one office computer running FreeBSD with a desktop, Firefox, and LibreOffice, for the logs, budget, and filings, with two administrators and an off-site backup
+- **Tier 2:** a community router and firewall (OPNsense or pfSense) with a guest network, and a camera recorder on its own network with off-site storage. Lay conduit with a pull string in every utility trench and road sleeve as it is dug.
+- **Tier 3:** a small FreeBSD server with ZFS for files, the shared calendar, and backups, the Meeting Hall recorder and archive storage, and a public computer in the Lodge. Pull fiber from the network cabinet to the Lodge, the Meeting Hall, and the camera recorder.
+- **Tier 4:** fiber to every building that needs the network, and a yearly review of systems, updates, backups, accounts, the fiber map, any jobs not yet on FreeBSD, and any exceptions
 
 ## Common Failures
 
@@ -145,6 +158,9 @@ Sometimes a bank, a tax office, or an accountant uses software made only for Win
 - Members' records saved on a public computer
 - The router still using its default password
 - Asking residents to change what runs on their own devices. The rule covers community systems only.
+- Accepting a donated computer without checking that it runs FreeBSD
+- Each volunteer installing a different favorite system, so no one can look after them all
+- Letting a FreeBSD release run past the end of its security updates
 - Copper network cable run between buildings, then destroyed by a lightning strike
 - Burying fiber without conduit, or digging a trench without laying spare conduit
 - No spare strands, so one damaged strand means a new cable

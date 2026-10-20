@@ -10,6 +10,7 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 
 - New bonus page: community servers, networks, and public computers run Linux or one of the BSDs, while residents' private devices are not covered
 - Fiber optic cable links the community's buildings wherever possible, for fast local file access, with no expectation of joining an outside fiber network; utility trenches lay conduit for it as they are dug
+- FreeBSD is the default operating system for community systems and public computers; Linux or another BSD only where FreeBSD can't do a particular job, recorded on the network map
 
 ### Better prepared founders (from a simulated founding group)
 

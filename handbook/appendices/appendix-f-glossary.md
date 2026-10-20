@@ -92,10 +92,13 @@ Plain meanings for the words this handbook uses in its own way. Where a term has
 
 | Term | Meaning |
 |---|---|
-| **Digital infrastructure** | The computers, servers, and network devices the community owns, runs, or offers for shared use. It runs Linux or a BSD ([Bonus](../bonus/digital-infrastructure.md)). |
+| **Digital infrastructure** | The computers, servers, and network devices the community owns, runs, or offers for shared use. It runs FreeBSD by default ([Bonus](../bonus/digital-infrastructure.md)). |
 | **Public computer** | A community computer anyone may use, such as one in the Lodge. It has a guest account that wipes itself at logout. |
-| **Private device** | A phone, laptop, tablet, or other device a resident or visitor owns. The Linux and BSD rule does not apply to it. |
-| **Linux** | A free, open-source operating system family, such as Debian, Ubuntu, Fedora, or Linux Mint. |
+| **Private device** | A phone, laptop, tablet, or other device a resident or visitor owns. The FreeBSD rule does not apply to it. |
+| **FreeBSD** | A free, open-source operating system, and the default for the community's computers, servers, and network. |
+| **ZFS** | The storage system built into FreeBSD. It mirrors disks, takes snapshots, checks for damaged data, and can encrypt. |
+| **Jail** | A walled-off space on a FreeBSD server where one service runs, so a problem in it can't reach the others. |
+| **Linux** | A free, open-source operating system family, such as Debian or OpenWrt. Used only where FreeBSD can't do a particular job. |
 | **BSD** | A family of free, open-source operating systems: FreeBSD, OpenBSD, and NetBSD. |
 | **Fiber optic cable** | Network cable made of glass strands that carry light. Used between buildings because it is fast, runs long distances, and cannot carry lightning ([Bonus](../bonus/digital-infrastructure.md#fiber-optic-network)). |
 | **Sealed appliance** | A device whose built-in software cannot be replaced, such as a payment processor's card reader. Allowed, but kept on its own network and never used for community records. |
