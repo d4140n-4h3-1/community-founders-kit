@@ -6,6 +6,10 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 
 ## Unreleased
 
+### Bonus: digital infrastructure
+
+- New bonus page: community servers, networks, and public computers run Linux or one of the BSDs, while residents' private devices are not covered
+
 ### Better prepared founders (from a simulated founding group)
 
 - Money rules judge a full year against the budget, so a planned off-season no longer forces a step back; the Tier 1 → Tier 2 income test covers a full season and off-season

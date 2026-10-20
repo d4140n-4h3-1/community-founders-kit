@@ -54,6 +54,10 @@
 - **E.** Tier review worksheet
 - **F.** Glossary
 
+**Bonus**
+
+- Digital infrastructure: Linux and BSD for community systems and public computers
+
 ---
 
 ## Where Everything Lives
@@ -89,6 +93,8 @@ The handbook is split into small files. Each part and each split chapter has its
   - [Appendix D: Logs, Sheets, and Reports](handbook/appendices/appendix-d-logs-sheets-and-reports/README.md)
   - [Appendix E: Tier Review Worksheet](handbook/appendices/appendix-e-tier-review-worksheet.md)
   - [Appendix F: Glossary](handbook/appendices/appendix-f-glossary.md)
+- [Bonus](handbook/bonus/README.md)
+  - [Digital Infrastructure: Linux and BSD](handbook/bonus/digital-infrastructure.md)
 
 ## Printing
 
