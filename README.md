@@ -56,7 +56,7 @@
 
 **Bonus**
 
-- Digital infrastructure: Linux and BSD for community systems and public computers
+- Digital infrastructure: Linux and BSD for community systems and public computers, and fiber optic cable between buildings
 
 ---
 
@@ -94,7 +94,7 @@ The handbook is split into small files. Each part and each split chapter has its
   - [Appendix E: Tier Review Worksheet](handbook/appendices/appendix-e-tier-review-worksheet.md)
   - [Appendix F: Glossary](handbook/appendices/appendix-f-glossary.md)
 - [Bonus](handbook/bonus/README.md)
-  - [Digital Infrastructure: Linux and BSD](handbook/bonus/digital-infrastructure.md)
+  - [Digital Infrastructure: Linux, BSD, and Fiber](handbook/bonus/digital-infrastructure.md)
 
 ## Printing
 

@@ -9,6 +9,7 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 ### Bonus: digital infrastructure
 
 - New bonus page: community servers, networks, and public computers run Linux or one of the BSDs, while residents' private devices are not covered
+- Fiber optic cable links the community's buildings wherever possible, for fast local file access, with no expectation of joining an outside fiber network; utility trenches lay conduit for it as they are dug
 
 ### Better prepared founders (from a simulated founding group)
 

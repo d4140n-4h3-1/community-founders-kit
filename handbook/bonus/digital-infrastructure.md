@@ -1,10 +1,12 @@
 [Handbook](../../README.md) › [Bonus](README.md) ›
 
-# Digital Infrastructure: Linux and BSD
+# Digital Infrastructure: Linux, BSD, and Fiber
 
 ## Rule
 
 **If the community uses digital infrastructure or public computers, they run Linux or one of the BSDs.** That covers every computer, server, and network device the community owns, runs, or offers for shared use. **Private devices are not subject to this rule.** A resident's own phone, laptop, tablet, or game console can run anything its owner likes.
+
+**Fiber optic cable links the community's buildings wherever possible.** There is no expectation that the community connects to an outside fiber provider or the main public network. The point is the local network: fiber makes local files, backups, the meeting archive, and camera footage much faster to open, copy, and download between buildings (see [Fiber Optic Network](#fiber-optic-network)).
 
 This page is a bonus. It sits outside the tier triggers. Add it to the charter by a vote when the community first sets up a shared computer, a network, or a server, and add it to your [revision log](../../REVISION_LOG.md).
 
@@ -13,7 +15,7 @@ This page is a bonus. It sits outside the tier triggers. Add it to the charter b
 | Covered (Linux or BSD) | Not covered |
 |---|---|
 | Community servers: file storage, backups, the shared calendar, the website | Residents' own phones, laptops, tablets, and desktops |
-| The router, firewall, and Wi-Fi access points the community runs | Visitors' devices |
+| The router, firewall, Wi-Fi access points, and fiber network the community runs | Visitors' devices |
 | The recorder for the security cameras ([Cameras and Surveillance Policy](../part-1-core-chapters/05-people-and-safeguarding/07-cameras-and-surveillance-policy.md)) | Devices that belong to the internet provider, the bank, or the payment processor |
 | The Meeting Hall recorder and archive storage ([Meeting Hall and Meeting Archive](../part-3-site-and-infrastructure/09-shelter-evolution/06-the-meeting-hall-and-meeting-archive.md)) | Sealed appliances with no choice of system (see below) |
 | The office computer used for bookkeeping, logs, and filings | |
@@ -77,6 +79,45 @@ These are common, well-supported starting points, not the only good choices. Pic
 - [ ] Children use public computers under the same supervision rules as any other shared space. Use family-safe filtering where the law or the group requires it.
 - [ ] The community does not monitor what people do on public computers beyond what the law requires. Keep logs short and delete them on a schedule.
 
+## Fiber Optic Network
+
+**Rule:** cable between buildings is **fiber optic wherever possible.** Copper network cable is fine inside a building, and Wi-Fi is fine for private devices.
+
+**Why fiber between buildings**
+
+- **Speed for local files.** Files on the community server, backups, meeting recordings, and camera footage move between buildings at full speed, whatever the outside internet connection is like.
+- **It works without the internet.** The local network keeps running during an outage, or if the community has only a slow outside connection, or none.
+- **No lightning or electrical path.** Fiber is glass, not metal, so it cannot carry a lightning surge or stray current from one building to another. Copper cable run between buildings can, and it can destroy the equipment at both ends.
+- **Long runs.** Copper network cable is limited to about 328 ft (100 m). Fiber runs much farther, so the farthest cabin or the Meeting Hall can be reached in one length.
+- **It lasts.** Fiber does not corrode, and the same cable can carry faster equipment later.
+- **No expectation of joining the main infrastructure.** If a fiber internet provider reaches the area, the community may connect, but it is never required. The local network is worth building on its own.
+
+**Laying it**
+
+- [ ] **Conduit first.** Lay conduit with a pull string in every utility trench and road sleeve as it is dug ([Utility Trenches and Access Pits](../part-3-site-and-infrastructure/10-water-plumbing-and-septic/03-utility-trenches-and-access-pits.md)), even before there is fiber to pull. Digging once costs far less than digging twice.
+- [ ] **Keep it in its own conduit,** apart from power, as the electrical code requires
+- [ ] **Outdoor-rated cable** made for conduit or direct burial, with a moisture barrier
+- [ ] **All-dielectric (no metal) cable** where possible, so it carries no lightning. If armored cable with metal is used, bond the armor to ground as the code requires.
+- [ ] **Single-mode fiber** for runs between buildings, since it covers the longest distances and suits future equipment. Ask the installer to confirm.
+- [ ] **Spare strands:** pull more strands than you need now (for example, 12), so a broken strand or a new building doesn't mean a new cable
+- [ ] **Pre-terminated cable or a trained installer.** Joining and finishing fiber ends takes special tools, so buy cable with the ends already fitted, or pay someone to do it.
+- [ ] **Never bend it sharply.** Follow the maker's minimum bend radius, and use pull boxes on long or bending runs.
+- [ ] **Warning tape and a tracer** above buried runs, because fiber cannot be found with a metal detector
+- [ ] **A star layout:** every building runs back to one network cabinet in a noncombustible, lockable building, next to the community server
+- [ ] **A map** of every run, conduit, and strand, kept with the network passwords by both administrators
+
+**Equipment**
+
+- A network switch with fiber ports, or a small converter, at each end of every fiber run
+- Copper cable or Wi-Fi from that switch to the computers inside each building
+- Cameras that take power through their network cable still need copper for the last stretch, or a power supply at the camera, with fiber back to the recorder
+
+**Safety**
+
+- [ ] **Never look into the end of a fiber or a fiber port.** The light is often invisible and can damage eyes.
+- [ ] Wear safety glasses when cutting or finishing fiber, and pick up glass scraps with tape. Dispose of them in a sealed container, away from food and children.
+- [ ] Call the local utility locating service before digging, and check the community's own fiber map
+
 ## When a Required Program Won't Run
 
 Sometimes a bank, a tax office, or an accountant uses software made only for Windows or macOS. Work through these steps in order:
@@ -90,9 +131,9 @@ Sometimes a bank, a tax office, or an accountant uses software made only for Win
 
 - **Tier 0:** no community computers are needed. Private phones and laptops are fine. If the group takes in a shared or donated computer, it runs Linux or BSD from the start.
 - **Tier 1:** one office computer for the logs, budget, and filings, with two administrators and an off-site backup
-- **Tier 2:** a community router and firewall with a guest network, and a camera recorder on its own network with off-site storage
-- **Tier 3:** a small server for files, the shared calendar, and backups, the Meeting Hall recorder and archive storage, and a public computer in the Lodge
-- **Tier 4:** a yearly review of systems, updates, backups, accounts, and any exceptions
+- **Tier 2:** a community router and firewall with a guest network, and a camera recorder on its own network with off-site storage. Lay conduit with a pull string in every utility trench and road sleeve as it is dug.
+- **Tier 3:** a small server for files, the shared calendar, and backups, the Meeting Hall recorder and archive storage, and a public computer in the Lodge. Pull fiber from the network cabinet to the Lodge, the Meeting Hall, and the camera recorder.
+- **Tier 4:** fiber to every building that needs the network, and a yearly review of systems, updates, backups, accounts, the fiber map, and any exceptions
 
 ## Common Failures
 
@@ -104,12 +145,17 @@ Sometimes a bank, a tax office, or an accountant uses software made only for Win
 - Members' records saved on a public computer
 - The router still using its default password
 - Asking residents to change what runs on their own devices. The rule covers community systems only.
+- Copper network cable run between buildings, then destroyed by a lightning strike
+- Burying fiber without conduit, or digging a trench without laying spare conduit
+- No spare strands, so one damaged strand means a new cable
+- No map of the fiber runs, so a digger cuts one
 
 ## Money Tie-In
 
 - Track hardware, storage, internet, and backup costs in the [expense log](../appendices/appendix-d-logs-sheets-and-reports/d06-expense-log.md)
 - Accept donated hardware, but wipe it and install a fresh system before use
 - Pay a local technician for setup if no member has the skills, and have them train the two administrators
+- Most of the cost of fiber is digging and conduit, not the cable. Lay conduit during trench and road work, and pull fiber later as funds allow ([capital plan](../appendices/appendix-d-logs-sheets-and-reports/d20-capital-plan-and-build-order.md))
 
 > Data protection, privacy, children's online safety, and record-keeping rules differ by location. This handbook gives no legal advice, so check what applies to the records and computers you keep, and ask an attorney before collecting members' personal data.
 
