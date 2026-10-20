@@ -27,6 +27,22 @@ This page is a bonus. It sits outside the tier triggers. A community adopts it b
 | People | More trained first-aiders, mediators, and safeguarding leads, and more people ready to take on roles, so the load doesn't fall on the same few ([Leadership and Burnout](../part-1-core-chapters/05-people-and-safeguarding/04-health-leadership-and-leaving.md#leadership-and-burnout)). |
 | Social fabric | Shared meals, the work guideline, and the conflict ladder rely on people knowing each other. That gets harder with every household. |
 
+**What growing larger gains**
+
+- **More field hands.** The biggest gain. At the guideline of about 12 hours a week per adult ([Daily Life](../part-1-core-chapters/05-people-and-safeguarding/08-daily-life-chores-shared-spaces-and-routines.md)), ten more adults add about 120 hours a week, roughly three full-time workers, in one place.
+- **Easier peak weeks.** Planting, harvest, market prep, and building days are where small groups break down. More hands carry them.
+- **Room to specialize.** Someone can run the greenhouse full time while someone else runs the market stand or the books.
+- **Backups everywhere.** Two trained people for every critical job is far easier to staff.
+- **Less burnout,** because no one carries the whole load.
+- **More skills,** and more income from a larger market plot or a second market day.
+- **Shared costs spread further:** one set of halls, roads, and systems serves more households.
+
+**The catch: hands need work that pays its way.** Each new household also needs housing, water, septic capacity, and food. Extra hands add to what the community has only when their work produces more than they need. Before growing, show it with the [labor budget](../appendices/appendix-d-logs-sheets-and-reports/d21-labor-budget.md):
+
+- [ ] The land, water, tools, and market can absorb the extra hours. On the same beds and the same stand, each extra worker adds less.
+- [ ] Children, elders, and members with jobs off site are counted at their reduced hours, not as full field hands
+- [ ] The extra time spent on meetings, scheduling, and conflicts in a larger group is counted too
+
 **How the two paths compare**
 
 | | Grow larger | Start a sister village |
@@ -35,6 +51,7 @@ This page is a bonus. It sits outside the tier triggers. A community adopts it b
 | Regulation | Crosses thresholds for water, wastewater, and subdivision | Each village stays under them, if their systems are truly separate |
 | Governance | Must change to representatives | Each village keeps whole-group meetings |
 | Shared costs | One set of halls, roads, and systems | Two sets, though some equipment and services can be shared |
+| Labor | More hands in one place, so peak weeks are easier to staff and roles can specialize | Hands are split between villages, but shared at peak weeks through a harvest labor exchange |
 | Risk | One failure affects everyone | A bad season or a dispute in one village doesn't sink the other |
 | Character | A small town | A cluster of villages |
 
@@ -49,6 +66,7 @@ If the community chooses to grow larger:
 - [ ] **Get the regulated systems in place first:** confirm whether the water system becomes a public water system and whether the wastewater system needs a new permit, and have the licensed operator or engineer ready before the population crosses the threshold
 - [ ] **Get subdivision and land-use approvals** in writing before laying out new home sites
 - [ ] **Change the governance before the size,** by charter amendment: for example, neighborhood circles that each send delegates to the governance meeting, with big decisions still going to everyone
+- [ ] **Run the labor budget** for the larger number, and show that the extra hours have productive work ([Appendix D21](../appendices/appendix-d-logs-sheets-and-reports/d21-labor-budget.md))
 - [ ] **Train more people:** a first-aider, a mediator, and a safeguarding contact for each neighborhood
 - [ ] **Add a second equal hall** when the Lodge is regularly full ([The Community Lodge](../part-3-site-and-infrastructure/09-shelter-evolution/05-the-community-lodge.md))
 - [ ] **Scale the money:** the six-month reserve, the property tax fund, and any lot fees recalculated for the larger number of planned lots ([Chapter 8](../part-2-market-engine/08-money-rules/README.md))
@@ -115,6 +133,7 @@ Choose one of these, with an attorney's help:
 By written agreement, and only what both villages want:
 
 - **The market:** a shared stand or alternating days, if the market's rules allow it, with each village's sales, cash counts, and sales tax kept separate ([Chapter 6](../part-2-market-engine/06-market-business-basics/README.md))
+- **A harvest labor exchange:** each village's crew helps at the other's peak weeks, such as planting, harvest, and building days, and the favor is returned. Hours are recorded in both villages' [volunteer-hours logs](../appendices/appendix-d-logs-sheets-and-reports/d07-contribution-and-volunteer-hours-log.md), count toward each helper's weekly guideline, and are balanced over the year or settled by the agreed formula. Visiting helpers follow the host village's conduct, safeguarding, and safety rules.
 - **Bulk buying:** seed, gravel, block, and drywall bought together for a lower price
 - **An equipment library:** larger tools and machines with a shared sign-out list and repair fund
 - **Training:** first aid, mediation, safeguarding, hunter education, and firearms safety courses held together
@@ -151,7 +170,7 @@ By written agreement, and only what both villages want:
 3. **Independence:** each village governs itself. Neither votes in, vetoes, or overrules the other's decisions.
 4. **Land:** *[own land / lease from the parent, with its land-use agreement attached / shared land trust]*
 5. **Start-up support:** *[gift amount and source, equipment, seedlings]*, approved by the parent's board on *[date]*
-6. **What is shared:** *[market, bulk buying, equipment library, training, appeals, mutual aid, fiber link]*, and how each cost is split: *[formula]*
+6. **What is shared:** *[market, harvest labor exchange, bulk buying, equipment library, training, appeals, mutual aid, fiber link]*, and how each cost is split: *[formula]*
 7. **What is never shared:** money, title (except through a shared land trust), votes, private records, footage, archives, and water and septic systems
 8. **Mentors:** *[name]* and *[name]*, for at least *[two years]*
 9. **Disputes between the villages:** talked through by the two governance meetings, then an outside mediator
@@ -177,6 +196,8 @@ By written agreement, and only what both villages want:
 - Two villages on one water or septic system, crossing the threshold they meant to avoid
 - A lease the parent can end on short notice, so the sister village can't safely build
 - Rivalry at the market, or one village always taking the better market days
+- A labor exchange where one village always gives and the other always takes, with no hours recorded
+- Growing larger for the extra hands without checking that the land, water, and market can put them to work
 - No way to end the agreement, so a strained relationship has nowhere to go
 - Growing larger without changing the governance first, so meetings and decisions stop working
 

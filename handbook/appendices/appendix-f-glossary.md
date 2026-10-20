@@ -24,6 +24,7 @@ Plain meanings for the words this handbook uses in its own way. Where a term has
 | **Sister village** | A new, separate village of about 20-30 people, started with help from an established one, with its own land, charter, money, and tiers ([Bonus](../bonus/sister-villages.md)). |
 | **Parent village** | The established village that helps a sister village start. It advises, but never makes the sister village's decisions. |
 | **Sister-village agreement** | The written agreement between a parent and a sister village: independence, land, start-up support, what is shared, mentors, and how either side can end it. |
+| **Harvest labor exchange** | An agreement between sister villages to help at each other's peak weeks, with the hours recorded on both sides and balanced over the year. |
 | **Neighborhood circle** | A group of nearby households in a larger village that meets on its own and sends delegates to the governance meeting. |
 
 ## People and Daily Life
