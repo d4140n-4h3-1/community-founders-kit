@@ -4,9 +4,12 @@
 
 ## Rule
 
-**If the community uses digital infrastructure or public computers, FreeBSD is the default operating system.** That covers every computer, server, and network device the community owns, runs, or offers for shared use. Linux or another BSD is used only where FreeBSD can't do a particular job (see [When a Default Can't Be Met](#when-a-default-cant-be-met)). **Private devices are not subject to this rule.** A resident's own phone, laptop, tablet, or game console can run anything its owner likes.
+**If the community uses digital infrastructure or public computers, two defaults apply:**
 
-**ARM or RISC-V is the default hardware.** These processors use far less power than the usual x86 (Intel and AMD) machines, which matters when power comes from a small solar and battery system. An x86 machine is used only where ARM or RISC-V can't do a particular job (see [When a Default Can't Be Met](#when-a-default-cant-be-met)).
+- **Infrastructure runs FreeBSD on ARM hardware.** That covers the servers, storage, firewall, network, and recorders the community owns or runs. ARM uses far less power than the usual x86 (Intel and AMD) machines, which matters when power comes from a small solar and battery system.
+- **Computers people sit at run Linux Mint Debian Edition (LMDE).** That covers public computers, the office computer, and any kiosk. Most users only need a web browser, a file manager, and office software such as LibreOffice, and LMDE comes with all three, ready to use. LMDE runs only on x86, so these are the most energy-efficient x86 machines available, such as low-power mini PCs.
+
+Another system or other hardware is used only where a default can't do a particular job (see [When a Default Can't Be Met](#when-a-default-cant-be-met)). **Private devices are not subject to these rules.** A resident's own phone, laptop, tablet, or game console can run anything its owner likes.
 
 **Fiber optic cable links the community's buildings wherever possible.** There is no expectation that the community connects to an outside fiber provider or the main public network. The point is the local network: fiber makes local files, backups, the meeting archive, and camera footage much faster to open, copy, and download between buildings (see [Fiber Optic Network](#fiber-optic-network)).
 
@@ -14,73 +17,81 @@ This page is a bonus. It sits outside the tier triggers. Add it to the charter b
 
 ## What It Covers
 
-| Covered (FreeBSD on ARM or RISC-V by default) | Not covered |
-|---|---|
-| Community servers: file storage, backups, the shared calendar, the website | Residents' own phones, laptops, tablets, and desktops |
-| The router, firewall, Wi-Fi access points, and fiber network the community runs | Visitors' devices |
-| The recorder for the security cameras ([Cameras and Surveillance Policy](../part-1-core-chapters/05-people-and-safeguarding/07-cameras-and-surveillance-policy.md)) | Devices that belong to the internet provider, the bank, or the payment processor |
-| The Meeting Hall recorder and archive storage ([Meeting Hall and Meeting Archive](../part-3-site-and-infrastructure/09-shelter-evolution/06-the-meeting-hall-and-meeting-archive.md)) | Sealed appliances with no choice of system (see below) |
-| The office computer used for bookkeeping, logs, and filings | |
-| Public computers: a Lodge computer, a homework or library computer, a sign-in kiosk | |
-| Any donated computer, once it is put into shared use | |
+| Infrastructure (FreeBSD on ARM) | User computers (LMDE) | Not covered |
+|---|---|---|
+| Community servers: file storage, backups, the shared calendar, the website | Public computers: a Lodge computer, a homework or library computer | Residents' own phones, laptops, tablets, and desktops |
+| The router, firewall, Wi-Fi access points, and fiber network the community runs | The office computer used for bookkeeping, logs, and filings | Visitors' devices |
+| The recorder for the security cameras ([Cameras and Surveillance Policy](../part-1-core-chapters/05-people-and-safeguarding/07-cameras-and-surveillance-policy.md)) | A sign-in kiosk | Devices that belong to the internet provider, the bank, or the payment processor |
+| The Meeting Hall recorder and archive storage ([Meeting Hall and Meeting Archive](../part-3-site-and-infrastructure/09-shelter-evolution/06-the-meeting-hall-and-meeting-archive.md)) | Any donated computer put into shared use for people to sit at | Sealed appliances with no choice of system (see below) |
 
 **Sealed appliances.** Some devices run built-in software that no one can replace, such as a card reader from the payment processor, a camera's own firmware, or a smart meter. They are allowed. Prefer models that run open firmware, keep them on their own network, and never let them hold community records.
 
-## Why FreeBSD
+## Why FreeBSD for Infrastructure
 
-- **Small and fast.** A lean system that runs well on old and donated hardware, which suits a community that grows only as funds allow.
-- **It covers what most people need.** Most users only need a web browser, a file manager, and office software such as LibreOffice. All of them are standard FreeBSD packages.
+- **Small and fast.** A lean system that does a lot on modest, low-power hardware.
 - **One complete system from one project.** The core of the system is built and documented together, in the free FreeBSD Handbook, so volunteers learn one system, not a patchwork.
 - **ZFS storage built in.** Mirrored disks, snapshots to undo mistakes, checks against silent data damage, and encryption. That suits the meeting archive, camera footage, and members' records.
 - **Jails** keep each service, such as the file server, the calendar, and the website, walled off from the others, so a problem in one doesn't spread.
 - **The firewall too.** FreeBSD includes the PF firewall, so the router and the servers share one set of skills.
-- **It runs on ARM and RISC-V.** 64-bit ARM is one of FreeBSD's fully supported platforms. RISC-V support is newer, and growing.
-- **No license fees.** Money goes to the reserve, not to software renewals ([Chapter 8](../part-2-market-engine/08-money-rules/README.md)).
-- **Open source code** that anyone can inspect, with no forced accounts, advertising, or data collection, and no single vendor to depend on.
+- **Fully supported on ARM.** 64-bit ARM is one of FreeBSD's top-tier platforms, with official installers, packages, and security updates.
+- **No license fees,** and open source code that anyone can inspect, with no forced accounts, advertising, or data collection.
 
-## Why ARM and RISC-V
+## Why ARM Hardware
 
-- **Less power.** A small ARM or RISC-V board often draws only a few watts, while a typical x86 desktop draws tens of watts, and more under load. Machines that run all day, such as the server, the firewall, and the camera recorder, save the most.
+- **Less power.** A small ARM board often draws only a few watts, while a typical x86 desktop draws tens of watts, and more under load. Machines that run all day, such as the server, the firewall, and the camera recorder, save the most.
 - **Smaller solar and battery systems.** As with LED lighting, lower loads mean smaller panels and batteries, and smaller wind and heat-store sizing ([Chapter 14](../part-3-site-and-infrastructure/14-lighting-standard.md), [Chapter 16](../part-3-site-and-infrastructure/16-wind-power-and-wind-safety.md)).
-- **Less heat.** The network cabinet and the Lodge stay cooler in summer, and many boards need no fan at all.
+- **Less heat.** The network cabinet stays cooler in summer, and many boards need no fan at all.
 - **Small and quiet,** easy to mount in the network cabinet.
 - **Measure it.** Use a plug-in power meter, and log each device's watts on the network map.
+
+**RISC-V is for light services only, for now.** FreeBSD runs on RISC-V, but as a less mature platform: security updates, releases, and packages aren't guaranteed the way they are on ARM, and fewer boards are supported. A RISC-V board may run a light, non-critical service. It does not run the firewall, archive storage, or backups until FreeBSD supports RISC-V fully.
+
+## Why Linux Mint Debian Edition for Users
+
+- **Ready to use.** Firefox, a file manager, and LibreOffice come installed, which is all most users need.
+- **Familiar.** The desktop works the way people who have used Windows expect: a start menu, a taskbar, and windows.
+- **Built on Debian,** a stable, long-supported base, without depending on any one company.
+- **Easy to look after.** The Update Manager can install updates automatically, and the login settings can offer a guest session for public computers.
+- **No license fees,** no forced accounts, advertising, or data collection, and a large community for help.
 
 ## Choosing a System
 
 | Job | System | Hardware |
 |---|---|---|
-| Public and office computers | FreeBSD with a light desktop (such as Xfce), Firefox, a file manager, and LibreOffice | An ARM desktop board or mini PC, wired to the network |
-| Servers (files, calendar, website) | FreeBSD, with each service in its own jail | An ARM server board, or a RISC-V board for light services |
+| Public and office computers | LMDE, with Firefox, the file manager, and LibreOffice | A low-power x86 mini PC, wired to the network |
+| Servers (files, calendar, website) | FreeBSD, with each service in its own jail | An ARM server board. A RISC-V board only for light, non-critical services. |
 | Storage for backups and the archive | FreeBSD with ZFS on mirrored disks | An ARM board with plenty of memory and connections for two or more drives |
 | Router and firewall | FreeBSD with its built-in PF firewall | An ARM board with two or more network ports, or fiber ports |
 | Wi-Fi access points | Open firmware, usually OpenWrt (Linux), since FreeBSD doesn't run on most access points | ARM-based access points |
 | Camera recorder | FreeBSD, if the chosen open camera-recording software runs on it. Otherwise Linux (see below). | An ARM board with storage sized for the retention limit |
 
-**Point-and-click options run on x86.** OPNsense and pfSense, both built on FreeBSD, let volunteers manage the firewall from a web page instead of a settings file. GhostBSD is a FreeBSD desktop that comes ready to use. Their free editions run mainly or only on x86, so choosing one is a recorded exception to the hardware default.
+**Point-and-click firewalls run on x86.** OPNsense and pfSense, both built on FreeBSD, let volunteers manage the firewall from a web page instead of a settings file. Their free editions run mainly on x86, so choosing one is a recorded exception to the hardware default.
 
-**Software for everyday users:** Firefox, the desktop's file manager, LibreOffice for documents and spreadsheets (the logs and sheets in [Appendix D](../appendices/appendix-d-logs-sheets-and-reports/README.md)), a PDF reader, and open bookkeeping software. Ask the accountant which file formats they accept before choosing.
+**Software for everyday users:** Firefox, the file manager, LibreOffice for documents and spreadsheets (the logs and sheets in [Appendix D](../appendices/appendix-d-logs-sheets-and-reports/README.md)), a PDF reader, and open bookkeeping software. Ask the accountant which file formats they accept before choosing.
 
-**Check the hardware first.** Before buying or accepting a computer, start FreeBSD on it, from an installer stick or the ready-made image FreeBSD publishes for many ARM boards, and check that the screen, network, storage, sound, and printer work. Graphics support on many ARM and RISC-V boards is still limited under FreeBSD, so test a desktop with Firefox and LibreOffice open before buying more than one. RISC-V support is newer than ARM: test it first, and start with light jobs. A wired connection (copper inside the building, fiber between buildings) works best. Built-in Wi-Fi on newer laptops is the most common gap, which is one more reason public and office computers are wired desktops.
+**Check the hardware first.**
+
+- **ARM boards:** start FreeBSD from the ready-made image FreeBSD publishes for many ARM boards, and check that the network, storage, and any fiber ports work. Support for the newest boards often lags, so test one before buying more.
+- **User computers:** start LMDE from a live USB stick, without installing, and check that the screen, network, sound, and printer work.
+- A wired connection (copper inside the building, fiber between buildings) works best, which is one more reason public and office computers are wired mini PCs.
 
 **Use a solid-state drive, not a memory card,** for the system and data on any server, firewall, or recorder. Memory cards wear out quickly under constant writing.
 
-**Stay on a supported release.** Each FreeBSD release gets security updates for a set period. Note the end date on the [compliance calendar](../appendices/appendix-d-logs-sheets-and-reports/d09-compliance-calendar.md), and plan the upgrade before it.
+**Stay on supported releases.** Each FreeBSD and LMDE release gets security updates for a set period. Note the end dates on the [compliance calendar](../appendices/appendix-d-logs-sheets-and-reports/d09-compliance-calendar.md), and plan each upgrade before its date.
 
 ## When a Default Can't Be Met
 
-**Another system.** Linux or another BSD may be used instead of FreeBSD, for that one job only, when:
+**Another system.** For that one job only:
 
-- **The device can't run FreeBSD,** such as most Wi-Fi access points
-- **The hardware isn't supported,** such as a donated computer whose network or graphics don't work on FreeBSD, and buying supported hardware isn't affordable yet
-- **The software the job needs doesn't run on FreeBSD,** such as some camera-recording software
+- **Linux or another BSD instead of FreeBSD** for infrastructure, when the device can't run FreeBSD (such as most Wi-Fi access points), the hardware isn't supported and supported hardware isn't affordable yet, or the software the job needs doesn't run on FreeBSD (such as some camera-recording software)
+- **Another Linux system instead of LMDE** for a user computer, when LMDE can't do that job or doesn't support the hardware
 
-**Other hardware.** An x86 machine may be used instead of ARM or RISC-V, for that one job only, when:
+**Other hardware.** An x86 machine may run infrastructure instead of ARM, for that one job only, when:
 
-- **No ARM or RISC-V hardware can do the job,** such as a point-and-click firewall or a GhostBSD desktop the volunteers need, or a desktop whose graphics are too slow on every ARM board tested
-- **A donated x86 computer works well.** Using it avoids waste and cost. Replace it with ARM or RISC-V hardware when it wears out, or sooner if the power saved would pay for the replacement.
+- **No ARM hardware can do the job,** such as a point-and-click firewall the volunteers need
+- **A donated x86 computer works well.** Using it avoids waste and cost. Replace it with ARM hardware when it wears out, or sooner if the power saved would pay for the replacement.
 
-**When both can't be met at once,** keep FreeBSD and choose the most energy-efficient x86 machine that runs it, such as a low-power mini PC.
+**When FreeBSD and ARM can't both be met,** keep FreeBSD and choose the most energy-efficient x86 machine that runs it, such as a low-power mini PC.
 
 For each exception, write down the job, the system or hardware used instead, and why, on the network map. Review the list every year, and move the job back to the defaults when it can be. Software made only for Windows or macOS is a different case (see [When a Required Program Won't Run](#when-a-required-program-wont-run)).
 
@@ -94,11 +105,11 @@ For each exception, write down the job, the system or hardware used instead, and
 
 **Updates and backups**
 
-- [ ] **Security updates scheduled to install automatically,** for the system (freebsd-update) and the software (pkg), and checked monthly
+- [ ] **Security updates installed automatically,** on FreeBSD (scheduled freebsd-update and pkg) and on LMDE (the Update Manager's automatic updates), and checked monthly
 - [ ] **ZFS snapshots** taken on a schedule, so a deleted or damaged file can be brought back quickly
 - [ ] **Backups:** three copies, on two kinds of storage, with one copy off site. Snapshots alone are not a backup. Test a restore each season.
 - [ ] Camera footage and meeting recordings never share storage or administrators, as the camera policy and the meeting recording policy already require
-- [ ] Disk encryption (ZFS encryption or GELI) on any computer or drive that holds members' records, complaints, health details, or footage
+- [ ] Disk encryption (ZFS encryption or GELI on FreeBSD, or full-disk encryption chosen when installing LMDE) on any computer or drive that holds members' records, complaints, health details, or footage
 
 **Power**
 
@@ -114,7 +125,7 @@ For each exception, write down the job, the system or hardware used instead, and
 **Public computers**
 
 - [ ] Set in an open, visible spot, never in a private room ([Safeguarding](../part-1-core-chapters/05-people-and-safeguarding/02-safeguarding-children-and-vulnerable-adults.md))
-- [ ] A guest account that resets to a clean copy at every logout, so no one's browsing, files, or passwords are left behind. FreeBSD doesn't include one ready-made, so the administrators set it up and test it.
+- [ ] A guest session that is wiped at every logout, so no one's browsing, files, or passwords are left behind. The administrators turn it on in LMDE's login settings and test it.
 - [ ] No community records stored on a public computer
 - [ ] Children use public computers under the same supervision rules as any other shared space. Use family-safe filtering where the law or the group requires it.
 - [ ] The community does not monitor what people do on public computers beyond what the law requires. Keep logs short and delete them on a schedule.
@@ -162,18 +173,18 @@ For each exception, write down the job, the system or hardware used instead, and
 
 Sometimes a bank, a tax office, or an accountant uses software made only for Windows or macOS. Work through these steps in order:
 
-1. **Use the web version.** Most banking, tax filing, and payment services work in Firefox on FreeBSD.
+1. **Use the web version.** Most banking, tax filing, and payment services work in Firefox on LMDE.
 2. **Use the professional's own systems.** Send the accountant or attorney the files, and let them run their software.
 3. **Ask for another format,** such as a spreadsheet or PDF instead of a program file.
 4. **Only if all three fail,** the board may approve a narrow written exception for that one task. Record the reason and the date in the revision log, keep the machine off the community network, store no community records on it, and review the exception every year.
 
 ## Tier Fit
 
-- **Tier 0:** no community computers are needed. Private phones and laptops are fine. If the group takes in a shared or donated computer, it runs FreeBSD from the start, after the hardware check.
-- **Tier 1:** one office computer, ideally an ARM desktop board or mini PC, running FreeBSD with a desktop, Firefox, and LibreOffice, for the logs, budget, and filings, with two administrators and an off-site backup
+- **Tier 0:** no community computers are needed. Private phones and laptops are fine. If the group takes in a shared or donated computer, it runs LMDE from the start, after the hardware check.
+- **Tier 1:** one office computer, a low-power x86 mini PC running LMDE with Firefox and LibreOffice, for the logs, budget, and filings, with two administrators and an off-site backup
 - **Tier 2:** a community router and firewall (FreeBSD with PF, on an ARM board) with a guest network, and a camera recorder on its own network with off-site storage. Lay conduit with a pull string in every utility trench and road sleeve as it is dug.
 - **Tier 3:** a small ARM server running FreeBSD with ZFS for files, the shared calendar, and backups, the Meeting Hall recorder and archive storage, and a public computer in the Lodge. Pull fiber from the network cabinet to the Lodge, the Meeting Hall, and the camera recorder.
-- **Tier 4:** fiber to every building that needs the network, and a yearly review of systems, updates, backups, accounts, the fiber map, power use, any jobs not yet on FreeBSD or on ARM or RISC-V hardware, and any exceptions
+- **Tier 4:** fiber to every building that needs the network, and a yearly review of systems, updates, backups, accounts, the fiber map, power use, any jobs not yet on the default systems or hardware, and any exceptions
 
 ## Common Failures
 
@@ -185,12 +196,13 @@ Sometimes a bank, a tax office, or an accountant uses software made only for Win
 - Members' records saved on a public computer
 - The router still using its default password
 - Asking residents to change what runs on their own devices. The rule covers community systems only.
-- Accepting a donated computer without checking that it runs FreeBSD
+- Accepting a donated computer without testing it with the system it will run
 - Each volunteer installing a different favorite system, so no one can look after them all
-- Letting a FreeBSD release run past the end of its security updates
+- Letting a FreeBSD or LMDE release run past the end of its security updates
 - Buying x86 out of habit when an ARM board would do the job
 - Running a server from a memory card until it wears out
-- Buying several RISC-V or ARM boards before testing that FreeBSD runs well on one
+- Buying several ARM boards before testing that FreeBSD runs well on one
+- Running the firewall, archive storage, or backups on RISC-V before FreeBSD supports it fully
 - Copper network cable run between buildings, then destroyed by a lightning strike
 - Burying fiber without conduit, or digging a trench without laying spare conduit
 - No spare strands, so one damaged strand means a new cable

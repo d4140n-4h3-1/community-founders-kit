@@ -11,7 +11,8 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 - New bonus page: community servers, networks, and public computers run Linux or one of the BSDs, while residents' private devices are not covered
 - Fiber optic cable links the community's buildings wherever possible, for fast local file access, with no expectation of joining an outside fiber network; utility trenches lay conduit for it as they are dug
 - FreeBSD is the default operating system for community systems and public computers; Linux or another BSD only where FreeBSD can't do a particular job, recorded on the network map
-- ARM or RISC-V is the default hardware, to save energy; x86 only where they can't do the job or for donated machines until they wear out
+- ARM is the default hardware for infrastructure, to save energy; RISC-V only for light, non-critical services until FreeBSD supports it fully; x86 only where ARM can't do the job or for donated machines until they wear out
+- Linux Mint Debian Edition (LMDE) is the default for public and office computers, on low-power x86 mini PCs, since LMDE runs only on x86; FreeBSD stays the default for infrastructure
 
 ### Better prepared founders (from a simulated founding group)
 
