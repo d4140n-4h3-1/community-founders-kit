@@ -6,6 +6,11 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 
 ## Unreleased
 
+### Bonus: federation of villages
+
+- New bonus page: two or more self-governing villages may form a lawful, voluntary federation, with a short charter of shared principles, two delegates per village on a council, double-majority votes for big decisions, optional shared services, capped dues, legal-form options, a shared identity, and rules for joining, leaving, suspension, and disputes
+- No sovereignty claims: villages and federations stay under the host country's laws, and keepsake member cards never look like government ID
+
 ### Harder to sabotage
 
 - Water protection: the wellhead, tanks, and containers sealed and locked, a daily check, a three-day stored reserve, and "don't drink, test first" at any sign of tampering (Chapter 10)

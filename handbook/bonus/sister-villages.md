@@ -9,7 +9,7 @@
 - **Grow larger,** if its resources truly allow it (see [Growing Larger](#growing-larger)), or
 - **Start a sister village:** a new, separate village of about 20-30 people, with its own land, charter, money, and tiers, linked to the first by a written agreement.
 
-Both are legitimate. The handbook is written for a village of about 20-30 residents ([Chapter 1](../part-1-core-chapters/01-introduction.md)), so a sister village lets every village keep working the way the handbook describes, while the wider community keeps growing.
+Both are legitimate. The handbook is written for a village of about 20-30 residents ([Chapter 1](../part-1-core-chapters/01-introduction.md)), so a sister village lets every village keep working the way the handbook describes, while the wider community keeps growing. When several villages want to work together more closely, they can form a [federation](federation-of-villages.md).
 
 This page is a bonus. It sits outside the tier triggers. A community adopts it by a vote when it first considers growing past its planned size, and records the decision in its [revision log](../../REVISION_LOG.md).
 
@@ -213,4 +213,4 @@ By written agreement, and only what both villages want:
 
 ---
 
-← **Previous:** [Digital Infrastructure](digital-infrastructure.md)
+← **Previous:** [Digital Infrastructure](digital-infrastructure.md) · **Next:** [Federation of Villages](federation-of-villages.md) →

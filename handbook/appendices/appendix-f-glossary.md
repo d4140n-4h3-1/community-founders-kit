@@ -23,6 +23,10 @@ Plain meanings for the words this handbook uses in its own way. Where a term has
 | **Revision log** | The community's record of each tier vote, rule change, and lesson learned ([template](../../REVISION_LOG.md)). |
 | **Voting waiting period** | The year a member who joins after the founding waits before voting on big decisions such as charter changes, land, and the reserve. |
 | **Sister village** | A new, separate village of about 20-30 people, started with help from an established one, with its own land, charter, money, and tiers ([Bonus](../bonus/sister-villages.md)). |
+| **Federation of villages** | A lawful, voluntary union of self-governing villages, with a charter of shared principles, a council of delegates, and shared services. It never governs the villages and never claims sovereignty ([Bonus](../bonus/federation-of-villages.md)). |
+| **Federation council** | Two elected delegates from each member village, deciding only the matters the federation's charter lists. |
+| **Associate member** | A village below Tier 2 that takes part in a federation's council and services without a vote. |
+| **Double majority** | A vote that needs both a supermajority of villages and villages holding a majority of all members, so neither small nor large villages can decide alone. |
 | **Parent village** | The established village that helps a sister village start. It advises, but never makes the sister village's decisions. |
 | **Sister-village agreement** | The written agreement between a parent and a sister village: independence, land, start-up support, what is shared, mentors, and how either side can end it. |
 | **Harvest labor exchange** | An agreement between sister villages to help at each other's peak weeks, with the hours recorded on both sides and balanced over the year. |

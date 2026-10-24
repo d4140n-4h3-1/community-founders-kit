@@ -58,6 +58,7 @@
 
 - Digital infrastructure: FreeBSD on ARM for community systems, Linux Mint Debian Edition (or Debian with Cinnamon on ARM) for public and office computers, and fiber optic cable between buildings
 - Sister villages: growing larger when resources truly allow, or starting a separate sister village linked by agreement
+- Federation of villages: a lawful, voluntary union of self-governing villages, with a charter of shared principles, a council of delegates, and shared services
 
 ---
 
@@ -97,6 +98,7 @@ The handbook is split into small files. Each part and each split chapter has its
 - [Bonus](handbook/bonus/README.md)
   - [Digital Infrastructure](handbook/bonus/digital-infrastructure.md)
   - [Sister Villages](handbook/bonus/sister-villages.md)
+  - [Federation of Villages](handbook/bonus/federation-of-villages.md)
 
 ## Printing
 
