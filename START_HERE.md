@@ -72,7 +72,8 @@ Work through the [site readiness checklist](handbook/appendices/appendix-a-check
 - [ ] Food in locked, rodent-proof containers
 - [ ] Any firearms locked in a case cabled to something solid, in a locked vehicle safe, or kept off site ([Firearms Safety](handbook/part-1-core-chapters/05-people-and-safeguarding/05-firearms-safety.md))
 - [ ] Insurance in place for what you plan to do
-- [ ] An access road an ambulance can use
+- [ ] An access road an ambulance can use, and [two ways out](handbook/part-3-site-and-infrastructure/12-roads-and-access.md#two-ways-out) identified
+- [ ] How long an ambulance takes to arrive, and a way to call for help where there's no cell signal ([Remote Medical Plan](handbook/part-1-core-chapters/05-people-and-safeguarding/04-health-leadership-and-leaving.md#remote-medical-plan))
 
 ## Daily Life From Day One
 

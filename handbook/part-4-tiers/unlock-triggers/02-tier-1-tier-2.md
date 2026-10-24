@@ -18,6 +18,8 @@
 - [ ] Two members trained for each main crop
 - [ ] Twice-daily greenhouse checks logged, with a thermometer in the hoop house
 - [ ] Safeguarding lead and deputy named, two trained first-aiders, and a disaster plan in place
+- [ ] Where the ambulance response is long, two members trained in wilderness first aid, and a trauma kit ([Remote Medical Plan](../../part-1-core-chapters/05-people-and-safeguarding/04-health-leadership-and-leaving.md#remote-medical-plan))
+- [ ] The second way out secured, on community land or by a written access agreement, before any cabin is built ([Two Ways Out](../../part-3-site-and-infrastructure/12-roads-and-access.md#two-ways-out))
 - [ ] Weekly check-in held regularly, with a tool sign-out list and food storage and waste routines in place
 - [ ] Neighbor liaison named, and the police non-emergency contact introduced
 - [ ] Anemometer installed and wind data being logged

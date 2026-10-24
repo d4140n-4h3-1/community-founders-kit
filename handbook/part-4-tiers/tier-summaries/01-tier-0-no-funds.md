@@ -12,6 +12,7 @@
 - Consult an accountant before the first sale; start the compliance calendar and the sales log
 - A one-page budget and an expense log, with receipts kept from day one
 - Membership agreement signed by all adults, conduct rules, a first-aid kit, one trained first-aider, posted emergency numbers, and a simple conflict process
+- The ambulance response time recorded, a way to call for help with no cell signal, and two ways out identified
 - A chore list, weekly chart, the 12-hour guideline, an essential-task list, shared-space rules, quiet hours, and a weekly rest day
 - Boundary signs at the entrance, a visitor sign-in, a named spokesperson, and the outside incident log started
 - Begin building the cash reserve; no store-of-value purchases

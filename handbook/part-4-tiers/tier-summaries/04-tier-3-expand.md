@@ -10,6 +10,7 @@
 - Heated greenhouse for year-round production; yield, cost, and labor tracked per crop; security, alarms, and crop protection backups in every greenhouse, and crop and structure insurance reviewed
 - Shared bathhouse or plumbed cabins; utility trench to the cabin cluster
 - Culverts, turnarounds, and a loading apron
+- The landing spot marked and maintained, and a yearly medical and evacuation drill
 - Solar tubes in every cabin, the Lodge, the Meeting Hall, and the bathhouse
 - Pilot sand bed in a greenhouse
 - Optional pilot wind turbine for a shared building, greenhouse, or heat store, only with a year of wind data, engineer sign-off, and permits

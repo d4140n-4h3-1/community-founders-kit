@@ -7,6 +7,8 @@
 - [ ] Founding agreement signed and reviewed by an attorney (including the equal-treatment wording), a two-signer community account open, roles named with backups, and a regular meeting schedule with written minutes ([Chapter 2](../../part-1-core-chapters/02-forming-a-group.md))
 - [ ] Core charter adopted by all members, with the Tier 0 → Tier 1 rules listed in [When Each Rule Is Adopted](../../part-1-core-chapters/03-charter-and-decision-making.md#when-each-rule-is-adopted) (including the equal-treatment, interim-board and outside-advisor, hoop-house no-lock-in, firearms, cash-count, spending-limit, conduct and removal, outside-harassment response, hours guideline, reserve, and tax and reporting rules, and what happens to money and property if the group dissolves). Building, camera, recording, fee, and land rules come at later tiers.
 - [ ] Membership agreement signed by all adults, with a first-aid kit, one trained first-aider, and posted emergency numbers
+- [ ] The ambulance response time asked and recorded, a way to call for help with no cell signal, and a meeting landmark ([Remote Medical Plan](../../part-1-core-chapters/05-people-and-safeguarding/04-health-leadership-and-leaving.md#remote-medical-plan))
+- [ ] Two ways out identified and marked in the disaster plan ([Two Ways Out](../../part-3-site-and-infrastructure/12-roads-and-access.md#two-ways-out))
 - [ ] The 12-hour guideline, a chore chart, an essential-task rota, shared-space rules, quiet hours, and a weekly rest day in use
 - [ ] Accountant consulted, and a compliance calendar started with two responsible members
 - [ ] A one-page budget and expense log in use, with receipts kept

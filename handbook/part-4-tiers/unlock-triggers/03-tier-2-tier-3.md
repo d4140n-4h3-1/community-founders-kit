@@ -24,6 +24,8 @@
 - [ ] Group agrees on a growth plan and budget in writing
 - [ ] All roads to cabins, wash-and-pack, food store, and gardens graveled
 - [ ] Emergency access reviewed with the local fire department
+- [ ] Where wildfire or flood is a risk, the second exit road or emergency-only exit built, passable, and kept clear ([Two Ways Out](../../part-3-site-and-infrastructure/12-roads-and-access.md#two-ways-out))
+- [ ] An AED in a shared building, and a helicopter landing spot agreed with the air ambulance service ([Remote Medical Plan](../../part-1-core-chapters/05-people-and-safeguarding/04-health-leadership-and-leaving.md#remote-medical-plan))
 - [ ] 100% of fixtures are LED, with power use logged
 - [ ] Wash-and-pack station and kitchen lit by solar tubes plus LED
 - [ ] Every porch has a bug light, screens, and sealed doors

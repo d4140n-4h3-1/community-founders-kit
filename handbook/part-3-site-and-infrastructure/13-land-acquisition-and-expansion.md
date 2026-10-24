@@ -29,7 +29,7 @@ More land doesn't have to mean more people. If the extra land is for more reside
 5. **Water:** well records, test results, water rights, or hookup availability
 6. **Soil and percolation test:** this decides whether septic is possible, and a soil test for growing food ([Chapter 7](../part-2-market-engine/07-production-planning/README.md))
 7. **Floodplain and drainage maps**
-8. **Road and emergency access:** legal access to a public road, not just a handshake
+8. **Road and emergency access:** legal access to a public road, not just a handshake, and whether a second way out is possible ([Chapter 12](12-roads-and-access.md#two-ways-out))
 9. **Mineral, water, wind, and timber rights:** confirm what transfers with the land
 10. **Environmental check:** old dumps, fuel tanks, contamination
 11. **Property tax:** the amount due, and whether any exemption applies to the community or carries over from the seller (confirm in writing before closing)

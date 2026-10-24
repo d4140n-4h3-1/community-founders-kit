@@ -6,6 +6,13 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 
 ## Unreleased
 
+### Security gaps closed
+
+- Two ways out: every site identifies two from Tier 0, secures the second before any cabin, and, where wildfire or flood is a risk, builds a second exit road or emergency-only exit before Tier 3 (Chapter 12)
+- Remote medical plan: the ambulance response time recorded, a way to call with no cell signal, wilderness first aid and a trauma kit where help is far, an AED, and a helicopter landing spot (Chapter 5)
+- Optional fence around the growing and storage areas, with gates that always open from inside and never block a way out (Chapter 5)
+- Chapter 3's standing rules and adoption table, the tier summaries, the unlock triggers, Start Here, the site readiness checklist, the emergency contact sheet, the disaster plan, and the glossary updated to match
+
 ### Bonus: sister villages
 
 - New bonus page on growing past village size: grow larger when water, wastewater, land-use, governance, people, and social resources all allow, or start a separate sister village with its own land, charter, money, and tiers, linked by a written agreement

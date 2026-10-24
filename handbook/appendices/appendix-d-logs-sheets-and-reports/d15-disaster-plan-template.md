@@ -15,7 +15,7 @@
 | Missing person | | | | | | | |
 | Other: *[ ]* | | | | | | | |
 
-**Meeting points:** first *[ ]*, backup *[ ]* **Go-bags kept at:** *[ ]* **Plan reviewed (date and by whom):** *[ ]*
+**Ways out:** first *[ ]*, second *[ ]* ([Two Ways Out](../../part-3-site-and-infrastructure/12-roads-and-access.md#two-ways-out)) **Meeting points:** first *[ ]*, backup *[ ]* **Go-bags kept at:** *[ ]* **Plan reviewed (date and by whom):** *[ ]*
 
 *Walk through the plan with every new member, and drill at least one hazard each season.*
 

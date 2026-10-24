@@ -6,7 +6,8 @@
 - Basic insurance, market table and canopy (anchored and weighted, with a craft table for member-made work)
 - Wall tents, small hoop house with a closing door and outside hasp (fastened only after checking it is empty), covered shared space that serves as the first hall
 - Locked food containers with a key log
-- Gravel the market-vehicle route and loading area
+- Gravel the market-vehicle route and loading area, and secure the second way out
+- Where help is far away, wilderness first aid for two members, and a trauma kit
 - LED market lighting, small solar kit, LED entrance light
 - An anemometer installed and wind data logged
 - Septic permit and soil test started; valve pits at key shutoffs

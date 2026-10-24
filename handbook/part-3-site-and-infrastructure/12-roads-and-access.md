@@ -22,9 +22,9 @@ Dirt roads become gravel roads as income allows. Good roads protect vehicles, ke
 
 ## Tier Fit
 
-- **Tier 0:** Fix the worst mud with ditches, scrap wood, and donated gravel or crushed concrete. Walking paths get mulch or wood chips.
-- **Tier 1:** Gravel the market-vehicle route and the parking and loading area.
-- **Tier 2:** Gravel all roads to the cabins, wash-and-pack station, food store, and garden access.
+- **Tier 0:** Fix the worst mud with ditches, scrap wood, and donated gravel or crushed concrete. Walking paths get mulch or wood chips. Identify two ways out.
+- **Tier 1:** Gravel the market-vehicle route and the parking and loading area. Plan and secure the second way out.
+- **Tier 2:** Gravel all roads to the cabins, wash-and-pack station, food store, and garden access. Where wildfire or flood is a risk, build the second exit road or emergency-only exit.
 - **Tier 3:** Add proper culverts, wider turnarounds, and a loading apron. Where snow drifts, plan snow clearing and drift-reducing windbreaks ([Chapter 16](16-wind-power-and-wind-safety.md)).
 - **Tier 4:** Maintain on a schedule. Consider paving only the busiest section if it ever makes sense.
 
@@ -37,6 +37,19 @@ Dirt roads become gravel roads as income allows. Good roads protect vehicles, ke
 - [ ] Gate that opens fully, with a key lockbox or a code shared with emergency services (a locked gate must never block an emergency vehicle)
 - [ ] Boundary and "no trespassing" signs at the entrance, in black with yellow stenciled letters, under the local sign rules ([Chapter 5](../part-1-core-chapters/05-people-and-safeguarding/README.md))
 - [ ] Site address and directions posted with the emergency contacts ([Chapter 5](../part-1-core-chapters/05-people-and-safeguarding/README.md))
+
+## Two Ways Out
+
+**Rule:** every site has two ways out. Where wildfire or flood is a real risk, the second is a road a car can drive: a second exit road, or an emergency-only exit kept closed day to day. One road in and out can be cut by the very fire or flood people need to escape.
+
+- [ ] **Tier 0:** identify two ways out, by vehicle where possible and at least on foot. Mark both on the site map and in the [disaster plan](../appendices/appendix-d-logs-sheets-and-reports/d15-disaster-plan-template.md).
+- [ ] **Ask the fire department** whether the site is in a wildfire or flood risk area, and whether local rules require a second access road
+- [ ] **Before any cabin or other permanent building,** secure the second way out: on community land, or across a neighbor's land under a written, recorded access agreement (an easement) reviewed by an attorney ([Chapter 4](../part-1-core-chapters/04-legal-basics.md))
+- [ ] **Where wildfire or flood is a risk, build it before Tier 3:** graveled, wide enough for cars (and for a fire truck if the fire department asks), leading away in a different direction from the main entrance, and not through the same woods, low ground, or creek crossing
+- [ ] **An emergency-only exit** can stay gated against daily traffic, with a key lockbox or code shared with emergency services and every adult, and a sign reading "EMERGENCY EXIT: KEEP CLEAR"
+- [ ] **Keep it clear:** mowed, branches trimmed, nothing parked or stored on it, and checked each season and before fire season
+- [ ] **Drive it** in the disaster drill each year, so everyone knows the way in the dark
+- [ ] **Leave early.** When a wildfire or flood warning comes, leave when told to, or sooner. Don't wait for the danger to reach the road.
 
 ## Maintenance
 
@@ -61,6 +74,8 @@ Dirt roads become gravel roads as income allows. Good roads protect vehicles, ke
 - Making the road too narrow for emergency vehicles
 - Ignoring a washout until it cuts the road in half
 - A locked gate with no way in for responders
+- Only one road in and out, through the woods or creek crossing a wildfire or flood would cut
+- An emergency exit blocked by a parked car, a pile of gravel, or a gate no one can open
 
 > Check local rules for culverts, drainage changes, and driveway access onto public roads, since some require permits. In clay-heavy soil, fabric and drainage matter most.
 

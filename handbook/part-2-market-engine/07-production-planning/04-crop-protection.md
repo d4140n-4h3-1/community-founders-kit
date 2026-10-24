@@ -22,6 +22,7 @@
 - [ ] **Clean entry routine:** a footbath or boot change at the greenhouse door, and clean tools, so people don't carry pests in
 - [ ] **Anchor and brace** covers and panels against the prevailing wind, with windbreaks placed safely ([Chapter 16](../../part-3-site-and-infrastructure/16-wind-power-and-wind-safety.md))
 - [ ] **Never leave heaters or lights running unattended** unless a thermostat and the fire rules protect them ([Chapter 9](../../part-3-site-and-infrastructure/09-shelter-evolution/README.md))
+- [ ] **Fencing:** deer and animal fencing where needed, and, if the community chooses, a security fence around the growing areas ([Outside Harassment and Community Security](../../part-1-core-chapters/05-people-and-safeguarding/06-outside-harassment-and-community-security.md))
 - [ ] **Insurance:** ask whether crops and greenhouse structures can be covered, and what security the insurer expects ([Chapter 4](../../part-1-core-chapters/04-legal-basics.md))
 
 **If crops are damaged on purpose**
