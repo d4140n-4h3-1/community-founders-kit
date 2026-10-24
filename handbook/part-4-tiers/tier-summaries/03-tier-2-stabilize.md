@@ -13,7 +13,7 @@
 - Gravel all roads to cabins, wash-and-pack, food store, and gardens, with spare sleeves under roads
 - Where wildfire or flood is a risk, the second exit road or emergency-only exit built
 - An AED in a shared building, and a helicopter landing spot agreed with the air ambulance service
-- Optional: a fence around the growing and storage areas, with gates that always open from inside
+- Optional: a fence around the growing and storage areas, with gates that always open from inside, and barbed wire on top where it guards the food store, water and power, or the tool and fuel store
 - LED fixtures everywhere; solar tubes in the wash-and-pack station and kitchen
 - Amber bug lights, screens, and sealed doors on every porch
 - Removal and appeal process reviewed by an attorney, mediation training for two members, fire drills, and a weekly check-in

@@ -79,6 +79,7 @@ Plain meanings for the words this handbook uses in its own way. Where a term has
 | **Meeting archive** | The recordings of open meetings and their index ([D18](appendix-d-logs-sheets-and-reports/d18-meeting-archive-index.md)), kept by two archivists. |
 | **Closed session** | A part of a meeting that is never recorded, such as a personnel or safeguarding matter. The minutes note the pause and the legal basis, not the content. |
 | **Camera custodian** | One of the two named people allowed to view camera footage, with every viewing logged. |
+| **Barbed wire top** | Strands of barbed wire along the top of a fence guarding key resources, at least about 6 feet (1.8 meters) up, never on gates, homes, children's areas, or a way out. |
 | **Two ways out** | The rule that every site has a second way out. Where wildfire or flood is a risk, it is a road a car can drive ([Chapter 12](../part-3-site-and-infrastructure/12-roads-and-access.md#two-ways-out)). |
 | **Emergency-only exit** | A second exit road kept gated against daily traffic, but opened by a lockbox or code that emergency services and every adult know. |
 
