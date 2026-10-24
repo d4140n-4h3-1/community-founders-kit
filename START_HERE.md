@@ -2,7 +2,7 @@
 
 # Start Here: Your First Season
 
-This page is for a founding group of 5-10 people at **Tier 0**: no money, no land of your own, and no experience yet. The full handbook covers everything up to owning land and running a village. You do not need most of it yet. This page lists what you need now, in order, and what you can safely leave for later.
+This page is for a founding group of 5-10 people at **Tier 0**: no money, no land of your own, and no experience yet. The full handbook covers everything up to owning land and running a village. You do not need most of it yet. This page lists what you need now, in order, and what you can safely leave for later. To see where it all leads, read [What Success Looks Like](handbook/part-4-tiers/what-success-looks-like.md).
 
 ## What to Read First
 

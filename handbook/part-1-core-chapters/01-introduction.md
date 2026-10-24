@@ -29,7 +29,7 @@ The community moves through five tiers.
 | 3 | Expand | A nonprofit or land trust, more buildings, a shared Lodge, a Meeting Hall, more growing space, and a stronger board |
 | 4 | Own | Buying land, long-term systems, and mentoring new groups |
 
-Each tier ends with an **unlock trigger**: a checklist the community must meet, and then vote on, before it moves up. **Staying at a tier is normal, not failure.** If the community's money falls behind its plan, judged over a full year so that a quiet off-season is never counted as failure, it steps back until it recovers ([Chapter 8](../part-2-market-engine/08-money-rules/01-budgeting-cash-handling-and-cost-tracking.md)).
+Each tier ends with an **unlock trigger**: a checklist the community must meet, and then vote on, before it moves up. **Staying at a tier is normal, not failure.** [What Success Looks Like](../part-4-tiers/what-success-looks-like.md) describes where the tiers lead. If the community's money falls behind its plan, judged over a full year so that a quiet off-season is never counted as failure, it steps back until it recovers ([Chapter 8](../part-2-market-engine/08-money-rules/01-budgeting-cash-handling-and-cost-tracking.md)).
 
 ## The Principles Behind Every Chapter
 

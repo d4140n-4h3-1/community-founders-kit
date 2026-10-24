@@ -17,4 +17,4 @@
 
 ---
 
-← **Previous:** [If a Trigger Isn't Met](../part-4-tiers/unlock-triggers/06-if-a-trigger-isnt-met.md) · **Next:** [Appendix A: Checklists](appendix-a-checklists/README.md) →
+← **Previous:** [What Success Looks Like](../part-4-tiers/what-success-looks-like.md) · **Next:** [Appendix A: Checklists](appendix-a-checklists/README.md) →

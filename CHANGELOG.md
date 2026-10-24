@@ -6,6 +6,10 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 
 ## Unreleased
 
+### What success looks like
+
+- New page in Part 4 picturing a community at Tier 4 and graduation: the place, how it runs, how it feels to live there, how it stays safe, the signs it has succeeded, what success is not, and what can follow; linked from Start Here, Chapter 1, and the README
+
 ### Bonus: federation of villages
 
 - New bonus page: two or more self-governing villages may form a lawful, voluntary federation, with a short charter of shared principles, two delegates per village on a council, double-majority votes for big decisions, optional shared services, capped dues, legal-form options, a shared identity, and rules for joining, leaving, suspension, and disputes

@@ -44,6 +44,7 @@
 
 - Tier Summaries
 - Unlock Triggers
+- What Success Looks Like
 
 **Appendices**
 
@@ -88,6 +89,7 @@ The handbook is split into small files. Each part and each split chapter has its
 - [Part 4: The Tiers](handbook/part-4-tiers/README.md)
   - [Tier Summaries](handbook/part-4-tiers/tier-summaries/README.md)
   - [Unlock Triggers](handbook/part-4-tiers/unlock-triggers/README.md)
+  - [What Success Looks Like](handbook/part-4-tiers/what-success-looks-like.md)
 - [Appendices](handbook/appendices/README.md)
   - [Appendix A: Checklists](handbook/appendices/appendix-a-checklists/README.md)
   - [Appendix B: Templates](handbook/appendices/appendix-b-templates/README.md)
