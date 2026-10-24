@@ -9,7 +9,7 @@
 - [ ] A labor budget for the peak season shows the crop plan, market days, and essential tasks fit within members' hours ([D21](../../appendices/appendix-d-logs-sheets-and-reports/d21-labor-budget.md))
 - [ ] Monthly budget vs. actual reviewed for at least three months, with a break-even figure and a bad-season plan
 - [ ] Basic liability insurance active
-- [ ] Reliable water source, lab-tested, with the result on file
+- [ ] Reliable water source, lab-tested, with the result on file, and the wellhead and any storage tanks sealed and locked ([Protecting the Water Supply](../../part-3-site-and-infrastructure/10-water-plumbing-and-septic/05-safety-maintenance-and-failures.md#protecting-the-water-supply))
 - [ ] Septic permit and soil test completed
 - [ ] No unresolved sanitation violations
 - [ ] Sales and expense logs complete and reviewed monthly

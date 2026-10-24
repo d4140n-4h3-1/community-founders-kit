@@ -21,6 +21,7 @@ Plain meanings for the words this handbook uses in its own way. Where a term has
 | **Supermajority** | A vote threshold above a simple majority, set in the charter, used for big decisions such as buying land. |
 | **Cooling-off period** | A set wait between presenting a big decision and voting on it. |
 | **Revision log** | The community's record of each tier vote, rule change, and lesson learned ([template](../../REVISION_LOG.md)). |
+| **Voting waiting period** | The year a member who joins after the founding waits before voting on big decisions such as charter changes, land, and the reserve. |
 | **Sister village** | A new, separate village of about 20-30 people, started with help from an established one, with its own land, charter, money, and tiers ([Bonus](../bonus/sister-villages.md)). |
 | **Parent village** | The established village that helps a sister village start. It advises, but never makes the sister village's decisions. |
 | **Sister-village agreement** | The written agreement between a parent and a sister village: independence, land, start-up support, what is shared, mentors, and how either side can end it. |
@@ -80,6 +81,7 @@ Plain meanings for the words this handbook uses in its own way. Where a term has
 | **Closed session** | A part of a meeting that is never recorded, such as a personnel or safeguarding matter. The minutes note the pause and the legal basis, not the content. |
 | **Camera custodian** | One of the two named people allowed to view camera footage, with every viewing logged. |
 | **Barbed wire top** | Strands of barbed wire along the top of a fence guarding key resources, at least about 6 feet (1.8 meters) up, never on gates, homes, children's areas, or a way out. |
+| **Key and code audit** | The yearly count of every key and code against the key logs, with missing keys recovered, codes changed, and locks rekeyed where needed. |
 | **Two ways out** | The rule that every site has a second way out. Where wildfire or flood is a risk, it is a road a car can drive ([Chapter 12](../part-3-site-and-infrastructure/12-roads-and-access.md#two-ways-out)). |
 | **Emergency-only exit** | A second exit road kept gated against daily traffic, but opened by a lockbox or code that emergency services and every adult know. |
 
@@ -95,6 +97,7 @@ Plain meanings for the words this handbook uses in its own way. Where a term has
 | **Extension service** | A public agency (in the US, run with state universities) that gives local advice on soil, crops, and pests. Outside the US, look for the agricultural advisory service. |
 | **Broad-spectrum pesticide** | A spray that kills many kinds of insects, including spiders and helpful ones. Not used in or near gardens. |
 | **Farm gun** | A manual rifle or shotgun used only to protect livestock, handled only by trained, named adults. |
+| **Don't drink, test first** | The rule that any sign of tampering with drinking water stops its use until a lab test is clear ([Chapter 10](../part-3-site-and-infrastructure/10-water-plumbing-and-septic/05-safety-maintenance-and-failures.md#protecting-the-water-supply)). |
 | **Remote medical plan** | A medical plan sized to how long help takes to arrive, with a way to call with no cell signal and a helicopter landing spot ([Chapter 5](../part-1-core-chapters/05-people-and-safeguarding/04-health-leadership-and-leaving.md#remote-medical-plan)). |
 | **Wilderness first aid** | First-aid training for caring for someone for hours, not minutes, until help arrives. |
 | **AED** | Automated external defibrillator: a device that talks the user through restarting a stopped heart. |

@@ -13,6 +13,7 @@
 | Septic inspection or pumping | | | | | | | |
 | Turbine inspection (if installed) | | | | | | | |
 | Camera policy review | | | | | | | |
+| Key and code audit | | | | | | | |
 | Meeting recording policy review | | | | | | | |
 | Firearms policy review and storage statements | | | | | | | |
 

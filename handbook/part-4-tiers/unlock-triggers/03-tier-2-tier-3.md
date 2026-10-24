@@ -5,13 +5,14 @@
 - [ ] Reserve fund covers 2 months of operating costs, held in cash or insured accounts
 - [ ] Spending limits written into the charter, and the first annual budget reviewed by the accountant
 - [ ] Septic installed and inspected; wash-and-pack station passes any required inspection
-- [ ] Block food store built, with key log and monthly pest inspections on record
+- [ ] Block food store built, with key log and monthly pest inspections on record, and a key and code audit done within the last year ([Outside Harassment and Community Security](../../part-1-core-chapters/05-people-and-safeguarding/06-outside-harassment-and-community-security.md))
 - [ ] Greenhouse locks (inside no-key exit and outside keyed lock), vent mesh, key log, temperature alarm, and backup vent opener in place, and the locked pump house checked monthly
 - [ ] Camera, meeting-recording, animal, wind-turbine, and annual-report rules added to the charter ([Chapter 3](../../part-1-core-chapters/03-charter-and-decision-making.md#when-each-rule-is-adopted))
 - [ ] Camera policy adopted and reviewed by an attorney, with orange cameras and black-and-yellow signs installed, off-site storage working, two custodians named, and the access log and retention limit in use
 - [ ] **Meeting recording policy reviewed by an attorney, with recording consent in the membership agreement, and written minutes kept for every meeting**
 - [ ] Wash-and-pack workflow and post-harvest cooling in regular use, with a harvest log
-- [ ] At least 2 products selling consistently
+- [ ] At least 2 products selling consistently, through at least two sales outlets ([Chapter 6](../../part-2-market-engine/06-market-business-basics/04-tier-fit-and-checklists.md))
+- [ ] A backup landowner or host who has said in writing they would consider hosting the community ([Chapter 13](../../part-3-site-and-infrastructure/13-land-acquisition-and-expansion.md))
 - [ ] Two members trained to handle cash and bookkeeping
 - [ ] Removal and appeal process reviewed by an attorney
 - [ ] Joining and leaving process written down and reviewed by an attorney, and the first season review held

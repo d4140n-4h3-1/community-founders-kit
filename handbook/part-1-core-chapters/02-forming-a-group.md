@@ -57,7 +57,7 @@ Pick a method and write it down. A mix often works best.
 
 - **Everyday decisions:** the person responsible decides within agreed limits, and reports back
 - **Shared decisions:** discuss, then reach agreement by consent ("can everyone live with this?") or a simple majority
-- **Big decisions** (money above a set amount, new members, land, changes to the charter): a larger majority, a cooling-off period, and a written record
+- **Big decisions** (money above a set amount, new members, land, changes to the charter): a larger majority, a cooling-off period, and a written record. Members who join later vote on these only after a year of membership ([Chapter 5](../part-1-core-chapters/05-people-and-safeguarding/01-membership-and-conduct.md)).
 - **Stuck decisions:** a trial run with a review date, or a neutral facilitator
 - Keep short minutes of every meeting, with decisions and who does what by when. **Written minutes are always the official record,** even if a meeting is also recorded ([Chapter 9](../part-3-site-and-infrastructure/09-shelter-evolution/README.md)).
 

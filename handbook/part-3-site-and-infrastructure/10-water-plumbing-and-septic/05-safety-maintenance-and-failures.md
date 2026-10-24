@@ -2,6 +2,26 @@
 
 # Safety, Maintenance, and Failures
 
+## Protecting the Water Supply
+
+**Rule:** drinking water is locked or sealed from source to tap, checked every day, and **any sign of tampering means don't drink, test first.**
+
+- [ ] **Wellhead:** a sealed, bolted sanitary cap, with the casing above ground and inside the locked pump house or its own locked cover
+- [ ] **Storage tanks:** locked hatches, screened vents, and no way to reach the water without a key
+- [ ] **Hauled-water containers:** lidded, with tamper-evident seals or tape across the lid, stored out of reach of visitors
+- [ ] **Daily check,** as part of the drinking water essential task ([Daily Life](../../part-1-core-chapters/05-people-and-safeguarding/08-daily-life-chores-shared-spaces-and-routines.md)): locks and seals intact, no sudden drop in a tank's level, and no change in color, cloudiness, or smell
+- [ ] **Simple test strips** kept on hand. They can catch some changes, such as treatment levels if the water is treated, but only a lab test is proof.
+- [ ] **A stored reserve of drinking water,** sealed and dated, enough for every resident for at least three days, rotated on a schedule
+
+**Don't drink, test first.** If a seal is broken, a lock is forced, the water looks or smells wrong, or several people fall ill at once:
+
+1. Stop using the water for drinking, cooking, and washing food. Post notices at every tap.
+2. Switch to the stored reserve or hauled water.
+3. Leave the scene as it is, take photos, and record it in the [outside incident log](../../appendices/appendix-d-logs-sheets-and-reports/d16-outside-incident-and-harassment-log.md).
+4. Call the health department, and the police if tampering is suspected.
+5. Get a lab test, and log the reason in the [water-test log](../../appendices/appendix-a-checklists/a09-water-test-log.md).
+6. Go back to the water only after a clear result, flushing the lines if the lab advises.
+
 ## Cross-Connection and Safety
 
 - [ ] Backflow preventer on any line that touches both garden and drinking water
@@ -19,6 +39,8 @@
 
 ## Common Failures
 
+- A wellhead or tank anyone can open, or water kept in containers with no seals
+- Drinking water that looked or smelled wrong, used "just this once"
 - Building cabin toilets before the septic is permitted
 - Sizing septic for today's headcount or for fewer bedrooms than will be used, or skipping the soil test in clay
 - Driving over the tank or field, or planting trees on it

@@ -19,8 +19,10 @@
 - [ ] **Mark boundaries:** posted property lines, black-and-yellow "private property" and "no trespassing" signs at entrances, and a gate policy (check local sign rules)
 - [ ] **Sign in visitors,** and keep the visitor welcome sheet at the gate ([Appendix A12](../../appendices/appendix-a-checklists/a12-visitor-welcome-sheet.md))
 - [ ] **Secure the valuable and vulnerable places:** the food store, greenhouses, pump house, shutoffs, breaker boxes, and tool shed, with key logs and motion lights ([Chapter 9](../../part-3-site-and-infrastructure/09-shelter-evolution/README.md))
+- [ ] **Audit every key and code once a year:** count every key against the key logs (food store, greenhouses, pump house, gates, fence gates, safes, the network cabinet, and the farm-gun cabinet), take back any that aren't accounted for, and change the codes. Rekey or swap lock cylinders at once when a key is missing or a holder leaves, and on a set schedule for the food store, pump house, and gates. Give emergency services any new lockbox or gate code the same day.
 - [ ] **Lock the water and power:** pump houses, shutoffs, and electrical panels are easier targets than the crops they feed
 - [ ] **Light and visibility:** motion-sensor lights and clear sight lines from cabins and paths ([Chapter 14](../../part-3-site-and-infrastructure/14-lighting-standard.md))
+- [ ] **Don't depend on one partner:** a second sales outlet and a backup landowner or host by Tier 2 (Chapters [6](../../part-2-market-engine/06-market-business-basics/04-tier-fit-and-checklists.md) and [13](../../part-3-site-and-infrastructure/13-land-acquisition-and-expansion.md))
 - [ ] **Know your allies:** introduce the community to the local police non-emergency contact, the landowner, and the market manager before trouble starts
 - [ ] **A trusted attorney** who already knows the community
 - [ ] **Privacy:** never publish residents' names, children's photos, or schedules
@@ -81,6 +83,8 @@ The fences around the community's most important resources may carry barbed wire
 - Missing permits or filings that give a complainant a real finding
 - Publishing residents' names, children's photos, or schedules
 - A visible, attractive target left unlocked and unlit
+- Keys handed on informally for years, so no one knows who can open what
+- A changed gate code that emergency services were never told
 - A fence gate that can lock someone in, or blocks a fire truck or a way out
 - Barbed wire at child height, on a gate, or along a way out, or put up without checking local rules
 

@@ -4,7 +4,7 @@
 
 - Single-story cabins with a noncombustible steel shell and a drywall or fire-rated interior, sized for the households living there (up to four people each); block cabins optional where budget, a mason, and the permit allow
 - Shared kitchen and plumbed wash-and-pack station
-- Food storage building in filled block, with a steel door, secured roof, key log, and monthly pest inspections
+- Food storage building in filled block, with a steel door, secured roof, key log, and monthly pest inspections, and a yearly key and code audit
 - Septic installed and inspected before any cabin drain is connected, sized for planned bedrooms and residents
 - A secured seedling greenhouse: inside lock with a no-key exit, outside keyed lock, key log, mesh on vents, motion light, temperature alarm, backup vent opener, and stored water reserve
 - A locked pump house and shutoffs
@@ -22,6 +22,7 @@
 - The Cameras and Surveillance Policy adopted and reviewed by an attorney, with the first visible orange cameras and black-and-yellow signs at the food store, main gate, and greenhouse door
 - **The meeting recording policy written and reviewed by an attorney, with recording consent added to the membership agreement (no recording yet)**
 - Lodge and Meeting Hall planning started: permits, budgets, and septic readiness checked
+- A second sales outlet in regular use, and a backup landowner or host in writing
 - A three-month cash forecast, approval limits in the charter, and the first annual budget reviewed by the accountant
 - Cash reserve and cost-cutting systems come first; still no store-of-value purchases
 - First short annual report published; regular surplus donations to a food bank begin

@@ -8,7 +8,7 @@
 2. **Values:** *[three to five]*
 3. **Founders:** *[names]*
 4. **Roles and backups:** Cash *[ ] / [ ]*. Keys *[ ] / [ ]*. Filings *[ ] / [ ]*. Safeguarding *[ ] / [ ]*. First aid *[ ] / [ ]*. Crops *[ ] / [ ]*. Spokesperson *[ ] / [ ]*. Minutes secretary *[ ] / [ ]*.
-5. **Decisions:** everyday *[ ]*, shared *[ ]*, big *[threshold and cooling-off]*, stuck *[ ]*
+5. **Decisions:** everyday *[ ]*, shared *[ ]*, big *[threshold and cooling-off]*, stuck *[ ]*. Members who join later vote on big decisions after *[one year]* of membership. New members admitted each year: no more than *[a third of the current membership]*.
 6. **Meetings:** *[when, where]*. Written minutes are always the official record.
 7. **Money:** the community account has *[two]* signers. Spending limits: *[ ]*. Contributions are voluntary and recorded. Personal and community money stay separate.
 8. **Conduct and conflict:** we follow the conduct code and conflict ladder in [Appendix B3](b03-conduct-code-and-conflict-ladder.md).

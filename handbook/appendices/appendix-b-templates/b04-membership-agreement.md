@@ -11,7 +11,7 @@
 - *(Once cameras are in use:)* I understand that cameras are used only in shared and outdoor areas under the written policy, and where they are.
 - *(Add once the meeting recording policy is adopted, at Tier 2:)* **I consent to open community and board meetings in the Meeting Hall being recorded (video and, if lawful and approved, audio) for the community archive, under the written meeting recording policy. I understand that closed sessions are never recorded, that written minutes are the official record, and that I may use the unrecorded seat or written comment.**
 - I agree to the visitor rules and safeguarding rules.
-- I understand how decisions are made and how conflicts and removals are handled.
+- I understand how decisions are made and how conflicts and removals are handled, and that I will vote on big decisions (charter changes, land, the reserve, admitting or removing members, and dissolution) after *[one year]* of membership.
 - I have not been asked to hand over savings, identity documents, or property to join.
 - I understand how I may leave, and what happens to keys, property, and money owed.
 - Emergency contact (held securely by two named people): *[ ]*

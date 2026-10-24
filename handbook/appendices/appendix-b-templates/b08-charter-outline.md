@@ -7,7 +7,7 @@ Fill each section when its tier comes, as set out in [When Each Rule Is Adopted]
 1. Purpose and values (from the founding agreement)
 2. Membership: joining, trial period, leaving
 3. Equal treatment and shared space (the Lodge and the Meeting Hall)
-4. Decisions: methods, thresholds, voting, record-keeping, and written minutes
+4. Decisions: methods, thresholds, voting, the voting waiting period and yearly cap on new members, record-keeping, and written minutes
 5. Roles and terms, two people per critical task, and succession
 6. Standing rules (the list in [Chapter 3](../../part-1-core-chapters/03-charter-and-decision-making.md))
 7. Conduct, conflict ladder, removal and appeal

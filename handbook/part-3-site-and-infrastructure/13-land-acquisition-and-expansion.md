@@ -17,6 +17,7 @@ More land doesn't have to mean more people. If the extra land is for more reside
 
 - [ ] Keep a standing "land wish list": acreage range, budget ceiling, must-haves (water, road access, soil, zoning)
 - [ ] Build a relationship with neighbors and the current landowner
+- [ ] **A backup by Tier 2:** a second landowner or host who has said in writing that they would consider hosting the community if the current land is lost, so pressure on one landowner can't end the community
 - [ ] Ask for a **right of first refusal** or purchase option in the lease, so the community gets the first chance to buy. This is required before any Tier 2 building on leased land ([Appendix B7](../appendices/appendix-b-templates/b07-right-of-first-refusal.md))
 - [ ] Keep the legal entity (nonprofit or trust) in good standing, since sellers and lenders check it
 

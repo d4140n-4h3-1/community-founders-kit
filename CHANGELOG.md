@@ -6,6 +6,14 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 
 ## Unreleased
 
+### Harder to sabotage
+
+- Water protection: the wellhead, tanks, and containers sealed and locked, a daily check, a three-day stored reserve, and "don't drink, test first" at any sign of tampering (Chapter 10)
+- A voting waiting period: members who join later vote on big decisions after a year of membership, and the charter caps new members each year (Chapter 5)
+- Fewer single partners: a second sales outlet and a backup landowner or host by Tier 2 (Chapters 6 and 13)
+- A yearly key and code audit, with locks rekeyed when a key goes missing and emergency services told of any new code (Chapter 5)
+- Chapter 3's standing rules and adoption table, the tier summaries, the unlock triggers, Start Here, the templates, the water-test log, the compliance calendar, and the glossary updated to match
+
 ### Security gaps closed
 
 - Two ways out: every site identifies two from Tier 0, secures the second before any cabin, and, where wildfire or flood is a risk, builds a second exit road or emergency-only exit before Tier 3 (Chapter 12)

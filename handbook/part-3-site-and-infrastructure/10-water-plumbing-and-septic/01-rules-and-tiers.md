@@ -18,7 +18,8 @@ Clean water in, wastewater out, and nothing freezing in between. Plumbing follow
 ## Tier Fit
 
 - **Tier 0:**
-  - Hauled potable water in food-grade, lidded containers, labeled and cleaned monthly
+  - Hauled potable water in food-grade, lidded containers with tamper-evident seals, labeled and cleaned monthly
+  - A stored reserve of sealed drinking water, and the "don't drink, test first" rule posted ([Protecting the Water Supply](05-safety-maintenance-and-failures.md#protecting-the-water-supply))
   - Handwashing station with soap and a catch bucket
   - Toilet access that is legal for the site (a serviced portable toilet, or a permitted option)
   - Garden watering from rain barrels, hauled water, or a borrowed hose

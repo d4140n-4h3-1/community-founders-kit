@@ -6,8 +6,8 @@
 
 - **Tier 0:** sell small surplus if permitted, after consulting an accountant. Keep the sales log from the first sale.
 - **Tier 1:** weekly market table and canopy, with produce and seedlings. Add the craft table. Register for sales tax and permits, and use a dedicated account.
-- **Tier 2:** add value-added products from a compliant kitchen or wash-and-pack station. Start regular surplus donations.
-- **Tier 3:** add a second market day or a second market, and track which stand earns more per hour.
+- **Tier 2:** add value-added products from a compliant kitchen or wash-and-pack station. Start regular surplus donations. Add a **second sales outlet,** such as a second market, a farm stand, a produce-box subscription, or a standing order with a local grocer or restaurant, so losing one market doesn't stop the income.
+- **Tier 3:** add a second market day or a third outlet, and track which outlet earns more per hour. No single outlet should bring in most of the income.
 - **Tier 4:** review product mix and prices yearly, mentor new groups on market basics, and publish results in the annual report.
 
 ## Weekly Market-Day Checklist

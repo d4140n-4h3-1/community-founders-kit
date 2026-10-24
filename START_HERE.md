@@ -65,7 +65,8 @@ Partnering with an existing organization ([Chapter 2](handbook/part-1-core-chapt
 Work through the [site readiness checklist](handbook/appendices/appendix-a-checklists/a01-site-readiness.md). The most important items:
 
 - [ ] Written land permission, and local approvals in writing
-- [ ] Tested drinking water, and a legal toilet with a handwashing station
+- [ ] Tested drinking water, in sealed containers, and a legal toilet with a handwashing station
+- [ ] Everyone knows the water rule: any sign of tampering means [don't drink, test first](handbook/part-3-site-and-infrastructure/10-water-plumbing-and-septic/05-safety-maintenance-and-failures.md#protecting-the-water-supply)
 - [ ] Tents on platforms, anchored, away from hazards
 - [ ] A first-aid kit, a trained first-aider, and emergency numbers, the site address, and directions posted
 - [ ] A fire extinguisher, and smoke and CO detectors where people sleep
