@@ -52,7 +52,7 @@ The fences around the community's most important resources may carry barbed wire
 - [ ] **Check local rules first.** Many places ban or limit barbed wire in residential zones or along public roads, set a minimum height, or require a permit. Ask an attorney and the insurer about liability ([Chapter 4](../04-legal-basics.md)).
 - [ ] **Install it safely:** heavy gloves, eye protection, and long sleeves, with two people for every run of wire. Workers keep their tetanus shots up to date.
 - [ ] **Walk the fence monthly,** with the food-store check: tighten sagging wire, repair breaks, and free or report any trapped wildlife ([Appendix A8](../../appendices/appendix-a-checklists/a08-food-store-security-and-pests.md))
-- [ ] **Keep livestock fencing separate.** Barbed wire can badly injure some animals, such as horses, so pens follow the animal-care rules, not this one ([Daily Life](08-daily-life-chores-shared-spaces-and-routines.md))
+- [ ] **Keep livestock fencing separate.** Barbed wire can badly injure some animals, such as horses, so pens follow the animal-care rules, not this one ([Animals](09-animals.md))
 
 **Response plan (write it down)**
 

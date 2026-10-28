@@ -104,7 +104,7 @@ These matter later, and the handbook covers them, but they are not Tier 0 work:
 - The Lodge and the Meeting Hall (planned at Tier 2, built at Tier 3)
 - Forming a nonprofit or land trust, and resident fees (Tier 3)
 - Reserve layers beyond the cash reserve, precious metals, and buying land (Tier 3-4)
-- Animals, wind turbines, and the sand battery (Tier 3 and up)
+- Keeping your own animals, wind turbines, and the sand battery (Tier 3 and up). A hired grazing service or a local beekeeper's hosted hives can come sooner, under a written agreement ([Animals](handbook/part-1-core-chapters/05-people-and-safeguarding/09-animals.md)).
 
 ## How You Know You're Ready for Tier 1
 

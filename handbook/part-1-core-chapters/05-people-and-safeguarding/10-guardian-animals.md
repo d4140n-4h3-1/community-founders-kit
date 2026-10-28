@@ -1,0 +1,52 @@
+[Handbook](../../../README.md) › [Part 1: Core Chapters](../README.md) › [5. People and Safeguarding (including Daily Life, Outside Harassment and Community Security, Cameras, and Firearms Safety)](README.md) ›
+
+# Guardian Animals
+
+**Rule:** a guardian animal is raised with the animals it will protect, starting young, and proves itself before it guards alone. Choose it by the individual animal and the local predators, not by reputation alone.
+
+## Raise Them as Pups
+
+- [ ] **Bring a guardian dog home as a puppy,** usually at about 8-12 weeks old, and raise it with the livestock it will guard, so it bonds with them early. The earlier it is socialized, the better.
+- [ ] **Socialize it with people too:** residents, children under supervision, regular visitors, and the vet, so it accepts handling and knows who belongs
+- [ ] **Teach the basics:** coming when called, staying inside the fence, and accepting a collar, a leash, and a vet's exam
+- [ ] **Supervise it as it grows.** Young dogs play rough and can hurt livestock without meaning to, and many don't settle until they are about two years old. Correct rough play early, and don't leave a young dog alone with the animals until it has proven itself.
+
+## Choosing a Guardian
+
+1. **A dog raised from a pup with the community's own animals,** trained and proven over time. Any breed may be raised for the job, including pit bulls, which some communities raise and train with great success.
+2. **For a community new to guardian dogs, or facing bears, cougars, or wolves,** the livestock guardian breeds (such as the Great Pyrenees, Anatolian Shepherd, Maremma, Akbash, and Kangal) are the safest default, since they were bred to guard alone around the clock.
+3. **A donkey,** where the threat is mainly coyotes, foxes, and stray dogs (see [Donkeys](#donkeys))
+
+## Proving It Before It Guards Alone
+
+- [ ] **Introduce the dog to each kind of animal** it will guard, under supervision. Goats and sheep run and bolt in a way chickens don't, which can start a chase even in a dog that is calm with hens.
+- [ ] **A trial of a few months,** from supervised visits to longer unsupervised stretches, with no chasing, nipping, or killing. A trainer or the vet helps judge it.
+- [ ] **Off guard duty at the first attack** on livestock or a person, until a trainer or the vet has assessed the dog again
+
+## Rules for Every Guardian Dog
+
+- [ ] **Allowed by local law and the insurer.** Many places restrict pit bull-type dogs and some other breeds, and the community's insurance must cover the dog.
+- [ ] **Licensed and vaccinated** as the law requires, including rabies, with vet care, food, water, and shelter in the animal budget and the daily rota
+- [ ] **Spayed or neutered,** unless the group's breeding plan says otherwise (see [Breeding](09-animals.md#breeding))
+- [ ] **Safe with children and visitors,** under the safeguarding and pet rules, and visitors are told where the guardian dogs work and not to enter their pens or feed them ([visitor welcome sheet](../../appendices/appendix-a-checklists/a12-visitor-welcome-sheet.md))
+- [ ] **Stays on the land.** Fencing keeps the dog in, since a guardian that roams can be a danger to neighbors and a legal liability.
+- [ ] **Neighbors know** that barking at night is how a guardian warns off predators
+- [ ] **Guards the animals, never against people.** A guardian dog is never used to threaten or chase trespassers. People are handled under the outside harassment response plan ([Outside Harassment and Community Security](06-outside-harassment-and-community-security.md)).
+
+## Donkeys
+
+- **Effective** against coyotes, foxes, and stray dogs, which donkeys dislike and will chase, stomp, and sometimes kill
+- **Not enough** against bears, cougars, or wolf packs, which can hurt or kill a donkey
+- [ ] **Jennies (females) or geldings (neutered males) only.** Never a jack (intact male), which can be dangerous to lambs, kids, and people.
+- [ ] **One donkey per flock or pasture** is the usual starting point, so the donkey bonds with the flock and treats it as its herd
+- [ ] **A bonded pair can guard too,** keeping each other company while they protect a large flock, or two pastures side by side with one donkey in each. Introduce both to the flock slowly, and watch that they guard it rather than wandering off together or handling young animals roughly.
+- [ ] **Donkeys suffer alone.** A single guardian donkey's flock must be its company, with daily attention from people. Where no guarding is needed, keep donkeys in pairs.
+- [ ] **Kept apart from dogs.** Donkeys often attack dogs, guardian dogs included, so a flock has a guardian dog or a donkey, not both.
+- [ ] **Introduce it slowly,** across a fence for a few weeks, before it joins the flock
+- [ ] **Care:** hoof trimming, teeth checked by the vet, shelter from rain, and limited rich pasture, since donkeys put on weight easily and can founder (a painful hoof disease)
+
+<!-- nav: generated by scripts/nav.py, do not edit below -->
+
+---
+
+← **Previous:** [Animals](09-animals.md) · **Next:** [Goats](11-goats.md) →

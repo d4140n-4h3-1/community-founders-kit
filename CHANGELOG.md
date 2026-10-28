@@ -6,6 +6,11 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 
 ## Unreleased
 
+### Animal pages and the outside-service rule
+
+- The animal material moved out of Daily Life into seven pages in Chapter 5: Animals (the rules for every animal, breeding, and identification), Guardian Animals, Goats, Sheep, Chickens, Rabbits, and Bees, with real headings that other pages link to directly
+- The standing rules, Start Here, the Tier 1 summary, and Chapter 5's tier fit now say what the animal pages already allowed: the community keeps its own animals from Tier 3, but a hired grazing service or a beekeeper's hosted hives may come at any tier under a written agreement
+
 ### Rabbits
 
 - Rabbits for meat and manure under the animal rules from Tier 3, with separating males as the most urgent rule: every adult buck in his own hutch, litters separated by sex by about 8 weeks and checked twice, and breeding only under the breeding plan. The section covers predator-proof housing, heat protection, no housing with chickens, hay-based feeding, vet care and vaccination, never releasing rabbits, composting the manure before food crops, and humane slaughter and meat under the food rules. The breeding rule, the manure guidance, and the glossary match.

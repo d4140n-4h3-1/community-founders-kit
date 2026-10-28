@@ -19,6 +19,7 @@
 - A thermometer and twice-daily check in the hoop house, with valuables and stock removed overnight
 - A trial period for newcomers, two trained first-aiders, visitor rules, a safeguarding lead and deputy, and a first-season disaster plan that includes high wind
 - A weekly check-in meeting, a tool sign-out list, a visitor welcome sheet, and food storage and waste routines
+- Optional, at any tier: a hired grazing service or a local beekeeper's hosted hives, under a written agreement ([Animals](../../part-1-core-chapters/05-people-and-safeguarding/09-animals.md))
 - A neighbor liaison, an introduction to the police non-emergency contact, and the outside-harassment response plan in the charter
 - Core charter adopted from the attorney-reviewed founding agreement, including the equal-treatment wording; the building and weather rules (height, occupancy, noncombustible shell, septic, food store, greenhouse lock standard) are added before Tier 2 building starts
 

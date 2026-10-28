@@ -55,7 +55,7 @@ Bolt, lever, pump, break-action, and single-shot rifles and shotguns are working
 
 **Who may use them**
 
-- [ ] Only **named, trained adults**, usually the animal-care lead and backup ([Chapter 5, Daily Life](08-daily-life-chores-shared-spaces-and-routines.md)), plus anyone else the board approves
+- [ ] Only **named, trained adults**, usually the animal-care lead and backup ([Animals](09-animals.md)), plus anyone else the board approves
 - [ ] Each one has completed a **hunter education or firearms safety course** and practiced with the specific firearm
 - [ ] Each one knows the **local law on killing predators,** which animals are protected, and when a permit is needed
 
@@ -82,7 +82,7 @@ Bolt, lever, pump, break-action, and single-shot rifles and shotguns are working
 
 **Prevention comes first**
 
-- Most livestock losses are prevented by **good fencing, secure night pens, lights, and guardian animals ([Daily Life](08-daily-life-chores-shared-spaces-and-routines.md)),** not by shooting. Use them first.
+- Most livestock losses are prevented by **good fencing, secure night pens, lights, and guardian animals ([Guardian Animals](10-guardian-animals.md)),** not by shooting. Use them first.
 - Remove what draws predators: carcasses, open feed, and uncovered compost ([Chapter 7](../../part-2-market-engine/07-production-planning/README.md)).
 - Ask the local wildlife agency or agricultural extension service about non-lethal options and depredation permits.
 
@@ -137,7 +137,7 @@ Bolt, lever, pump, break-action, and single-shot rifles and shotguns are working
 - **Tier 0:** write the firearms policy into the charter before anyone brings a firearm onto the land. In tents and trailers, firearms stay in a locked case cabled to something solid, in a locked vehicle safe, or off site.
 - **Tier 1:** every firearm owner on site has a safe or lockbox. The four rules are posted, and the policy is in the visitor welcome sheet.
 - **Tier 2:** cabins have bolted-down safes. Anyone who carries has completed a handgun safety course.
-- **Tier 3:** if the group votes to keep livestock ([Chapter 5, Daily Life](08-daily-life-chores-shared-spaces-and-routines.md)), the predator plan is written: prevention first, named and trained users, a locked cabinet near the animals, the shooting-zone map, and the discharge log.
+- **Tier 3:** if the group votes to keep livestock ([Animals](09-animals.md)), the predator plan is written: prevention first, named and trained users, a locked cabinet near the animals, the shooting-zone map, and the discharge log.
 - **Tier 4:** review the policy, the discharge log, and any incidents yearly, and teach new groups the policy as part of mentoring.
 
 ## Common Failures

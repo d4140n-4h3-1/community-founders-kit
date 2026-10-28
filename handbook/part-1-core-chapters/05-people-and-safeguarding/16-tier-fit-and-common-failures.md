@@ -7,7 +7,7 @@
 - **Tier 0:** membership agreement, conduct rules, first-aid kit, one trained first-aider, posted emergency numbers, and a simple conflict process. Daily life basics: a chore list, weekly chart, the 12-hour guideline, an essential-task list, shared-space rules, quiet hours, and a weekly rest day. Security basics: boundary signs, a visitor sign-in, a named spokesperson, and the outside incident log.
 - **Tier 1:** a trial period, two trained first-aiders, visitor rules, a safeguarding lead and deputy, and a disaster plan for the first season. Daily life: the weekly check-in, a tool sign-out list, a visitor welcome sheet, and food storage and waste routines. Security: a neighbor liaison and the response plan in the charter.
 - **Tier 2:** written removal and appeal process reviewed by an attorney, mediation training for two members, fire drills, and a weekly check-in. Daily life: a shared kitchen with posted rules, a pet policy, a written meal-cost method, and the first open day. Security: locks and lights on key buildings, the camera policy adopted, and first cameras and signs installed. Meetings: the recording policy written and reviewed by an attorney, with consent added to the membership agreement.
-- **Tier 3:** a board with non-residents hearing appeals, an independent route for complaints, and a succession plan for leaders. Daily life: the Lodge and the Meeting Hall with equal-booking policies, a bathhouse rota, a laundry schedule, volunteer days, and a monthly chart review. Security: more cameras with off-site storage. **Animals are optional and start at Tier 3 or later,** with a care lead, backup, and rota in place first.
+- **Tier 3:** a board with non-residents hearing appeals, an independent route for complaints, and a succession plan for leaders. Daily life: the Lodge and the Meeting Hall with equal-booking policies, a bathhouse rota, a laundry schedule, volunteer days, and a monthly chart review. Security: more cameras with off-site storage. **The community's own animals are optional and start at Tier 3 or later,** with a care lead, backup, and rota in place first. A hired grazing service or hosted beehives may come sooner ([Animals](09-animals.md)).
 - **Tier 4:** yearly review of conduct, safeguarding, emergency plans, security, camera logs, the meeting archive, and routines, and mentoring new groups on people rules and daily life
 
 ## Common Failures
@@ -50,4 +50,4 @@
 
 ---
 
-← **Previous:** [Daily Life: Chores, Shared Spaces, and Routines](08-daily-life-chores-shared-spaces-and-routines.md) · **Next:** [Part 2: The Market Engine](../../part-2-market-engine/README.md) →
+← **Previous:** [Bees](15-bees.md) · **Next:** [Part 2: The Market Engine](../../part-2-market-engine/README.md) →

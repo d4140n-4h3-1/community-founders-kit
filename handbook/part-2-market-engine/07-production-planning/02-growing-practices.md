@@ -16,7 +16,7 @@
 - **Feed the soil first:** compost, mulch, and cover crops (they also hold soil against wind)
 - **Rotate crop families** so the same family does not follow itself in the same bed
 - **Compost site:** away from wells, water, drainage paths, and the septic field, and out of reach of animals
-- **Manure:** use only well-composted manure on food beds, and follow the local waiting period between application and harvest. Raw manure on food crops is a safety risk. Rabbit manure, if the community keeps rabbits, composts quickly and is gentle on plants ([Rabbits](../../part-1-core-chapters/05-people-and-safeguarding/08-daily-life-chores-shared-spaces-and-routines.md)).
+- **Manure:** use only well-composted manure on food beds, and follow the local waiting period between application and harvest. Raw manure on food crops is a safety risk. Rabbit manure, if the community keeps rabbits, composts quickly and is gentle on plants ([Rabbits](../../part-1-core-chapters/05-people-and-safeguarding/14-rabbits.md)).
 - **No treated or painted wood** in raised beds, and no sewage-based soil products unless local rules clearly allow them
 - **Raised beds** near the water source suit Tier 0-1, with paths wide enough for carts
 
@@ -35,7 +35,7 @@ Work in this order, and use the next step only when the one before fails:
 1. **Prevention:** healthy soil, spacing, rotation, resistant varieties, and row cover
 2. **Monitoring:** walk the beds weekly and note problems early
 3. **Hand-picking, traps, and barriers**
-4. **Beneficial insects and garden spiders** (protected under [Chapter 15](../../part-3-site-and-infrastructure/15-porch-lights-and-garden-spiders.md)), and, if the community keeps them, chickens in beds between crops ([Chickens](../../part-1-core-chapters/05-people-and-safeguarding/08-daily-life-chores-shared-spaces-and-routines.md)). Bees, kept or hosted, pollinate the crops ([Bees](../../part-1-core-chapters/05-people-and-safeguarding/08-daily-life-chores-shared-spaces-and-routines.md)).
+4. **Beneficial insects and garden spiders** (protected under [Chapter 15](../../part-3-site-and-infrastructure/15-porch-lights-and-garden-spiders.md)), and, if the community keeps them, chickens in beds between crops ([Chickens](../../part-1-core-chapters/05-people-and-safeguarding/13-chickens.md)). Bees, kept or hosted, pollinate the crops ([Bees](../../part-1-core-chapters/05-people-and-safeguarding/15-bees.md)).
 5. **Targeted organic spray as a last resort,** applied at dusk away from webs and logged
 
 **Rules**
