@@ -16,7 +16,7 @@
 - **Feed the soil first:** compost, mulch, and cover crops (they also hold soil against wind)
 - **Rotate crop families** so the same family does not follow itself in the same bed
 - **Compost site:** away from wells, water, drainage paths, and the septic field, and out of reach of animals
-- **Manure:** use only well-composted manure on food beds, and follow the local waiting period between application and harvest. Raw manure on food crops is a safety risk.
+- **Manure:** use only well-composted manure on food beds, and follow the local waiting period between application and harvest. Raw manure on food crops is a safety risk. Rabbit manure, if the community keeps rabbits, composts quickly and is gentle on plants ([Rabbits](../../part-1-core-chapters/05-people-and-safeguarding/08-daily-life-chores-shared-spaces-and-routines.md)).
 - **No treated or painted wood** in raised beds, and no sewage-based soil products unless local rules clearly allow them
 - **Raised beds** near the water source suit Tier 0-1, with paths wide enough for carts
 

@@ -6,6 +6,10 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 
 ## Unreleased
 
+### Rabbits
+
+- Rabbits for meat and manure under the animal rules from Tier 3, with separating males as the most urgent rule: every adult buck in his own hutch, litters separated by sex by about 8 weeks and checked twice, and breeding only under the breeding plan. The section covers predator-proof housing, heat protection, no housing with chickens, hay-based feeding, vet care and vaccination, never releasing rabbits, composting the manure before food crops, and humane slaughter and meat under the food rules. The breeding rule, the manure guidance, and the glossary match.
+
 ### Bees
 
 - Bees for honey and pollination: host a local beekeeper's hives at any tier, or keep the community's own from Tier 3 with two trained beekeepers. Hives sit well away from the animals (for example at least 50 feet or 15 meters from pens, pastures, the chicken run, and guardian animals) and from daily paths, with a flight barrier, a water source for the bees, and an electric fence where bears live. The section covers sting allergies and epinephrine, children, protective gear and smoker safety, training, registration, varroa mites, swarms, winter stores, no spraying of blooming plants, native bees, and honey and wax under the food rules. The market, pest-control, visitor sheet, and glossary entries match.

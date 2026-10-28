@@ -111,7 +111,7 @@ Common spaces are the heart of daily life, and the place where small conflicts b
 
 - [ ] **Separate housing for every intact male,** with fencing he can't climb, jump, or breed through. Leave a gap or a double fence between his pen and the females'.
 - [ ] **Company where the species needs it,** such as a wether to keep a buck goat or a ram company. Roosters may fight each other, so watch any that share a pen.
-- [ ] **Young males are separated before they can breed:** buck kids by about 8 weeks old and ram lambs by about 3 months old, or sooner if the vet advises, and young roosters as soon as they can be told apart from the hens
+- [ ] **Young males are separated before they can breed:** buck kids by about 8 weeks old and ram lambs by about 3 months old, or sooner if the vet advises, young roosters as soon as they can be told apart from the hens, and rabbit kits by about 8 weeks old (see **Rabbits** below)
 - [ ] **Breeding happens only under a written plan the group votes on:** why it's needed (such as replacing older hens, or kids so the does give milk), how many young are expected, where they will live, the cost, the vet's advice, and what happens to the young males born
 - [ ] **Often the simplest choice is not to keep a male at all:** borrow or hire a buck for the breeding season, use artificial insemination through a vet, or buy fertile eggs or young chicks from a trusted, disease-tested source
 - [ ] **Breeding season:** bucks in season smell strongly and can be aggressive, and rams can charge without warning, so two adults handle them, no one turns their back on a ram, and children stay away
@@ -263,6 +263,52 @@ Chickens scratch up seedlings, eat young plants and ripe fruit, and dust-bathe i
 - [ ] **Manure** composted before it goes near food crops, since fresh chicken manure is strong enough to burn plants and can carry germs ([Chapter 7](../../part-2-market-engine/07-production-planning/README.md))
 - [ ] **Predators:** prevention first, under the predator plan ([Firearms Safety](05-firearms-safety.md))
 - [ ] **Check local rules** on flock size, roosters, coop setbacks, and selling eggs
+
+**Rabbits for meat and manure (optional, under the animal rules above)**
+
+Rabbits are small, quiet, and cheap to feed. They raise a lot of meat on little space and feed, and their droppings make some of the best compost a garden can get. They are kept under the animal rules above: Tier 3 or later, a group vote, a care lead and a backup, a daily rota, and a budget.
+
+**Separate the males first: the most urgent rule**
+
+Rabbits breed faster than any other animal in this handbook. A doe (female) is pregnant for only about a month, can have a litter of six to ten kits, and can become pregnant again within hours of giving birth. One mistake can mean dozens of rabbits within a few months.
+
+- [ ] **Every adult buck (male) lives in his own hutch,** always. Adult bucks fight, so they never share a space with each other either.
+- [ ] **Separate each litter by sex by about 8 weeks old,** before the young bucks can breed. Sexing young rabbits is easy to get wrong, so two trained people check each kit, and check again a week or two later.
+- [ ] **Breeding only under the breeding plan** (see **Breeding** above): the doe is taken to the buck's hutch, watched, and brought back, and every pairing and litter is recorded on the [animal care sheet](../../appendices/appendix-a-checklists/a13-animal-care-sheet.md)
+- [ ] **Decide before the first litter** how many rabbits the community will raise, and what happens to the kits
+
+**Housing**
+
+- [ ] **Predator-proof hutches or a colony pen** of hardware cloth, with a floor or a buried apron rabbits can't dig out of, and a lock against raccoons, dogs, and cats. Guardian dogs stay away from the rabbits unless proven safe with them.
+- [ ] **Room to hop, stretch, and stand up,** with a solid resting board on any wire floor so their feet don't get sore
+- [ ] **Shade above all:** rabbits suffer heatstroke in hot weather, roughly above 85°F (29°C). Keep them in deep shade with airflow, and give frozen water bottles to lie against on hot days.
+- [ ] **Shelter** from rain, wind, and freezing drafts
+- [ ] **Not housed with chickens,** which can bully them and spread disease
+- [ ] **Away from** the gardens, food areas, and drinking water, like the other animals
+
+**Food and water**
+
+- [ ] **Hay available at all times,** as most of the diet, plus rabbit pellets and fresh greens brought in slowly. Ask the vet which garden plants are safe.
+- [ ] **Clean water every day,** thawed in freezing weather
+
+**Health**
+
+- [ ] **A vet who treats rabbits,** with the vaccinations the vet advises, such as against rabbit hemorrhagic disease where it is present
+- [ ] **Daily checks** for heat stress, flies in warm weather, overgrown teeth, and sore feet, and nails trimmed
+- [ ] **Kept apart from wild rabbits,** which can spread disease
+- [ ] **Never released.** A domestic rabbit set loose can't survive or can harm the wild, so a rabbit the community can't keep is rehomed.
+
+**Manure**
+
+- [ ] **Clean under the hutches often,** so ammonia doesn't build up
+- [ ] **Compost it before it goes near food crops.** Rabbit manure is often called "cold" manure because it doesn't burn plants, and it composts quickly, but the handbook's rule for all manure still applies ([Soil, Compost, and Rotation](../../part-2-market-engine/07-production-planning/02-growing-practices.md#soil-compost-and-rotation)). It also feeds a worm bin well.
+
+**Meat**
+
+- [ ] **Decide early** whether the rabbits are for meat or pets, and tell children before they name the kits
+- [ ] **Slaughter is humane and done by trained adults,** under the breeding plan and local rules
+- [ ] **Meat is a regulated food.** The community's own share follows the local rules for home slaughter, and meat sold or given outside the households goes through the processing and inspection the law requires ([Chapter 6](../../part-2-market-engine/06-market-business-basics/01-getting-started.md)).
+- [ ] **Check local rules** on keeping, slaughtering, and selling rabbits
 
 **Bees for honey and pollination (optional, under the animal rules above)**
 

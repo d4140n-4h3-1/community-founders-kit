@@ -110,6 +110,7 @@ Plain meanings for the words this handbook uses in its own way. Where a term has
 | **Hair sheep** | Sheep breeds that shed their coat instead of growing wool, so they never need shearing. |
 | **Rotational grazing** | Moving animals through paddocks every few days, so each one rests and regrows and worms are kept down. |
 | **Breeding plan** | The written plan, voted on by the group, that must come before any animals are bred: why, how many young, where they live, the cost, the vet's advice, and what happens to young males. |
+| **Kit** | A young rabbit. Kits are separated by sex by about 8 weeks old, before the young bucks can breed. |
 | **Hive hosting** | Letting a local beekeeper place and care for hives on the community's land, often in return for some honey. |
 | **Varroa mite** | A tiny parasite of honeybees, and the main threat to a hive's health. Checked for and treated on a schedule. |
 | **Chicken tractor** | A movable coop or pen, shifted every few days, so hens clear pests and weeds from one patch at a time without scratching it bare. |
