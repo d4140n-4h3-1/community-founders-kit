@@ -109,15 +109,15 @@ Common spaces are the heart of daily life, and the place where small conflicts b
 **Rule:** intact (not neutered) males are always kept apart from females until the group decides that breeding is needed. Neutered males, such as wether goats, may live with the females, since they can't breed.
 
 - [ ] **Separate housing for every intact male,** with fencing he can't climb, jump, or breed through. Leave a gap or a double fence between his pen and the females'.
-- [ ] **Company where the species needs it,** such as a wether to keep a buck goat company. Roosters may fight each other, so watch any that share a pen.
-- [ ] **Young males are separated before they can breed:** buck kids by about 8 weeks old, or sooner if the vet advises, and young roosters as soon as they can be told apart from the hens
+- [ ] **Company where the species needs it,** such as a wether to keep a buck goat or a ram company. Roosters may fight each other, so watch any that share a pen.
+- [ ] **Young males are separated before they can breed:** buck kids by about 8 weeks old and ram lambs by about 3 months old, or sooner if the vet advises, and young roosters as soon as they can be told apart from the hens
 - [ ] **Breeding happens only under a written plan the group votes on:** why it's needed (such as replacing older hens, or kids so the does give milk), how many young are expected, where they will live, the cost, the vet's advice, and what happens to the young males born
 - [ ] **Often the simplest choice is not to keep a male at all:** borrow or hire a buck for the breeding season, use artificial insemination through a vet, or buy fertile eggs or young chicks from a trusted, disease-tested source
-- [ ] **Breeding season:** bucks in season smell strongly and can be aggressive, so two adults handle them, and children stay away
+- [ ] **Breeding season:** bucks in season smell strongly and can be aggressive, and rams can charge without warning, so two adults handle them, no one turns their back on a ram, and children stay away
 - [ ] **Records:** each breeding and birth goes on the [animal care sheet](../../appendices/appendix-a-checklists/a13-animal-care-sheet.md)
 **Goats for brush and grass (optional, under the animal rules above)**
 
-Goats are browsers more than grazers. They eat grass, but they prefer brush, weeds, vines, and young shrubs, which makes them very good at clearing overgrown ground. For keeping pasture grass short and even, sheep or a mower do the job better.
+Goats are browsers more than grazers. They eat grass, but they prefer brush, weeds, vines, and young shrubs, which makes them very good at clearing overgrown ground. For keeping pasture grass short and even, sheep or a mower do the job better (see **Sheep** below).
 
 **Where they help most**
 
@@ -142,6 +142,35 @@ Goats are browsers more than grazers. They eat grass, but they prefer brush, wee
 - [ ] **Milk, cheese, and meat** are regulated foods. None is sold or shared outside the household without following the food rules ([Chapter 6](../../part-2-market-engine/06-market-business-basics/README.md)).
 - [ ] **Neighbors:** walk the fence weekly, since an escaped goat eats the neighbors' garden first, and check local limits on keeping goats
 - [ ] **Children** may help with the goats under adult supervision, and wash their hands afterward
+
+**Sheep for keeping the grass low (optional, under the animal rules above)**
+
+Sheep are grazers. They prefer grass and low plants and crop them close, so they keep pasture, orchards, and open ground short and even. Goats and sheep work well together: sheep graze the grass, and goats browse the brush.
+
+**Where they help most**
+
+- Pasture, orchard floors under established trees, and the open ground between buildings
+- The second way out, the fire breaks, and the helicopter landing spot, kept short ([Two Ways Out](../../part-3-site-and-infrastructure/12-roads-and-access.md#two-ways-out), [Remote Medical Plan](04-health-leadership-and-leaving.md#remote-medical-plan))
+- Under solar panels, where sheep keep the grass down without climbing on the panels or chewing the wires, as goats might
+
+**Two ways to use them**
+
+- **Hire a grazing service,** whose owners bring the sheep, fencing, and water, on the same terms as hiring goats: any tier, with the landowner's permission, a written contract, and proof of insurance
+- **Keep a small flock** under the animal rules above: Tier 3 or later, a group vote, a care lead and a backup, a daily rota, and a budget
+
+**Keeping sheep**
+
+- [ ] **Never just one.** Sheep are flock animals and panic alone. Start with at least three, such as ewes or wethers (neutered males). Any ram lives apart from the ewes (see **Breeding** above).
+- [ ] **Consider hair sheep,** breeds that shed their coat and don't need shearing. Wool breeds must be sheared at least once a year, before hot weather, or they suffer from heat and flies.
+- [ ] **Move them often.** Sheep graze close to the ground and can kill a pasture left too long. Rotate them through paddocks every few days, and let each one rest and regrow, which also cuts down worms.
+- [ ] **Fencing:** woven wire about 4 feet (1.2 meters) high, or electric netting. **Never barbed wire,** which tears wool and skin.
+- [ ] **Keep them out of** the gardens, greenhouses, young trees, the wash-and-pack station, the food store, drinking water, and the septic drain field ([Septic Systems](../../part-3-site-and-infrastructure/10-water-plumbing-and-septic/04-septic-systems.md))
+- [ ] **Minerals made for sheep only.** Sheep are poisoned by small amounts of copper, so never give them goat minerals, cattle minerals, or feed with added copper. If goats and sheep share a pasture, put the goat minerals where sheep can't reach.
+- [ ] **Check the plants first:** the same poisonous plants as for goats, such as rhododendron, azalea, mountain laurel, and yew. Bring sheep onto lush clover or alfalfa slowly, since a sudden feast can cause dangerous bloating.
+- [ ] **Shade, shelter, and clean water every day,** thawed in freezing weather, and hay when the grass runs short
+- [ ] **Health:** a vet who treats sheep, the vaccinations the vet recommends, regular hoof trimming (wet ground causes foot rot), worm checks, and, in warm weather, daily checks for flies laying eggs in soiled wool
+- [ ] **Predators:** sheep can't defend themselves, so they need a secure night pen, and many flocks need a guardian animal, such as a livestock guardian dog or a donkey. Prevention comes first under the predator plan ([Firearms Safety](05-firearms-safety.md)).
+- [ ] **Meat and milk** are regulated foods, under the food rules ([Chapter 6](../../part-2-market-engine/06-market-business-basics/README.md)). **Wool** from a wool breed can be spun, felted, or sold at the craft table.
 
 **Chickens for eggs and pest control (optional, under the animal rules above)**
 

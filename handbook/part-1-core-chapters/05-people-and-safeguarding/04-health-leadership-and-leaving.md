@@ -24,7 +24,7 @@
 - [ ] **Where the response is long** (for example, more than 30 minutes), at least two members trained in **wilderness first aid**, which teaches care for hours, not minutes. Consider a longer wilderness first responder course for one.
 - [ ] **A trauma kit** with the first-aid kits: tourniquets, wound packing, splints, and blankets, with members trained to use them
 - [ ] **An AED** (a defibrillator that talks the user through each step) in a shared building, with its pads and battery checked monthly, and members trained in CPR
-- [ ] **A helicopter landing spot** chosen with the air ambulance service: flat, open, and clear of trees, wires, the wind turbine, and loose items, at the size the service asks for (often about 100 by 100 feet, 30 by 30 meters). Put its GPS coordinates on the emergency contact sheet, keep it mowed, and agree how to mark it at night.
+- [ ] **A helicopter landing spot** chosen with the air ambulance service: flat, open, and clear of trees, wires, the wind turbine, and loose items, at the size the service asks for (often about 100 by 100 feet, 30 by 30 meters). Put its GPS coordinates on the emergency contact sheet, keep it mowed or grazed short, and agree how to mark it at night.
 - [ ] **If the road is cut for days:** residents keep a supply of their prescription medicines where the pharmacist and prescriber allow, the first-aid supplies are stocked for longer care, and the [disaster plan](../../appendices/appendix-d-logs-sheets-and-reports/d15-disaster-plan-template.md) names who checks on anyone ill, elders, and young children
 - [ ] **Drill it once a year,** including the meeting landmark, the landing spot, and the second way out ([Chapter 12](../../part-3-site-and-infrastructure/12-roads-and-access.md#two-ways-out))
 

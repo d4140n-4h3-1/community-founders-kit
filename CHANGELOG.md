@@ -6,6 +6,10 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 
 ## Unreleased
 
+### Sheep
+
+- Sheep for keeping grass low on pasture, orchard floors, fire breaks, the second way out, the landing spot, and under solar panels: hire a grazing service at any tier, or keep a small flock under the animal rules from Tier 3, with at least three animals, hair breeds suggested, rotational grazing, fencing without barbed wire, sheep-only minerals (no copper), bloat and toxic-plant checks, health care, and a night pen or guardian animal; the breeding rule now covers rams
+
 ### Breeding
 
 - Intact males are always housed apart from females until the group votes on a written breeding plan; neutered males may live with the females, young males are separated before they can breed, and borrowing a buck, artificial insemination, or buying fertile eggs or chicks are offered as simpler options. The goats and chickens sections, the standing rules, the Tier 2 → Tier 3 trigger, the animal care sheet, and the glossary match.
