@@ -22,7 +22,7 @@
 |---|---|---|
 | Fresh produce | Usually the simplest | Best Tier 1 product. Wash, sort, and pack well ([Chapter 7](../07-production-planning/README.md)). |
 | Seedlings and plants | Often simple. Some places require a nursery license or plant-health check. | Strong income. Starts in the hoop house. Count trays so loss is noticed ([Chapter 7](../07-production-planning/README.md)). |
-| Eggs, honey, and similar | Often have specific rules | Check before adding. Eggs need animals, which are optional and Tier 3 or later ([Chapter 5](../../part-1-core-chapters/05-people-and-safeguarding/README.md)). |
+| Eggs, honey, and similar | Often have specific rules | Check before adding. Eggs need animals, which are optional and Tier 3 or later ([Chickens](../../part-1-core-chapters/05-people-and-safeguarding/08-daily-life-chores-shared-spaces-and-routines.md)). |
 | Preserves, baked goods, and other processed food | Cottage food or kitchen rules often apply | Needs a compliant kitchen, labels, and sometimes training. Add at Tier 2. |
 | Meat, dairy, and prepared meals | Usually strictly regulated | Not in the early tiers |
 | Crafts and member-made art | Usually fewest rules | Run as a craft table beside the produce stand |

@@ -35,7 +35,7 @@ Work in this order, and use the next step only when the one before fails:
 1. **Prevention:** healthy soil, spacing, rotation, resistant varieties, and row cover
 2. **Monitoring:** walk the beds weekly and note problems early
 3. **Hand-picking, traps, and barriers**
-4. **Beneficial insects and garden spiders** (protected under [Chapter 15](../../part-3-site-and-infrastructure/15-porch-lights-and-garden-spiders.md))
+4. **Beneficial insects and garden spiders** (protected under [Chapter 15](../../part-3-site-and-infrastructure/15-porch-lights-and-garden-spiders.md)), and, if the community keeps them, chickens in beds between crops ([Chickens](../../part-1-core-chapters/05-people-and-safeguarding/08-daily-life-chores-shared-spaces-and-routines.md))
 5. **Targeted organic spray as a last resort,** applied at dusk away from webs and logged
 
 **Rules**

@@ -6,6 +6,10 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 
 ## Unreleased
 
+### Chickens
+
+- Chickens for eggs and pest control under the animal rules from Tier 3: no rooster needed, egg handling and the local egg rules, hens in beds between crops and under fruit trees in a movable coop, kept away from the protected spider habitat, a predator-proof coop of hardware cloth, space guidelines, feed and water, a daily rota, salmonella hygiene (no handling by children under 5), bird-flu precautions, and composted manure; the market, pest-control, and spider sections link to it
+
 ### Goats
 
 - Goats for clearing brush around buildings, fire breaks, fence lines, and the second way out: hire a targeted grazing service at any tier, or keep a small herd under the animal rules from Tier 3, with strong fencing (never barbed wire), toxic-plant checks, shelter, goat minerals, health care, and a night pen; the exit-road, wildfire, and septic sections link to it
