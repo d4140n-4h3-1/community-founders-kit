@@ -6,6 +6,12 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 
 ## Unreleased
 
+Nothing yet.
+
+## 2026-10-28: Pilot edition
+
+The first edition offered to pilot groups. It adds the security, safety, and anti-sabotage rules, the animal pages, the bonus pages on digital infrastructure, sister villages, and federation, and the "What Success Looks Like" page, with the tier rules kept in agreement throughout.
+
 ### Animal pages and the outside-service rule
 
 - The animal material moved out of Daily Life into seven pages in Chapter 5: Animals (the rules for every animal, breeding, and identification), Guardian Animals, Goats, Sheep, Chickens, Rabbits, and Bees, with real headings that other pages link to directly

@@ -35,6 +35,10 @@ A rule that depends on a tier usually appears in several places. When you change
 
 Add a line to the [changelog](CHANGELOG.md) under **Unreleased**.
 
+## Releases
+
+When a set of changes is ready for groups to use, a maintainer renames **Unreleased** in the [changelog](CHANGELOG.md) to the date of the edition, with a one-line summary, starts a new empty **Unreleased** section, and tags the commit with the same date (for example, `git tag -a 2026-10-28`). Groups record the edition they adopted in their [revision log](REVISION_LOG.md), so they can report problems against it.
+
 ## File Layout
 
 - Each page starts with a breadcrumb line linking up to its parents, and ends with an automatic Previous / Next footer. Do not edit the footer by hand.

@@ -4,7 +4,7 @@
 
 This is **your community's** record. Each time the group votes on a tier, changes a rule, or learns something worth keeping, add a row. Keep the newest entries at the top. Changes to the handbook itself go in the [changelog](CHANGELOG.md) instead.
 
-**Community:** *[name]* **Log kept by:** *[ ] / [ ]*
+**Community:** *[name]* **Log kept by:** *[ ] / [ ]* **Handbook edition adopted:** *[the date of the edition in the [changelog](CHANGELOG.md), such as 2026-10-28]*
 
 | Date | Tier | Type (tier vote, rule change, threshold change, lesson, land decision) | What changed or was learned | Vote (for / against / abstain) | Evidence (minutes, worksheet, log) | Recorded by |
 |---|---|---|---|---|---|---|
