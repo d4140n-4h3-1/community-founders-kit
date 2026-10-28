@@ -6,6 +6,10 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 
 ## Unreleased
 
+### Bees
+
+- Bees for honey and pollination: host a local beekeeper's hives at any tier, or keep the community's own from Tier 3 with two trained beekeepers. Hives sit well away from the animals (for example at least 50 feet or 15 meters from pens, pastures, the chicken run, and guardian animals) and from daily paths, with a flight barrier, a water source for the bees, and an electric fence where bears live. The section covers sting allergies and epinephrine, children, protective gear and smoker safety, training, registration, varroa mites, swarms, winter stores, no spraying of blooming plants, native bees, and honey and wax under the food rules. The market, pest-control, visitor sheet, and glossary entries match.
+
 ### Donkeys in pairs
 
 - Guardian donkeys: one per flock or pasture is the usual start, a bonded pair can guard a large flock or two pastures side by side, a single donkey's flock must be its company, and donkeys kept only as companions live in pairs

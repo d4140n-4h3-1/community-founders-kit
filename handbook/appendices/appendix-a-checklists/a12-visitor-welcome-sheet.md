@@ -9,6 +9,7 @@
 - Quiet hours are: *[times]*
 - Children must stay with an adult
 - Guardian dogs work with the animals at: *[place]*. Please don't enter their pens, call them over, or feed them.
+- Beehives are kept at: *[place]*. Please stay away from them, and tell your host before you arrive if you are allergic to bee stings.
 - No smoking or open flames except at: *[place]*
 - Firearms follow our firearms policy, even where the law is less strict: long guns stay locked in your vehicle or in your host's safe, pistols are carried concealed or locked away, and firearms are never allowed at *[list]*. Ask your host before you arrive.
 - Cameras are in use at: *[list]*, shown by orange cameras and black-and-yellow signs

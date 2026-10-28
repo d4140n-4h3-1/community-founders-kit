@@ -264,6 +264,49 @@ Chickens scratch up seedlings, eat young plants and ripe fruit, and dust-bathe i
 - [ ] **Predators:** prevention first, under the predator plan ([Firearms Safety](05-firearms-safety.md))
 - [ ] **Check local rules** on flock size, roosters, coop setbacks, and selling eggs
 
+**Bees for honey and pollination (optional, under the animal rules above)**
+
+Honeybees pollinate fruit trees, berries, squash, cucumbers, melons, and many other crops, and a healthy hive gives honey and wax. A new colony spends its first year building up, so expect little or no honey until the second year.
+
+**Two ways to have bees**
+
+- **Host a local beekeeper's hives.** Many beekeepers look for land to place their hives on, often in return for some honey. The beekeeper owns and cares for the bees, so a community may host hives at any tier, with the landowner's permission, a written agreement covering care, placement, and liability, and proof that the beekeeper is insured.
+- **Keep the community's own hives** under the animal rules above: Tier 3 or later, a group vote, and **two trained beekeepers,** so the hives never depend on one person
+
+**Where the hives go**
+
+- [ ] **Well away from the animals:** the livestock pens and pastures, the chicken run, and the guardian dogs' and donkeys' areas, for example at least 50 feet (15 meters) away, or farther if local rules require it. Goats and donkeys can knock hives over, chickens snap up bees at the entrance, and stinging bees can panic or hurt animals.
+- [ ] **Away from people's daily paths:** homes, the Lodge, the Meeting Hall, children's areas, the market-prep area, the wash-and-pack station, and the drinking water supply
+- [ ] **Entrances facing away from paths,** with a fence or hedge about 6 feet (1.8 meters) high in front, so bees fly up and over people instead of through them
+- [ ] **Morning sun, shelter from wind,** level stands off the ground, and room for the beekeeper to work behind each hive
+- [ ] **A water source just for the bees,** such as a shallow tray with stones to land on, so they don't crowd the animals' troughs, the taps, or the bathhouse
+- [ ] **An electric fence around the hives** where bears live
+- [ ] **A sign** at the hive area, and the location on the [visitor welcome sheet](../../appendices/appendix-a-checklists/a12-visitor-welcome-sheet.md)
+
+**Stings and allergies**
+
+- [ ] **Ask every resident** whether they are allergic to bee stings. A severe reaction can kill within minutes, and help may be far away ([Remote Medical Plan](04-health-leadership-and-leaving.md#remote-medical-plan)).
+- [ ] **Anyone with a known allergy** keeps their prescribed epinephrine auto-injector with them, and the first-aiders know where it is and how to use it
+- [ ] **First-aiders are trained to spot anaphylaxis** (swelling of the face or throat, trouble breathing, faintness) and to call for help at once
+- [ ] **Children stay away from the hives** unless they are with a beekeeper and in protective gear
+- [ ] **Beekeepers wear a veil, suit, and gloves,** and put out the smoker's embers in a closed metal can, never on dry ground ([Chapter 16](../../part-3-site-and-infrastructure/16-wind-power-and-wind-safety.md))
+
+**Keeping bees healthy**
+
+- [ ] **A beekeeping course** and a mentor from a local beekeepers' association before the first hive
+- [ ] **Register the hives** where the law requires it, and allow inspections
+- [ ] **Check for varroa mites,** the main threat to honeybees, and treat as the beekeepers' association or the agriculture authority advises
+- [ ] **A swarm plan:** in spring a strong colony may swarm, so check for signs, and have the beekeeper collect any swarm that settles near homes. No one else approaches it.
+- [ ] **Leave the bees enough honey for winter,** and feed them only as the mentor advises
+- [ ] **No spraying of blooming plants,** on top of the handbook's ban on broad-spectrum pesticides ([Pests and Disease](../../part-2-market-engine/07-production-planning/02-growing-practices.md#pests-and-disease))
+- [ ] **Native bees too:** leave some bare ground, hollow stems, and wildflowers for wild pollinators, much as the handbook leaves spider habitat
+
+**Honey and wax**
+
+- [ ] **Extract honey indoors,** in a clean, food-safe room with the doors closed, so bees aren't drawn to it
+- [ ] **Honey is a food.** The community's own share is fine, but honey sold or given outside the households follows the local food and labeling rules ([Chapter 6](../../part-2-market-engine/06-market-business-basics/01-getting-started.md)). Never give honey to babies under one year old, and say so on any label.
+- [ ] **Wax** can be made into candles, polish, or soap for the craft table
+
 **Waste, trash, and recycling**
 
 - Set up **trash, recycling, and compost** with clear bins and a collection plan
