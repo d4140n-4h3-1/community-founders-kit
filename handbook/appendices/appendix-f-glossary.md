@@ -104,6 +104,7 @@ Plain meanings for the words this handbook uses in its own way. Where a term has
 | **Don't drink, test first** | The rule that any sign of tampering with drinking water stops its use until a lab test is clear ([Chapter 10](../part-3-site-and-infrastructure/10-water-plumbing-and-septic/05-safety-maintenance-and-failures.md#protecting-the-water-supply)). |
 | **Intact male** | A male animal that has not been neutered and can breed. Always housed apart from the females until the group approves a breeding plan. |
 | **Wether** | A neutered male goat or sheep. Calm, and able to live with the females. |
+| **Breakaway collar** | An animal collar that snaps open if it catches on something, used with a name tag instead of an ear tag. |
 | **Hair sheep** | Sheep breeds that shed their coat instead of growing wool, so they never need shearing. |
 | **Rotational grazing** | Moving animals through paddocks every few days, so each one rests and regrows and worms are kept down. |
 | **Breeding plan** | The written plan, voted on by the group, that must come before any animals are bred: why, how many young, where they live, the cost, the vet's advice, and what happens to young males. |

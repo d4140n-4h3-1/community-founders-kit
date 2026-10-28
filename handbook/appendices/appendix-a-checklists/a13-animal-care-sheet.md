@@ -2,16 +2,16 @@
 
 # A13. Animal Care Sheet *(optional, only if animals are ever kept)*
 
-| Animal / group | Sex (female, intact male, neutered male) and where housed | Food (type, amount, times) | Water (source, checks per day) | Shelter and shade | Health checks | Vet contact | Backup carer | Disaster plan note |
-|---|---|---|---|---|---|---|---|---|
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
+| Animal / group | ID (name, photo, collar or band, any official ID) | Sex (female, intact male, neutered male) and where housed | Food (type, amount, times) | Water (source, checks per day) | Shelter and shade | Health checks | Vet contact | Backup carer | Disaster plan note |
+|---|---|---|---|---|---|---|---|---|---|
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
 
 *Animals are fed, watered, and checked every day, including rest days. Water comes first, with shade in heat and thawed water in freezing weather.*
 

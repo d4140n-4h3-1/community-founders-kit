@@ -6,6 +6,10 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 
 ## Unreleased
 
+### No ear tags
+
+- Ear tags are banned: animals are known by name, photos, and markings, with breakaway collars for goats and sheep and soft leg bands for chickens. Where the law requires official ID, an approved method other than an ear tag is used, or the flock stays closed; animals that arrive with official tags keep them and have their ears checked weekly. The standing rules, the animal care sheet, and the glossary match.
+
 ### Sheep
 
 - Sheep for keeping grass low on pasture, orchard floors, fire breaks, the second way out, the landing spot, and under solar panels: hire a grazing service at any tier, or keep a small flock under the animal rules from Tier 3, with at least three animals, hair breeds suggested, rotational grazing, fencing without barbed wire, sheep-only minerals (no copper), bloat and toxic-plant checks, health care, and a night pen or guardian animal; the breeding rule now covers rams

@@ -115,6 +115,17 @@ Common spaces are the heart of daily life, and the place where small conflicts b
 - [ ] **Often the simplest choice is not to keep a male at all:** borrow or hire a buck for the breeding season, use artificial insemination through a vet, or buy fertile eggs or young chicks from a trusted, disease-tested source
 - [ ] **Breeding season:** bucks in season smell strongly and can be aggressive, and rams can charge without warning, so two adults handle them, no one turns their back on a ram, and children stay away
 - [ ] **Records:** each breeding and birth goes on the [animal care sheet](../../appendices/appendix-a-checklists/a13-animal-care-sheet.md)
+
+**Identifying animals**
+
+**Rule:** no ear tags. They hurt when they go in, and they can catch on fences and brush and tear the ear.
+
+- [ ] **Know each animal** by name, photos, and markings, recorded on the [animal care sheet](../../appendices/appendix-a-checklists/a13-animal-care-sheet.md)
+- [ ] **Goats and sheep:** a breakaway collar with a name tag, one that snaps open if it catches, checked weekly for fit
+- [ ] **Chickens:** soft leg bands, checked as the birds grow so they never get tight
+- [ ] **Where the law requires official ID,** as many places do for sheep and goats that are sold, moved, or shown, ask the vet or the agriculture authority which methods are approved, and use one that isn't an ear tag. If an ear tag is the only approved method, don't do what requires it: keep the flock closed, and buy and sell only where no tag is needed.
+- [ ] **Animals that arrive already tagged keep their official tags,** since removing official ID is often illegal. Check those ears weekly, and call the vet if a tag catches or an ear is sore.
+
 **Goats for brush and grass (optional, under the animal rules above)**
 
 Goats are browsers more than grazers. They eat grass, but they prefer brush, weeds, vines, and young shrubs, which makes them very good at clearing overgrown ground. For keeping pasture grass short and even, sheep or a mower do the job better (see **Sheep** below).
