@@ -82,7 +82,7 @@ Bolt, lever, pump, break-action, and single-shot rifles and shotguns are working
 
 **Prevention comes first**
 
-- Most livestock losses are prevented by **good fencing, secure night pens, lights, and guardian animals,** not by shooting. Use them first.
+- Most livestock losses are prevented by **good fencing, secure night pens, lights, and guardian animals ([Daily Life](08-daily-life-chores-shared-spaces-and-routines.md)),** not by shooting. Use them first.
 - Remove what draws predators: carcasses, open feed, and uncovered compost ([Chapter 7](../../part-2-market-engine/07-production-planning/README.md)).
 - Ask the local wildlife agency or agricultural extension service about non-lethal options and depredation permits.
 

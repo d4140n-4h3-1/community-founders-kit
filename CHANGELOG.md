@@ -6,6 +6,10 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 
 ## Unreleased
 
+### Guardian animals
+
+- Guardian animals are raised with the animals they protect from a young age (guardian dogs as pups at about 8-12 weeks, socialized early with livestock and people) and prove themselves in a trial before guarding alone. Any breed may be raised for the job, including pit bulls; livestock guardian breeds are the default for new groups or large predators; a single jenny or gelding donkey suits coyotes, foxes, and dogs, kept apart from dogs. Every guardian dog is allowed by law and the insurer, vaccinated, neutered unless bred under plan, safe with children, kept on the land, and never used against people. The sheep, pet, firearms, visitor sheet, and glossary entries match.
+
 ### No ear tags
 
 - Ear tags are banned: animals are known by name, photos, and markings, with breakaway collars for goats and sheep and soft leg bands for chickens. Where the law requires official ID, an approved method other than an ear tag is used, or the flock stays closed; animals that arrive with official tags keep them and have their ears checked weekly. The standing rules, the animal care sheet, and the glossary match.

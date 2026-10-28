@@ -87,6 +87,7 @@ Common spaces are the heart of daily life, and the place where small conflicts b
 - Owners are responsible for feeding, water, waste, vaccinations, and keeping animals away from food, market gardens, greenhouses, and the food store
 - Keep pets away from market produce and the wash-and-pack station ([Chapter 7](../../part-2-market-engine/07-production-planning/README.md))
 - Check local rules, and keep dogs leashed or fenced around visitors and children
+- Guardian dogs that live with the livestock follow the **Guardian animals** rules below
 - Wildlife is not fed, and food is stored sealed
 
 **Animal care (optional, Tier 3 or later, only if the community chooses)**
@@ -125,6 +126,48 @@ Common spaces are the heart of daily life, and the place where small conflicts b
 - [ ] **Chickens:** soft leg bands, checked as the birds grow so they never get tight
 - [ ] **Where the law requires official ID,** as many places do for sheep and goats that are sold, moved, or shown, ask the vet or the agriculture authority which methods are approved, and use one that isn't an ear tag. If an ear tag is the only approved method, don't do what requires it: keep the flock closed, and buy and sell only where no tag is needed.
 - [ ] **Animals that arrive already tagged keep their official tags,** since removing official ID is often illegal. Check those ears weekly, and call the vet if a tag catches or an ear is sore.
+
+**Guardian animals**
+
+**Rule:** a guardian animal is raised with the animals it will protect, starting young, and proves itself before it guards alone. Choose it by the individual animal and the local predators, not by reputation alone.
+
+**Raise them as pups**
+
+- [ ] **Bring a guardian dog home as a puppy,** usually at about 8-12 weeks old, and raise it with the livestock it will guard, so it bonds with them early. The earlier it is socialized, the better.
+- [ ] **Socialize it with people too:** residents, children under supervision, regular visitors, and the vet, so it accepts handling and knows who belongs
+- [ ] **Teach the basics:** coming when called, staying inside the fence, and accepting a collar, a leash, and a vet's exam
+- [ ] **Supervise it as it grows.** Young dogs play rough and can hurt livestock without meaning to, and many don't settle until they are about two years old. Correct rough play early, and don't leave a young dog alone with the animals until it has proven itself.
+
+**Choosing a guardian**
+
+1. **A dog raised from a pup with the community's own animals,** trained and proven over time. Any breed may be raised for the job, including pit bulls, which some communities raise and train with great success.
+2. **For a community new to guardian dogs, or facing bears, cougars, or wolves,** the livestock guardian breeds (such as the Great Pyrenees, Anatolian Shepherd, Maremma, Akbash, and Kangal) are the safest default, since they were bred to guard alone around the clock.
+3. **A donkey,** where the threat is mainly coyotes, foxes, and stray dogs (see **Donkeys** below)
+
+**Proving it before it guards alone**
+
+- [ ] **Introduce the dog to each kind of animal** it will guard, under supervision. Goats and sheep run and bolt in a way chickens don't, which can start a chase even in a dog that is calm with hens.
+- [ ] **A trial of a few months,** from supervised visits to longer unsupervised stretches, with no chasing, nipping, or killing. A trainer or the vet helps judge it.
+- [ ] **Off guard duty at the first attack** on livestock or a person, until a trainer or the vet has assessed the dog again
+
+**Rules for every guardian dog**
+
+- [ ] **Allowed by local law and the insurer.** Many places restrict pit bull-type dogs and some other breeds, and the community's insurance must cover the dog.
+- [ ] **Licensed and vaccinated** as the law requires, including rabies, with vet care, food, water, and shelter in the animal budget and the daily rota
+- [ ] **Spayed or neutered,** unless the group's breeding plan says otherwise (see **Breeding** above)
+- [ ] **Safe with children and visitors,** under the safeguarding and pet rules, and visitors are told where the guardian dogs work and not to enter their pens or feed them ([visitor welcome sheet](../../appendices/appendix-a-checklists/a12-visitor-welcome-sheet.md))
+- [ ] **Stays on the land.** Fencing keeps the dog in, since a guardian that roams can be a danger to neighbors and a legal liability.
+- [ ] **Neighbors know** that barking at night is how a guardian warns off predators
+- [ ] **Guards the animals, never against people.** A guardian dog is never used to threaten or chase trespassers. People are handled under the outside harassment response plan ([Outside Harassment and Community Security](06-outside-harassment-and-community-security.md)).
+
+**Donkeys**
+
+- **Effective** against coyotes, foxes, and stray dogs, which donkeys dislike and will chase, stomp, and sometimes kill
+- **Not enough** against bears, cougars, or wolf packs, which can hurt or kill a donkey
+- [ ] **One jenny (female) or gelding (neutered male) per flock.** Never a jack (intact male), which can be dangerous to lambs, kids, and people. Two donkeys tend to bond with each other and ignore the flock.
+- [ ] **Kept apart from dogs.** Donkeys often attack dogs, guardian dogs included, so a flock has a guardian dog or a donkey, not both.
+- [ ] **Introduce it slowly,** across a fence for a few weeks, before it joins the flock
+- [ ] **Care:** hoof trimming, teeth checked by the vet, shelter from rain, and limited rich pasture, since donkeys put on weight easily and can founder (a painful hoof disease)
 
 **Goats for brush and grass (optional, under the animal rules above)**
 
@@ -180,7 +223,7 @@ Sheep are grazers. They prefer grass and low plants and crop them close, so they
 - [ ] **Check the plants first:** the same poisonous plants as for goats, such as rhododendron, azalea, mountain laurel, and yew. Bring sheep onto lush clover or alfalfa slowly, since a sudden feast can cause dangerous bloating.
 - [ ] **Shade, shelter, and clean water every day,** thawed in freezing weather, and hay when the grass runs short
 - [ ] **Health:** a vet who treats sheep, the vaccinations the vet recommends, regular hoof trimming (wet ground causes foot rot), worm checks, and, in warm weather, daily checks for flies laying eggs in soiled wool
-- [ ] **Predators:** sheep can't defend themselves, so they need a secure night pen, and many flocks need a guardian animal, such as a livestock guardian dog or a donkey. Prevention comes first under the predator plan ([Firearms Safety](05-firearms-safety.md)).
+- [ ] **Predators:** sheep can't defend themselves, so they need a secure night pen, and many flocks need a guardian animal, such as a guardian dog or a donkey (see **Guardian animals** above). Prevention comes first under the predator plan ([Firearms Safety](05-firearms-safety.md)).
 - [ ] **Meat and milk** are regulated foods, under the food rules ([Chapter 6](../../part-2-market-engine/06-market-business-basics/README.md)). **Wool** from a wool breed can be spun, felted, or sold at the craft table.
 
 **Chickens for eggs and pest control (optional, under the animal rules above)**
