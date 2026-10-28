@@ -164,7 +164,10 @@ Common spaces are the heart of daily life, and the place where small conflicts b
 
 - **Effective** against coyotes, foxes, and stray dogs, which donkeys dislike and will chase, stomp, and sometimes kill
 - **Not enough** against bears, cougars, or wolf packs, which can hurt or kill a donkey
-- [ ] **One jenny (female) or gelding (neutered male) per flock.** Never a jack (intact male), which can be dangerous to lambs, kids, and people. Two donkeys tend to bond with each other and ignore the flock.
+- [ ] **Jennies (females) or geldings (neutered males) only.** Never a jack (intact male), which can be dangerous to lambs, kids, and people.
+- [ ] **One donkey per flock or pasture** is the usual starting point, so the donkey bonds with the flock and treats it as its herd
+- [ ] **A bonded pair can guard too,** keeping each other company while they protect a large flock, or two pastures side by side with one donkey in each. Introduce both to the flock slowly, and watch that they guard it rather than wandering off together or handling young animals roughly.
+- [ ] **Donkeys suffer alone.** A single guardian donkey's flock must be its company, with daily attention from people. Where no guarding is needed, keep donkeys in pairs.
 - [ ] **Kept apart from dogs.** Donkeys often attack dogs, guardian dogs included, so a flock has a guardian dog or a donkey, not both.
 - [ ] **Introduce it slowly,** across a fence for a few weeks, before it joins the flock
 - [ ] **Care:** hoof trimming, teeth checked by the vet, shelter from rain, and limited rich pasture, since donkeys put on weight easily and can founder (a painful hoof disease)

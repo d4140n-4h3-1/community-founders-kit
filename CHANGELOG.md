@@ -6,6 +6,10 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 
 ## Unreleased
 
+### Donkeys in pairs
+
+- Guardian donkeys: one per flock or pasture is the usual start, a bonded pair can guard a large flock or two pastures side by side, a single donkey's flock must be its company, and donkeys kept only as companions live in pairs
+
 ### Guardian animals
 
 - Guardian animals are raised with the animals they protect from a young age (guardian dogs as pups at about 8-12 weeks, socialized early with livestock and people) and prove themselves in a trial before guarding alone. Any breed may be raised for the job, including pit bulls; livestock guardian breeds are the default for new groups or large predators; a single jenny or gelding donkey suits coyotes, foxes, and dogs, kept apart from dogs. Every guardian dog is allowed by law and the insurer, vaccinated, neutered unless bred under plan, safe with children, kept on the land, and never used against people. The sheep, pet, firearms, visitor sheet, and glossary entries match.
