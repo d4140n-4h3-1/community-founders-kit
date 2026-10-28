@@ -103,6 +103,34 @@ Common spaces are the heart of daily life, and the place where small conflicts b
 
 **Once animals are kept, they are fed, watered, and checked every day, with no exceptions for rest days, holidays, weather, or illness.** Water comes first, with shade in heat and thawed water in freezing weather. Add one species at a time, starting small. If the group can no longer care for them, it rehomes them responsibly.
 
+**Goats for brush and grass (optional, under the animal rules above)**
+
+Goats are browsers more than grazers. They eat grass, but they prefer brush, weeds, vines, and young shrubs, which makes them very good at clearing overgrown ground. For keeping pasture grass short and even, sheep or a mower do the job better.
+
+**Where they help most**
+
+- Defensible space and fire breaks around buildings ([Chapter 16](../../part-3-site-and-infrastructure/16-wind-power-and-wind-safety.md))
+- The second way out and the fence lines ([Two Ways Out](../../part-3-site-and-infrastructure/12-roads-and-access.md#two-ways-out))
+- Steep or rough ground a mower can't reach, and tough brush such as blackberry or poison ivy
+
+**Two ways to use them**
+
+- **Hire a targeted grazing service,** whose owners bring the goats, fencing, and water for a few days or weeks. The service owns and cares for the animals, so a community may hire one at any tier, with the landowner's permission, a written contract covering care, fencing, water, and liability, and proof that the service is insured.
+- **Keep a small herd** under the animal rules above: Tier 3 or later, a group vote, a care lead and a backup, a daily rota, and a budget.
+
+**Keeping goats**
+
+- [ ] **Never just one.** Goats are herd animals and suffer alone. Start with two or three, such as does or neutered males, which are calm and common for brush work.
+- [ ] **Strong fencing,** because goats climb, squeeze, and jump: woven wire about 4-5 feet (1.2-1.5 meters) high, or electric netting, with no gaps. **Never barbed wire,** which injures them ([the barbed wire rule](06-outside-harassment-and-community-security.md) keeps livestock fencing separate). Movable electric netting lets them clear one patch at a time.
+- [ ] **Keep them out of** the gardens, greenhouses, and orchards (they strip bark and kill young trees), the wash-and-pack station, the food store, drinking water, and the septic drain field, which their hooves compact ([Septic Systems](../../part-3-site-and-infrastructure/10-water-plumbing-and-septic/04-septic-systems.md))
+- [ ] **Check the plants first.** Some common plants poison goats, such as rhododendron, azalea, mountain laurel, yew, and wilted cherry leaves. Ask the vet or the agricultural extension service for a local list, and remove or fence off anything dangerous.
+- [ ] **Shelter** from rain, wind, and heat, clean water every day, hay when there isn't enough to browse, and minerals made for goats. Goat minerals contain copper that is poisonous to sheep, so keep them apart if both are kept.
+- [ ] **Health:** a vet who treats goats, regular hoof trimming, and regular checks for worms, the most common goat health problem
+- [ ] **A secure night pen** and the predator plan, with prevention first ([Firearms Safety](05-firearms-safety.md))
+- [ ] **Milk, cheese, and meat** are regulated foods. None is sold or shared outside the household without following the food rules ([Chapter 6](../../part-2-market-engine/06-market-business-basics/README.md)).
+- [ ] **Neighbors:** walk the fence weekly, since an escaped goat eats the neighbors' garden first, and check local limits on keeping goats
+- [ ] **Children** may help with the goats under adult supervision, and wash their hands afterward
+
 **Waste, trash, and recycling**
 
 - Set up **trash, recycling, and compost** with clear bins and a collection plan

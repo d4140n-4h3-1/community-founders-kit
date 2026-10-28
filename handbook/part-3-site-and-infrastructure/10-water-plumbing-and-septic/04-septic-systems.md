@@ -39,7 +39,7 @@
 **Safety**
 
 - **Septic tanks hold toxic, explosive gas. No one enters one, ever.** Pumping and repair are for licensed haulers.
-- Lids stay locked; keep kids and animals off the field
+- Lids stay locked; keep kids and animals, including grazing goats, off the field
 - Aerobic systems get an alarm, tested monthly
 
 **What goes down the drain**

@@ -47,7 +47,7 @@ Dirt roads become gravel roads as income allows. Good roads protect vehicles, ke
 - [ ] **Before any cabin or other permanent building,** secure the second way out: on community land, or across a neighbor's land under a written, recorded access agreement (an easement) reviewed by an attorney ([Chapter 4](../part-1-core-chapters/04-legal-basics.md))
 - [ ] **Where wildfire or flood is a risk, build it before Tier 3:** graveled, wide enough for cars (and for a fire truck if the fire department asks), leading away in a different direction from the main entrance, and not through the same woods, low ground, or creek crossing
 - [ ] **An emergency-only exit** can stay gated against daily traffic, with a key lockbox or code shared with emergency services and every adult, and a sign reading "EMERGENCY EXIT: KEEP CLEAR"
-- [ ] **Keep it clear:** mowed, branches trimmed, nothing parked or stored on it, and checked each season and before fire season
+- [ ] **Keep it clear:** mowed or grazed (goats are good at clearing brush, [Daily Life](../part-1-core-chapters/05-people-and-safeguarding/08-daily-life-chores-shared-spaces-and-routines.md)), branches trimmed, nothing parked or stored on it, and checked each season and before fire season
 - [ ] **Drive it** in the disaster drill each year, so everyone knows the way in the dark
 - [ ] **Leave early.** When a wildfire or flood warning comes, leave when told to, or sooner. Don't wait for the danger to reach the road.
 

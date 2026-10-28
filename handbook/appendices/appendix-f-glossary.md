@@ -102,6 +102,7 @@ Plain meanings for the words this handbook uses in its own way. Where a term has
 | **Broad-spectrum pesticide** | A spray that kills many kinds of insects, including spiders and helpful ones. Not used in or near gardens. |
 | **Farm gun** | A manual rifle or shotgun used only to protect livestock, handled only by trained, named adults. |
 | **Don't drink, test first** | The rule that any sign of tampering with drinking water stops its use until a lab test is clear ([Chapter 10](../part-3-site-and-infrastructure/10-water-plumbing-and-septic/05-safety-maintenance-and-failures.md#protecting-the-water-supply)). |
+| **Targeted grazing** | Using goats or other animals to clear brush and weeds from a chosen area, often by hiring a service that brings its own animals, fencing, and water. |
 | **Remote medical plan** | A medical plan sized to how long help takes to arrive, with a way to call with no cell signal and a helicopter landing spot ([Chapter 5](../part-1-core-chapters/05-people-and-safeguarding/04-health-leadership-and-leaving.md#remote-medical-plan)). |
 | **Wilderness first aid** | First-aid training for caring for someone for hours, not minutes, until help arrives. |
 | **AED** | Automated external defibrillator: a device that talks the user through restarting a stopped heart. |

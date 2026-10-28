@@ -6,6 +6,10 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 
 ## Unreleased
 
+### Goats
+
+- Goats for clearing brush around buildings, fire breaks, fence lines, and the second way out: hire a targeted grazing service at any tier, or keep a small herd under the animal rules from Tier 3, with strong fencing (never barbed wire), toxic-plant checks, shelter, goat minerals, health care, and a night pen; the exit-road, wildfire, and septic sections link to it
+
 ### What success looks like
 
 - New page in Part 4 picturing a community at Tier 4 and graduation: the place, how it runs, how it feels to live there, how it stays safe, the signs it has succeeded, what success is not, and what can follow; linked from Start Here, Chapter 1, and the README
