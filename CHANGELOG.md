@@ -6,6 +6,10 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 
 ## Unreleased
 
+### Breeding
+
+- Intact males are always housed apart from females until the group votes on a written breeding plan; neutered males may live with the females, young males are separated before they can breed, and borrowing a buck, artificial insemination, or buying fertile eggs or chicks are offered as simpler options. The goats and chickens sections, the standing rules, the Tier 2 → Tier 3 trigger, the animal care sheet, and the glossary match.
+
 ### Chickens
 
 - Chickens for eggs and pest control under the animal rules from Tier 3: no rooster needed, egg handling and the local egg rules, hens in beds between crops and under fruit trees in a movable coop, kept away from the protected spider habitat, a predator-proof coop of hardware cloth, space guidelines, feed and water, a daily rota, salmonella hygiene (no handling by children under 5), bird-flu precautions, and composted manure; the market, pest-control, and spider sections link to it

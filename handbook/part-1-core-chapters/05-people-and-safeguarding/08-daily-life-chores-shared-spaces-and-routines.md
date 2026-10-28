@@ -100,9 +100,21 @@ Common spaces are the heart of daily life, and the place where small conflicts b
 - [ ] A predator plan is written: prevention first, and any farm guns under the Firearms Safety rules
 - [ ] Animals are kept away from produce, the wash-and-pack station, the food store, and drinking water (Chapters [7](../../part-2-market-engine/07-production-planning/README.md) and [10](../../part-3-site-and-infrastructure/10-water-plumbing-and-septic/README.md))
 - [ ] Manure is composted before it goes near food crops ([Chapter 7](../../part-2-market-engine/07-production-planning/README.md)), and any sale of meat, eggs, or dairy follows strict food rules ([Chapter 6](../../part-2-market-engine/06-market-business-basics/README.md))
+- [ ] Intact males are housed apart from females until the group votes to breed (see **Breeding** below)
 
 **Once animals are kept, they are fed, watered, and checked every day, with no exceptions for rest days, holidays, weather, or illness.** Water comes first, with shade in heat and thawed water in freezing weather. Add one species at a time, starting small. If the group can no longer care for them, it rehomes them responsibly.
 
+**Breeding**
+
+**Rule:** intact (not neutered) males are always kept apart from females until the group decides that breeding is needed. Neutered males, such as wether goats, may live with the females, since they can't breed.
+
+- [ ] **Separate housing for every intact male,** with fencing he can't climb, jump, or breed through. Leave a gap or a double fence between his pen and the females'.
+- [ ] **Company where the species needs it,** such as a wether to keep a buck goat company. Roosters may fight each other, so watch any that share a pen.
+- [ ] **Young males are separated before they can breed:** buck kids by about 8 weeks old, or sooner if the vet advises, and young roosters as soon as they can be told apart from the hens
+- [ ] **Breeding happens only under a written plan the group votes on:** why it's needed (such as replacing older hens, or kids so the does give milk), how many young are expected, where they will live, the cost, the vet's advice, and what happens to the young males born
+- [ ] **Often the simplest choice is not to keep a male at all:** borrow or hire a buck for the breeding season, use artificial insemination through a vet, or buy fertile eggs or young chicks from a trusted, disease-tested source
+- [ ] **Breeding season:** bucks in season smell strongly and can be aggressive, so two adults handle them, and children stay away
+- [ ] **Records:** each breeding and birth goes on the [animal care sheet](../../appendices/appendix-a-checklists/a13-animal-care-sheet.md)
 **Goats for brush and grass (optional, under the animal rules above)**
 
 Goats are browsers more than grazers. They eat grass, but they prefer brush, weeds, vines, and young shrubs, which makes them very good at clearing overgrown ground. For keeping pasture grass short and even, sheep or a mower do the job better.
@@ -120,7 +132,7 @@ Goats are browsers more than grazers. They eat grass, but they prefer brush, wee
 
 **Keeping goats**
 
-- [ ] **Never just one.** Goats are herd animals and suffer alone. Start with two or three, such as does or neutered males, which are calm and common for brush work.
+- [ ] **Never just one.** Goats are herd animals and suffer alone. Start with two or three, such as does or neutered males, which are calm and common for brush work. Any intact buck lives apart from the does (see **Breeding** above).
 - [ ] **Strong fencing,** because goats climb, squeeze, and jump: woven wire about 4-5 feet (1.2-1.5 meters) high, or electric netting, with no gaps. **Never barbed wire,** which injures them ([the barbed wire rule](06-outside-harassment-and-community-security.md) keeps livestock fencing separate). Movable electric netting lets them clear one patch at a time.
 - [ ] **Keep them out of** the gardens, greenhouses, and orchards (they strip bark and kill young trees), the wash-and-pack station, the food store, drinking water, and the septic drain field, which their hooves compact ([Septic Systems](../../part-3-site-and-infrastructure/10-water-plumbing-and-septic/04-septic-systems.md))
 - [ ] **Check the plants first.** Some common plants poison goats, such as rhododendron, azalea, mountain laurel, yew, and wilted cherry leaves. Ask the vet or the agricultural extension service for a local list, and remove or fence off anything dangerous.
@@ -137,7 +149,7 @@ A small flock of hens gives the community eggs and eats insects, grubs, slugs, a
 
 **Eggs**
 
-- **No rooster is needed** for hens to lay. Roosters are loud, and many places ban them.
+- **No rooster is needed** for hens to lay. Roosters are loud, and many places ban them. If a rooster is kept, he lives apart from the hens until the group decides to hatch chicks (see **Breeding** above).
 - **Expect fewer eggs** in winter, while hens molt, and as they age. A hen lays well for a few years but can live for many more, so decide before starting what happens to hens that stop laying.
 - **Collect eggs every day,** keep nests clean, throw out cracked or dirty eggs, and refrigerate eggs that are kept
 - **Eggs are a regulated food.** The community's own share is fine, but eggs are sold or given outside the households only under the local egg rules, which often cover licensing, labeling, cleaning, and cold storage ([Chapter 6](../../part-2-market-engine/06-market-business-basics/01-getting-started.md))
