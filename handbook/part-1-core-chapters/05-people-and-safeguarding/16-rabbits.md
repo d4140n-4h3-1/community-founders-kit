@@ -52,4 +52,4 @@ Rabbits breed faster than any other animal in this handbook. A doe (female) is p
 
 ---
 
-← **Previous:** [Chickens](13-chickens.md) · **Next:** [Bees](15-bees.md) →
+← **Previous:** [Ducks](15-ducks.md) · **Next:** [Bees](17-bees.md) →

@@ -41,4 +41,4 @@ Chickens scratch up seedlings, eat young plants and ripe fruit, and dust-bathe i
 
 ---
 
-← **Previous:** [Sheep](12-sheep.md) · **Next:** [Rabbits](14-rabbits.md) →
+← **Previous:** [Sheep](12-sheep.md) · **Next:** [Guinea Fowl](14-guinea-fowl.md) →

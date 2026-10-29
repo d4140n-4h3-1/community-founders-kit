@@ -12,4 +12,4 @@
 
 ---
 
-← **Previous:** [Tier Fit and Common Failures](../part-1-core-chapters/05-people-and-safeguarding/16-tier-fit-and-common-failures.md) · **Next:** [6. Market Business Basics](06-market-business-basics/README.md) →
+← **Previous:** [Tier Fit and Common Failures](../part-1-core-chapters/05-people-and-safeguarding/18-tier-fit-and-common-failures.md) · **Next:** [6. Market Business Basics](06-market-business-basics/README.md) →

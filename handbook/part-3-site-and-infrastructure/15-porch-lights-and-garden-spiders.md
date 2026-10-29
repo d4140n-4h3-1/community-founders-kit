@@ -19,7 +19,7 @@
 - **Do not kill, sweep away, or spray garden spiders.** Orb weavers and other web builders catch mosquitoes, flies, moths, and garden pests.
 - Move a web only if it blocks a door or path. Gently relocate the spider to a nearby shrub or fence with a cup and card.
 - Webs near porch lights help: spiders build there to catch the insects the light draws
-- Leave a few undisturbed spots, like fence corners and tall plants, as habitat, out of reach of any chickens, which eat spiders ([Chickens](../part-1-core-chapters/05-people-and-safeguarding/13-chickens.md))
+- Leave a few undisturbed spots, like fence corners and tall plants, as habitat, out of reach of any chickens or guinea fowl, which eat spiders ([Chickens](../part-1-core-chapters/05-people-and-safeguarding/13-chickens.md), [Guinea Fowl](../part-1-core-chapters/05-people-and-safeguarding/14-guinea-fowl.md))
 - No broad-spectrum insecticides in or near gardens
 
 ## Know Your Spiders

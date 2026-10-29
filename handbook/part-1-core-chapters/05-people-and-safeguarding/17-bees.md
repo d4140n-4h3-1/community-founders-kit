@@ -49,4 +49,4 @@ Honeybees pollinate fruit trees, berries, squash, cucumbers, melons, and many ot
 
 ---
 
-← **Previous:** [Rabbits](14-rabbits.md) · **Next:** [Tier Fit and Common Failures](16-tier-fit-and-common-failures.md) →
+← **Previous:** [Rabbits](16-rabbits.md) · **Next:** [Tier Fit and Common Failures](18-tier-fit-and-common-failures.md) →

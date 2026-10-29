@@ -4,7 +4,7 @@
 
 **Rule:** farm animals are optional. The community keeps its own animals only from Tier 3, after a group vote, once every item below is true. **Animals owned and cared for by an outside service,** such as a hired grazing service or a local beekeeper's hosted hives, may come at any tier, with the landowner's permission, a written agreement covering care, fencing, and liability, and proof that the service is insured.
 
-This page holds the rules for every animal: the conditions for keeping them, breeding, and identification. Each kind of animal has its own page: [Guardian Animals](10-guardian-animals.md), [Goats](11-goats.md), [Sheep](12-sheep.md), [Chickens](13-chickens.md), [Rabbits](14-rabbits.md), and [Bees](15-bees.md).
+This page holds the rules for every animal: the conditions for keeping them, breeding, and identification. Each kind of animal has its own page: [Guardian Animals](10-guardian-animals.md), [Goats](11-goats.md), [Sheep](12-sheep.md), [Chickens](13-chickens.md), [Guinea Fowl](14-guinea-fowl.md), [Ducks](15-ducks.md), [Rabbits](16-rabbits.md), and [Bees](17-bees.md).
 
 ## Rules for Keeping Animals
 
@@ -28,7 +28,7 @@ This page holds the rules for every animal: the conditions for keeping them, bre
 
 - [ ] **Separate housing for every intact male,** with fencing he can't climb, jump, or breed through. Leave a gap or a double fence between his pen and the females'.
 - [ ] **Company where the species needs it,** such as a wether to keep a buck goat or a ram company. Roosters may fight each other, so watch any that share a pen.
-- [ ] **Young males are separated before they can breed:** buck kids by about 8 weeks old and ram lambs by about 3 months old, or sooner if the vet advises, young roosters as soon as they can be told apart from the hens, and rabbit kits by about 8 weeks old (see [Rabbits](14-rabbits.md))
+- [ ] **Young males are separated before they can breed:** buck kids by about 8 weeks old and ram lambs by about 3 months old, or sooner if the vet advises, young roosters, guinea fowl males, and drakes as soon as they can be told apart from the females, and rabbit kits by about 8 weeks old (see [Rabbits](16-rabbits.md))
 - [ ] **Breeding happens only under a written plan the group votes on:** why it's needed (such as replacing older hens, or kids so the does give milk), how many young are expected, where they will live, the cost, the vet's advice, and what happens to the young males born
 - [ ] **Often the simplest choice is not to keep a male at all:** borrow or hire a buck for the breeding season, use artificial insemination through a vet, or buy fertile eggs or young chicks from a trusted, disease-tested source
 - [ ] **Breeding season:** bucks in season smell strongly and can be aggressive, and rams can charge without warning, so two adults handle them, no one turns their back on a ram, and children stay away

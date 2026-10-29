@@ -50,4 +50,4 @@
 
 ---
 
-← **Previous:** [Bees](15-bees.md) · **Next:** [Part 2: The Market Engine](../../part-2-market-engine/README.md) →
+← **Previous:** [Bees](17-bees.md) · **Next:** [Part 2: The Market Engine](../../part-2-market-engine/README.md) →

@@ -6,7 +6,11 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 
 ## Unreleased
 
-Nothing yet.
+### Guinea fowl and ducks
+
+- New Guinea Fowl page: ticks and insects on pasture and field edges with little damage to plants, a loud early warning, talking to neighbors about the noise, raising keets in the coop for about six weeks so they come home, locking them in at night, separating males, seasonal eggs, and the poultry hygiene and bird-flu rules
+- New Ducks page: slugs and snails, good laying, head-deep water changed daily and kept away from the drinking water and septic field, a ground-level shelter with dry bedding, waterfowl feed with niacin for ducklings, separating drakes, and extra bird-flu care around wild waterfowl
+- Rabbits, Bees, and Tier Fit pages renumbered to keep the reading order; the animals index, breeding rule, market table, pest-control order, spider habitat, and glossary updated
 
 ## 2026-10-28: Pilot edition
 
