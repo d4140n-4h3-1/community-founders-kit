@@ -8,7 +8,7 @@
 - Fix the worst mud with ditches and donated gravel
 - LED lanterns only; amber lights near tents
 - Lockable, rodent-proof bins for food
-- One or two small beds, easy crops, and a soil test; feed the community first and sell only surplus
+- One or two small beds, easy crops, bottle irrigation, and a soil test; feed the community first and sell only surplus
 - Consult an accountant before the first sale; start the compliance calendar and the sales log
 - A one-page budget and an expense log, with receipts kept from day one
 - Membership agreement signed by all adults, conduct rules, a first-aid kit, one trained first-aider, posted emergency numbers, and a simple conflict process

@@ -22,7 +22,7 @@ Clean water in, wastewater out, and nothing freezing in between. Plumbing follow
   - A stored reserve of sealed drinking water, and the "don't drink, test first" rule posted ([Protecting the Water Supply](05-safety-maintenance-and-failures.md#protecting-the-water-supply))
   - Handwashing station with soap and a catch bucket
   - Toilet access that is legal for the site (a serviced portable toilet, or a permitted option)
-  - Garden watering from rain barrels, hauled water, or a borrowed hose
+  - Garden watering from rain barrels, hauled water, or a borrowed hose, with [bottle irrigation](../../part-2-market-engine/07-production-planning/02-growing-practices.md#bottle-irrigation) to make each fill last
 - **Tier 1:**
   - Reliable water source: well, public water hookup, or large tank refilled by a hauler
   - Lab test on file

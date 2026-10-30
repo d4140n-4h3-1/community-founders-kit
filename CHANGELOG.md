@@ -6,6 +6,10 @@ Changes to the handbook itself, newest first. A community's own decisions go in 
 
 ## Unreleased
 
+### Bottle irrigation
+
+- Bottle irrigation from Tier 0: reused drink bottles with small holes, buried beside plants, capped against mosquitoes, filled every one to three days, checked weekly, and replaced each season, with clay pots (ollas) as a longer-lasting option; the crop tier fit, the Tier 0 summary, the Tier 0 water plan, and the glossary mention it
+
 ### Guinea fowl and ducks
 
 - New Guinea Fowl page: ticks and insects on pasture and field edges with little damage to plants, a loud early warning, talking to neighbors about the noise, raising keets in the coop for about six weeks so they come home, locking them in at night, separating males, seasonal eggs, and the poultry hygiene and bird-flu rules

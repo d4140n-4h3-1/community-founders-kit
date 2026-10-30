@@ -4,7 +4,7 @@
 
 ## Tier Fit
 
-- **Tier 0:** one or two small beds or containers, hand tools, easy crops, low tunnels or cold frames. Feed the community first, and sell only surplus.
+- **Tier 0:** one or two small beds or containers, hand tools, easy crops, low tunnels or cold frames, and [bottle irrigation](02-growing-practices.md#bottle-irrigation). Feed the community first, and sell only surplus.
 - **Tier 1:** a market plot, the hoop house, drip irrigation, and seedlings. Three to five market crops, with a crop plan and harvest log.
 - **Tier 2:** a greenhouse, the wash-and-pack station, succession planting, and cold storage for harvest. Start fruit trees and berries, and consider value-added products. Add crop protection basics.
 - **Tier 3:** more growing space, a heated greenhouse for year-round work, and a second market day. Track yield and labor per crop.

@@ -115,6 +115,8 @@ Plain meanings for the words this handbook uses in its own way. Where a term has
 | **Kit** | A young rabbit. Kits are separated by sex by about 8 weeks old, before the young bucks can breed. |
 | **Hive hosting** | Letting a local beekeeper place and care for hives on the community's land, often in return for some honey. |
 | **Varroa mite** | A tiny parasite of honeybees, and the main threat to a hive's health. Checked for and treated on a schedule. |
+| **Bottle irrigation** | Reused drink bottles with small holes, buried beside plants and filled with water, which seeps slowly to the roots ([Chapter 7](../part-2-market-engine/07-production-planning/02-growing-practices.md#bottle-irrigation)). |
+| **Olla** | An unglazed clay pot buried in a bed and filled with water, a longer-lasting form of bottle irrigation. |
 | **Chicken tractor** | A movable coop or pen, shifted every few days, so hens clear pests and weeds from one patch at a time without scratching it bare. |
 | **Targeted grazing** | Using goats, sheep, or other animals to clear brush, weeds, or grass from a chosen area, often by hiring a service that brings its own animals, fencing, and water. |
 | **Remote medical plan** | A medical plan sized to how long help takes to arrive, with a way to call with no cell signal and a helicopter landing spot ([Chapter 5](../part-1-core-chapters/05-people-and-safeguarding/04-health-leadership-and-leaving.md#remote-medical-plan)). |

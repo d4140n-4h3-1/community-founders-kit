@@ -27,6 +27,33 @@
 - Use **potable water** to wash produce. If irrigation water touches the edible part of a crop, check local food-safety rules and test the source if it is surface water.
 - Check graywater rules before using it on any bed
 - Record water use in the expense log
+- **Bottle irrigation** for small beds and containers, especially before drip lines are affordable (see [Bottle Irrigation](#bottle-irrigation))
+
+## Bottle Irrigation
+
+**Rule:** at Tier 0 and up, reused plastic bottles can water plants slowly at the roots. Water seeps out through small holes into the soil, so less is lost to evaporation and runoff, and the plants need watering less often. It costs almost nothing and suits raised beds, containers, tomatoes, squash, peppers, and newly planted trees and bushes.
+
+**Making and placing them**
+
+- [ ] **Use drink bottles only,** about 1-2 liters (1-2 quarts), rinsed clean. Never use a bottle that held fuel, pesticides, cleaners, or other chemicals.
+- [ ] **Make two to four small holes,** about 1-2 millimeters (1/16 inch) across, near the bottom of the bottle, with an awl or a heated nail. Test it before burying: it should empty over a day or two, not in minutes. Make the holes bigger or add more for sandy soil and hot weather, fewer for clay.
+- [ ] **Bury it upright beside the plant,** about 2-4 inches (5-10 centimeters) from the stem, with the neck above the soil so it can be refilled. One bottle serves one large plant, or two or three small ones planted around it.
+- [ ] **Or turn it upside down:** fill it, put on a cap with a few small holes, and push the neck into the soil next to the roots
+- [ ] **Keep it capped or covered** between fillings, so dirt, leaves, and insects stay out and mosquitoes can't breed in the water ([Chapter 15](../../part-3-site-and-infrastructure/15-porch-lights-and-garden-spiders.md))
+
+**Using them**
+
+- [ ] **Fill through a funnel** every one to three days, more often in heat and wind, using rainwater or the same water as the rest of the beds. No graywater unless the local rules allow it.
+- [ ] **Mulch over the soil** around the bottles to hold the moisture in
+- [ ] **Check each week** for clogged holes, cracks, and bottles that empty too fast or not at all
+- [ ] **Replace bottles each season,** before sunlight makes them brittle, so plastic doesn't break up in the soil. Recycle the old ones.
+- [ ] **For a longer-lasting version,** bury unglazed clay pots (often called ollas) the same way. They cost more but last for years.
+
+**Tier fit**
+
+- **Tier 0-1:** bottles for the first beds and containers, filled by hand on the chore rota
+- **Tier 1-2:** drip irrigation on timers takes over the market beds, and bottles stay useful for containers, new trees, and beds far from a hose
+- **Tier 3 and up:** clay pots or drip lines for anything permanent
 
 ## Pests and Disease
 
